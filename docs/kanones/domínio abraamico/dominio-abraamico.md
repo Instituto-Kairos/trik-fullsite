@@ -7,7 +7,7 @@
 
 **Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder.
 
-**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C.
+**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo.
 
 **Santos Vigias**: Também chamado de Sentinelas, é o grupos de Anjos formado pelos Sete Arcanjos, sendo eles Miguel, Uriel, Rafael, Raguel, Miguel, Sarakiel, Gabriel.
 
