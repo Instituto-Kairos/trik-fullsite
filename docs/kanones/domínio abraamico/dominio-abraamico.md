@@ -3,20 +3,36 @@
 
 ## Glossário
 
+**Descendentes da Luz**: termo guarda-chuva para todos que tem origem Santa;
+
+**Descendentes da Sombra**: termo guarda-chuva para todos que tem origem Excomungada;
+
+**Divino/Divina/Divini/Divin**: entidade divina criadora do nosso mundo como ele é, criou cada folha e cada estrela, tendo  nosso universo como sua obra;
+
 **Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins.
 
-**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder.
+**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilim também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilim são chamados de Nati-Nefilim.
 
 **Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo.
 
+**Lâmina Sagrada**: Uma lâmina que foi resfriada em água sacra, feita por qualquer fiél que tenha cumprido o segundo elo. Essa prática era muito comum antes da Grande Chuva, se tornando uma tradição rara até os Anos Clássicos, quando essa prática deu espaço a armas mais versáteis aos demônios que assolavam a terra.
+
+**Linha Ley**: Rios de Energia invisivéis aos olhos, vestigios do poder glorioso da Divina ao criar o universo;
+
+**Milagre**: é quando alguém que descende da luz tem seu dom despertado.
+
+**Mistério**: é quando alguém que descende da sombra tem seu dom despertado. Na biblia, essa palavra é usada para qualquer ação sem explicação, de origem santa ou não. Em nossos registros, temos denominações diferentes. É chamado de mistério porque preferimos desconhecer sua origem.
+
+**Sacra Scriptura**: Nosso livro sagrado, onde consta toda nossa história, valores e principios. Só existe cópias feitas a mão de todas as 77 páginas.
+
 **Santos Vigias**: Também chamado de Sentinelas, é o grupos de Anjos formado pelos Sete Arcanjos, sendo eles Miguel, Uriel, Rafael, Raguel, Miguel, Sarakiel, Gabriel.
+
+**Scismatici**: Como a Domus Sancta chama o grupo de Fanáticos Religiosos que tentaram clonar os Milagres. Essa é apenas uma de suas práticas que vai contra os principios Divinos. 
 
 ## O Sagrado Sangue
 ㅤㅤㅤ ㅤO misticismo se espalha nesse campo com a ideia de que a fonte de poder está no sangue. É necessário apenas uma gota de sangue divino para abençoar eternamente uma linhagem, que pode gerar "crianças douradas" sem qualquer tipo de padrão ou condição de nascimento. O surgimento dessas crianças não é conquistado, nem pedido por orações. É uma Dádiva dada pela Divina, que não cabe a nós, ibad, entender ou questionar.
 
-ㅤㅤㅤ ㅤEsse sangue tem o poder de conceder **um dom** para o portador. Quando esse dom é desperdado, é chamado de **Milagre**. Um Milagre é quando uma pessoa é revelada como portadora da luz divina. Alguns Cismáticos (grupo transgressor da Sacra Scriptura) tinham a crença popular de que injetar o sangue dourado (literalmente dourado) poderia migrar ou multiplicar esses dons. Assim, então, surgiram as **Maldições.**ㅤEsse sangue, dourado e sagrado, não pode ser retirado por agulhas e métodos convencionais. Só pode ser retirado ao corpo da criança dourada (o termo é usado independente da idade) com um corte feito por uma lâmina sagrada.
-
-ㅤㅤㅤ ㅤUma lâmina sagrada é uma lâmina que foi resfriada em água sacra, feita por qualquer fiél que tenha cumprido o segundo elo. Essa prática era muito comum antes da Grande Chuva, se tornando uma tradição rara até os Anos Clássicos, quando essa prática deu espaço a armas mais versáteis aos demônios que assolavam a terra.
+ㅤㅤㅤ ㅤEsse sangue tem o poder de conceder **um dom** para o portador. Alguns **Scismatici** tinham a crença popular de que injetar o sangue dourado (literalmente dourado) poderia migrar ou multiplicar esses dons. Assim, então, surgiram as **Maldições.**ㅤEsse sangue, dourado e sagrado, não pode ser retirado por agulhas e métodos convencionais. Só pode ser retirado ao corpo da criança dourada (o termo é usado independente da idade) com um corte feito por uma lâmina sagrada.
 
 ㅤㅤㅤ ㅤEsses conceitos aprendidos, a história pode ser contada.
 
@@ -32,16 +48,26 @@
 6. Ganância: não cabe aos Anjos o poder e a fama;
 7. Luxúria: não cabe aos Anjos os exageros e os vícios;
 
-ㅤㅤㅤ ㅤAntes da Grande Chuva, um grupo de Anjos nomeado Grigori decidiu se unir aos humanos e com eles terem proles, chamadas de Nefilins. Os Santos Vigias (formado pelos Arcanjos e outros Anjos) então puniram os Grigori. Esses gigantes semidivinos assombravam a terra e por isso a Divina fez chover por setenta e sete dias, limpando a terra dos Pecados Primordiais.
+## Os Pesares e os Penitentes
+ㅤㅤㅤ ㅤOs anjos que deixaram o palácio dos céus pelo quarto pecado são chamados de Pesares. Comumente, se acumulam em cemitérios, onde sua tristeza eterna faz com que pareçam com estatuas. Tornaram-se guardiões desses lugares, conversando muitas vezes com as almas antes que se sentissem prontas para seguir a travessia e pequenos conforto aos enlutados. Esses anjos não se sentem digno de se permitir amar e ser amado, já que foi rejeitado pelo amor divino e isso os entristece eternamente, mas ainda são cheios de compaixão e, por isso, seu Pesar conforta os **Penitentes**. Esse grupo são seguidores dos Pesares, que os adota como suas crianças. É um grupo milagroso, sua fé, penitência e perseverança acaba por leva-los a lugares que nenhum outro pisou.
+
+[Anedotas da Domus Sancta #2: Paladinos]
+> "Eles são paladinos"
+> "Esse não é um conceito real, é um conceito fantasioso dos jogos que você joga."
+> "O jogo ser fantasioso não faz o *conceito* ser fantasioso. O conceito é real. E cabe aqui, Pater Domingos. Acredito que na Sacra Scriptura diz que muitas vezes caminhos paralelos e até mesmo opostos que o nosso chega as mesmas conclusões e, ouso fazer minha próxima afirmação, acredito que toda criação humana tem um fundo de verdade por mais fantasiosa e imaginária que pareça. Peço, então, que me permita chamar as coisas pelo que são."
+> "Pois bem, Abin, *così sia*¹"
+> ¹Cosi Sia: "Assim Seja", em italiano. Na Domus Sancta é usada como uma autorização suprema, pois é a frase que encerra cada capitulo da Sacra Scriptura.
+
+ㅤㅤㅤ ㅤOs Penitentes são como Paladinos. Soldados divinos que vivem em constante batalhas e provações pelo seu estado de penitência e, muitas vezes, recebem forças sobrehumanas para isso, não sabendo dizer se vem diretamente da Divina, dos Pesares ou de alguma benção por sua perseverança e trabalho. De acordo com o próprio grupo, eles mesmo não possuem dons, apenas são instrumentos as vezes usado pelo divino para atingir um objetivo sagrado. Interpretações de fora não tem nenhum valor nesse caso, visto que são principios religiosos particulares desse grupo.
 
 ## Os Dons
 ㅤㅤㅤ ㅤUm talento único de cada criança dourada. Criança dourada é um termo popular para duas categorias oficias dentro do Panteão Judaico, mas formalmente é chamado de **Aurélicos** ou **Ungidos**. Alguns exemplos de Dons Reconhecidos pela Domus Sancta:
 
-1. A cura dos enfermos;
-2. A língua dos Anjos;
-3. A transfiguração;
-4. Visões;
-5. Telepatia;
+1. A cura dos enfermos: curar doenças incuráveis, reverter quadros graves, terminar epidemias;
+2. A língua dos Anjos: comunicarse com o divino, ler escritas sagradas, orações mais poderosas;
+3. A transfiguração: transformar água em vinho, galhos em adagas, pedras em frutas;
+4. Visões: previsões do futuro, presságios enigmáticos;
+5. Telepatia: comunicar-se como uma só mente;
 
 ### Os Aurélicos
 ㅤㅤㅤ ㅤDescendentes diretos de uma família que recebeu o sangue de um anjo antes da Grande Chuva (o Dilúvio). Esse sangue podia ter sido recebido como um presente (a forma mais correta de acordo com as escrituras), dado para a família beber, ou da forma "impura", que seria esses anjos se deitando com humanos e gerando os nefilins. Nefilins não são Aurélicos, mas seus filhos são. 
@@ -49,7 +75,7 @@
 ㅤㅤㅤ ㅤNefilins, por si só, *são outra categoria*, essa tida como **proibida**. Os Grigori, que deram origem aos Nefilins, foram punidos pelos Santos Vigiais antes da Grande Chuva e aceitaram sua punição. Qualquer tentativa de cruzar esse limite imposto causaria, novamente, uma punição direta e poderia gerar intervenções divinas.
 
 ### Os Ungidos
-ㅤㅤㅤ ㅤSeguindo os caminho divino, os Ungidos seriam os que ganham bençãos. Esse vínculo não é passado de maneira heriditária, mas uma linhagem que em algum momento recebe o olhar direto da Divina tende a ter um pouco mais de sorte em toda sua história. Essa é a maneira mais correta e comum dos Milagres.
+ㅤㅤㅤ ㅤSeguindo o caminho divino, os Ungidos seriam os que ganham bençãos. Esse vínculo não é passado de maneira heriditária, mas uma linhagem que em algum momento recebe o olhar direto da Divina tende a ter um pouco mais de sorte em toda sua história. Uma família uma vez presenteada com uma Benção tem mais chances de futuramente, outro membro, ser presenteado também. Essas linhagens são conhecidas como Linhagem em Linha Ley. Essa é a maneira mais correta e comum dos Milagres.
 
 ## As Maldições
 ㅤㅤㅤ ㅤOs que trascendem os limites e tentam roubar os Milagres de outros, acaba por amaldiçoar toda uma linhagem. Nas práticas de transfusão de sangue, os Maníacos podiam tentar induzir um Milagre, condenando o receptor. Diferente dos Milagres, o dom adquirido por quem passa por esse processo raramente é tão eficazes e não vale os riscos. Nesses casos, ao invés de nomear como Milagre, é nomeado como **Mistérios**, pois a recomendação das escrituras é que suas origem permaneça em segredo, sendo um passado a ser esquecido. Quem possui Mistérios é chamado de **Marcado**. Algumas das maldições e mistérios reconhecidos pela Domus Sancta:
@@ -61,15 +87,21 @@
 ㅤㅤㅤ ㅤUma pessoa Marcada pode possuir vestigios de um dom da fonte original do Milagre, mas as suas consequências são muito mais marcantes. Problemas respiratórios ou cardiacos são comuns e, muitas vezes, Marcados não conseguem ter uma vida longa. A única forma de reverter é uma intervenção divina, transformando o Marcado em um **Tocado**. Esse tipo de intervenção foi vista apenas uma vez até os dias atuais.
 
 ### Os Marcados
-ㅤㅤㅤ ㅤDurante o Império Romano e antes da
+ㅤㅤㅤ ㅤDurante o Império Romano e antes da conversão do mesmo ao Cristianismo, muitos sacerdotes tentaram replicar os milagres em seus soldados, tentando torna-los mais fortes e mais poderosos para uma luta. Nessa época que os artigos e documentos médicos usados pelos Scismatici surgiram. O sangue de pessoas que tinham algum dom era coletado e injetado em soldados, com o objetivo de fazê-los mais fortes. Alguns nobres e em posição de poder também se submeteram ao procedimento. Esse hábito gerou uma rivalidade entre as divindades Romanas e nossa Divina.
+
+ㅤㅤㅤ ㅤEsses marcados demostravam alguma melhora, sem padrões. Alguns cresciam mais trinta centimetros, outros a força se tornava a de dez homens, outros começavam a ter visões de ataques antes de acontecerem, mas teve um preço: não viveram muito, amaldiçoaram suas linhagens, desenvolveram doenças cardiacas, respiratórias e seus rins falhavam, o corpo não suportando o novo sangue.
 
 ### Os Tocados
+ㅤㅤㅤ ㅤApesar de existir apenas um registro disso, e ser uma informação confidencial da Domus Sancta, não é certo tratar o ato como único. Temos apenas *um* registro, mas não significa que existiu só um. Podemos garantir a existência apenas de um, mas outros podem ter acontecido no silêncio de suas casas, longe de pergaminhos e penas para registrar o evento. A Divina não tem favoritos e, por isso, jamais limitaria seu poder a uma única intervenção.
+ㅤㅤㅤ ㅤ
+ㅤㅤㅤ ㅤUm Tocado tem suas doenças curadas e seu sofrimento amenizado. O que acontece com o dom que demostrava é incerto. No registro que temos, o dom de visões foi também diminuido sua frequência. Não sabemos como outros podem reagir ao Toque Divino.
 
 ## Nefilins e Tiferinos
 ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilins, que já nasceram fora do palácio dos céus. 
 
 ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilins, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
+s
+> Esse registro foi documentado pelo Shai' Lincoln, sob supervisão de Adil' Domingos, da Matre Domus Sancta, a primeira casa sagrada construida, no Vaticano.
 
-ㅤㅤㅤ ㅤEsse registro foi documentado pelo Shai' Lincoln, sob supervisão de Adil' Domingos, da Matre Domus Sancta, a primeira casa sagrada construida, no Vaticano.
 ---
 ***Notas do Narrador:** esse documento não tem e não pretende possuir nenhum valor religioso. É apenas uma representação fictícia de conceitos comuns em religiões de origem judaica, sem qualquer intenção de ofender ou desrespeitar a fé. Nenhum conceito criado e apresentado nesse documento tem como função teorizar ou conspirar contra práticas de fé.*

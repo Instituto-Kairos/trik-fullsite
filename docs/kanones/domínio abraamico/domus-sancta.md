@@ -33,3 +33,11 @@
 ㅤㅤㅤ ㅤ**Sétimo Elo**: Quando esse Adil ou Adila prepara sete novos Uddāl, ele recebe o Sétimo e Último Elo de sua corrente, firmando eternamente seu vínculo com a Divina e sua casa perando o Pálacio dos Céus.
 
 ## Os Sete Dogmas
+
+1. Todo caminho leva para o mesmo lugar, pois só existe um lugar;
+2. Você é feito de tudo e tudo é feito de você, pois todos nasceram da mesma fonte;
+3. Ame a si mesmo como ama a Divina, e ame os outros como ama a sí mesmo, pois são um só;
+4. Você é livre para fazer absolutamente qualquer coisa, desde que as consequências caiam somente sobre você, pois esse é seu limite;
+5. Não existe pecado imperdoavél desde que o arrepedimento seja equivalente ao crime, pois a Divina é misericordiosa;
+6. A justiça dos homens não cobre a justiça divina, pois a Divina não esquece;
+7. Tudo é visto, tudo é ouvido. *Cosi sia.*
