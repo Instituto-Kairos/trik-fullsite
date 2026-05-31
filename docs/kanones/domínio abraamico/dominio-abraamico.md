@@ -104,4 +104,4 @@ s
 > Esse registro foi documentado pelo Shai' Lincoln, sob supervisão de Adil' Domingos, da Matre Domus Sancta, a primeira casa sagrada construida, no Vaticano.
 
 ---
-***Notas do Narrador:** esse documento não tem e não pretende possuir nenhum valor religioso. É apenas uma representação fictícia de conceitos comuns em religiões de origem judaica, sem qualquer intenção de ofender ou desrespeitar a fé. Nenhum conceito criado e apresentado nesse documento tem como função teorizar ou conspirar contra práticas de fé.*
+***Notas do Narrador:** esse documento não tem e não pretende possuir nenhum valor religioso. É apenas uma representação fictícia de conceitos comuns em religiões de origem abraãmica, sem qualquer intenção de ofender ou desrespeitar a fé. Nenhum conceito criado e apresentado nesse documento tem como função teorizar ou conspirar contra práticas religiosas. Foi utilizado hebraico, aramaico, árabe, italiano, francês e latim para diversas palavras utilizadas nesse texto. Se você tem informações idiomáticas ou culturais para oferecer, por favor entre em contato com equipeik@rpg-institutokairos.org, queremos te ouvir!*
