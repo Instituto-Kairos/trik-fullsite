@@ -1,33 +1,35 @@
 # il Dominium Ibraahimiy
-*Esse documento segue as diretrizes e escrituras da **[Domus Sancta](/docs/kanones/domínio%20abraamico/domus-sancta.md)**. Escrito por Shai' Lincoln, sob supervisão de Adil' Domingos, da **[Matre Domus Sancta]()**.*
+*Esse documento segue as diretrizes e escrituras da* ***[Domus Sancta]()***. *Escrito por Shai' Lincoln, sob supervisão de Adil' Domingos, da* ***[Matre Domus Sancta]()***.
+
+<!-- CONTENT -->
 
 ## Glossário
 
-**Descendentes da Luz**: termo guarda-chuva para todos que tem origem Santa;
+ㅤㅤㅤ ㅤ**Descendentes da Luz**: termo guarda-chuva para todos que tem origem Santa;
 
-**Descendentes da Sombra**: termo guarda-chuva para todos que tem origem Excomungada;
+ㅤㅤㅤ ㅤ**Descendentes da Sombra**: termo guarda-chuva para todos que tem origem Excomungada;
 
-**Divino/Divina/Divini/Divin**: entidade divina criadora do nosso mundo como ele é, criou cada folha e cada estrela, tendo  nosso universo como sua obra;
+ㅤㅤㅤ ㅤ**Divino/Divina/Divini/Divin**: entidade divina criadora do nosso mundo como ele é, criou cada folha e cada estrela, tendo  nosso universo como sua obra;
 
-**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins.
+ㅤㅤㅤ ㅤ**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins;
 
-**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilim também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilim são chamados de Nati-Nefilim.
+ㅤㅤㅤ ㅤ**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilim também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilim são chamados de Nati-Nefilim;
 
-**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo.
+ㅤㅤㅤ ㅤ**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo;
 
-**Lâmina Sagrada**: Uma lâmina que foi resfriada em água sacra, feita por qualquer fiél que tenha cumprido o segundo elo. Essa prática era muito comum antes da Grande Chuva, se tornando uma tradição rara até os Anos Clássicos, quando essa prática deu espaço a armas mais versáteis aos demônios que assolavam a terra.
+ㅤㅤㅤ ㅤ**Lâmina Sagrada**: Uma lâmina que foi resfriada em água sacra, feita por qualquer fiél que tenha cumprido o segundo elo. Essa prática era muito comum antes da Grande Chuva, se tornando uma tradição rara até os Anos Clássicos, quando essa prática deu espaço a armas mais versáteis aos demônios que assolavam a terra;
 
-**Linha Ley**: Rios de Energia invisivéis aos olhos, vestigios do poder glorioso da Divina ao criar o universo;
+ㅤㅤㅤ ㅤ**Linha Ley**: Rios de Energia invisivéis aos olhos, vestigios do poder glorioso da Divina ao criar o universo;
 
-**Milagre**: é quando alguém que descende da luz tem seu dom despertado.
+ㅤㅤㅤ ㅤ**Milagre**: é quando alguém que descende da luz tem seu dom despertado;
 
-**Mistério**: é quando alguém que descende da sombra tem seu dom despertado. Na biblia, essa palavra é usada para qualquer ação sem explicação, de origem santa ou não. Em nossos registros, temos denominações diferentes. É chamado de mistério porque preferimos desconhecer sua origem.
+ㅤㅤㅤ ㅤ**Mistério**: é quando alguém que descende da sombra tem seu dom despertado. Na biblia, essa palavra é usada para qualquer ação sem explicação, de origem santa ou não. Em nossos registros, temos denominações diferentes. É chamado de mistério porque preferimos desconhecer sua origem;
 
-**Sacra Scriptura**: Nosso livro sagrado, onde consta toda nossa história, valores e principios. Só existe cópias feitas a mão de todas as 77 páginas.
+ㅤㅤㅤ ㅤ**Sacra Scriptura**: Nosso livro sagrado, onde consta toda nossa história, valores e principios. Só existe cópias feitas a mão de todas as 77 páginas;
 
-**Santos Vigias**: Também chamado de Sentinelas, é o grupos de Anjos formado pelos Sete Arcanjos, sendo eles Miguel, Uriel, Rafael, Raguel, Miguel, Sarakiel, Gabriel.
+ㅤㅤㅤ ㅤ**Santos Vigias**: Também chamado de Sentinelas, é o grupos de Anjos formado pelos Sete Arcanjos, sendo eles Miguel, Uriel, Rafael, Raguel, Miguel, Sarakiel, Gabriel;
 
-**Scismatici**: Como a Domus Sancta chama o grupo de Fanáticos Religiosos que tentaram clonar os Milagres. Essa é apenas uma de suas práticas que vai contra os principios Divinos. 
+ㅤㅤㅤ ㅤ**Scismatici**: Como a Domus Sancta chama o grupo de Fanáticos Religiosos que tentaram clonar os Milagres. Essa é apenas uma de suas práticas que vai contra os principios Divinos;
 
 ## O Sagrado Sangue
 ㅤㅤㅤ ㅤO misticismo se espalha nesse campo com a ideia de que a fonte de poder está no sangue. É necessário apenas uma gota de sangue divino para abençoar eternamente uma linhagem, que pode gerar "crianças douradas" sem qualquer tipo de padrão ou condição de nascimento. O surgimento dessas crianças não é conquistado, nem pedido por orações. É uma Dádiva dada pela Divina, que não cabe a nós, ibad, entender ou questionar.

@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: monospace;
 }
 
 nav {
@@ -15,4 +16,81 @@ nav .three-section-model {
     align-items: center;
 
     height: 60px;
+}
+
+nav .first {
+    width: 33%;
+    padding-left: 5%;
+    color: white;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+nav .second {
+    width: 33%;
+    color: white;
+    font-family: monospace;
+}
+
+nav .third {
+    width: 33%;
+    color: white;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: row;
+}
+
+.main a {
+    color: white;
+    align-self: flex-end;
+}
+
+.main .lateral-painel {
+    width: 15%;
+    height: 100%;
+    background-color: #545454;
+    border: 1px, solid, red;
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+}
+
+.main .content {
+    background-color: #7e7e7e;
+    width: 85%;
+    height: 100%;
+    border: 1px, solid, rgb(0, 255, 51);
+    display: flex;
+    flex-direction: column;
+}
+
+.main .content .header {
+    width: 100%;
+    background-color: #afafaf;
+    border: 1px, solid, rgb(0, 255, 51);
+}
+
+.main .content .text {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    border: 1px, solid, rgb(17, 0, 255);
+    overflow-y: auto;
 }

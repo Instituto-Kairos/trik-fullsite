@@ -1,6 +1,11 @@
-export function renderMarkdown(markdown) {
+export function renderMarkdown(
+    headerMarkdown,
+    contentMarkdown
+) {
 
-    const html = marked.parse(markdown);
+    document.getElementById("header").innerHTML =
+        marked.parse(headerMarkdown);
 
-    document.getElementById("content").innerHTML = html;
+    document.getElementById("content").innerHTML =
+        marked.parse(contentMarkdown);
 }
