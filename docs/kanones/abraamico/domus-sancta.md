@@ -1,6 +1,8 @@
 # la Domus Sancta
 > n/a: adicionar descrição da casa; 
 
+<!-- CONTENT -->
+
 ## Organização & Cargos
 
 ㅤㅤㅤ ㅤDentro de nossa casa santa, somos divididos entre: os **Uddāl** (singular *Adil*, *Adila* no feminino), nossos líderes dentro da Casa; os **Razayim** (singular *Raz*), que são nossos devotos, que vivem dentro da Casa de maneira integral e dedicam sua vida para a Casa; os **Nahayim** (singular *Naham*), devotos que conduzem nossos ritos e orações; os **Ibad** (singular *Abd*, *Abda* no feminino), que é como chamamos nossos fiéis e, por último, os **Shayim** (singular *Shai*), nossos auxiliares dentro da casa (normalmente, menores que 25 anos, ainda considerado crianças perante a Casa).
@@ -41,3 +43,5 @@
 5. Não existe pecado imperdoavél desde que o arrepedimento seja equivalente ao crime, pois a Divina é misericordiosa;
 6. A justiça dos homens não cobre a justiça divina, pois a Divina não esquece;
 7. Tudo é visto, tudo é ouvido. *Cosi sia.*
+
+## Matre Domus Sancta

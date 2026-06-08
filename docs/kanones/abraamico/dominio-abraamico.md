@@ -1,5 +1,5 @@
 # il Dominium Ibraahimiy
-*Esse documento segue as diretrizes e escrituras da* ***[Domus Sancta]()***. *Escrito por Shai' Lincoln, sob supervisão de Adil' Domingos, da* ***[Matre Domus Sancta]()***.
+*Esse documento segue as diretrizes e escrituras da* ***[Domus Sancta](?page=abraamico/domus-sancta)***. *Escrito por Shai' Lincoln, sob supervisão de Adil' Domingos, da* ***[Matre Domus Sancta](?page=abraamico/domus-sancta#matre-domus-sancta)***.
 
 <!-- CONTENT -->
 
@@ -53,12 +53,19 @@
 ## Os Pesares e os Penitentes
 ㅤㅤㅤ ㅤOs anjos que deixaram o palácio dos céus pelo quarto pecado são chamados de Pesares. Comumente, se acumulam em cemitérios, onde sua tristeza eterna faz com que pareçam com estatuas. Tornaram-se guardiões desses lugares, conversando muitas vezes com as almas antes que se sentissem prontas para seguir a travessia e pequenos conforto aos enlutados. Esses anjos não se sentem digno de se permitir amar e ser amado, já que foi rejeitado pelo amor divino e isso os entristece eternamente, mas ainda são cheios de compaixão e, por isso, seu Pesar conforta os **Penitentes**. Esse grupo são seguidores dos Pesares, que os adota como suas crianças. É um grupo milagroso, sua fé, penitência e perseverança acaba por leva-los a lugares que nenhum outro pisou.
 
+<!-- ANEDOTA -->
 [Anedotas da Domus Sancta #2: Paladinos]
-> "Eles são paladinos"
-> "Esse não é um conceito real, é um conceito fantasioso dos jogos que você joga."
-> "O jogo ser fantasioso não faz o *conceito* ser fantasioso. O conceito é real. E cabe aqui, Pater Domingos. Acredito que na Sacra Scriptura diz que muitas vezes caminhos paralelos e até mesmo opostos que o nosso chega as mesmas conclusões e, ouso fazer minha próxima afirmação, acredito que toda criação humana tem um fundo de verdade por mais fantasiosa e imaginária que pareça. Peço, então, que me permita chamar as coisas pelo que são."
-> "Pois bem, Abin, *così sia*¹"
-> ¹Cosi Sia: "Assim Seja", em italiano. Na Domus Sancta é usada como uma autorização suprema, pois é a frase que encerra cada capitulo da Sacra Scriptura.
+<br><br>
+"Eles são paladinos"
+<br><br>
+"Esse não é um conceito real, é um conceito fantasioso dos jogos que você joga."
+<br><br>
+"O jogo ser fantasioso não faz o *conceito* ser fantasioso. O conceito é real. E cabe aqui, Pater Domingos. Acredito que na Sacra Scriptura diz que muitas vezes caminhos paralelos e até mesmo opostos que o nosso chega as mesmas conclusões e, ouso fazer minha próxima afirmação, acredito que toda criação humana tem um fundo de verdade por mais fantasiosa e imaginária que pareça. Peço, então, que me permita chamar as coisas pelo que são."
+<br><br>
+"Pois bem, Abin, *così sia*¹"
+<br><br><br><br>
+¹Cosi Sia: "Assim Seja", em italiano. Na Domus Sancta é usada como uma autorização suprema, pois é a frase que encerra cada capitulo da Sacra Scriptura.
+<!-- /ANEDOTA -->
 
 ㅤㅤㅤ ㅤOs Penitentes são como Paladinos. Soldados divinos que vivem em constante batalhas e provações pelo seu estado de penitência e, muitas vezes, recebem forças sobrehumanas para isso, não sabendo dizer se vem diretamente da Divina, dos Pesares ou de alguma benção por sua perseverança e trabalho. De acordo com o próprio grupo, eles mesmo não possuem dons, apenas são instrumentos as vezes usado pelo divino para atingir um objetivo sagrado. Interpretações de fora não tem nenhum valor nesse caso, visto que são principios religiosos particulares desse grupo.
 
@@ -85,7 +92,8 @@
 1. Perseguição Onírica;
 2. Almas pedindo descanso;
 3. Surrussos;
-   
+   <br><br>
+
 ㅤㅤㅤ ㅤUma pessoa Marcada pode possuir vestigios de um dom da fonte original do Milagre, mas as suas consequências são muito mais marcantes. Problemas respiratórios ou cardiacos são comuns e, muitas vezes, Marcados não conseguem ter uma vida longa. A única forma de reverter é uma intervenção divina, transformando o Marcado em um **Tocado**. Esse tipo de intervenção foi vista apenas uma vez até os dias atuais.
 
 ### Os Marcados
@@ -102,8 +110,10 @@
 ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilins, que já nasceram fora do palácio dos céus. 
 
 ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilins, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
-s
-> Esse registro foi documentado pelo Shai' Lincoln, sob supervisão de Adil' Domingos, da Matre Domus Sancta, a primeira casa sagrada construida, no Vaticano.
+
+<br><br>
 
 ---
+
+<!-- FOOTER -->
 ***Notas do Narrador:** esse documento não tem e não pretende possuir nenhum valor religioso. É apenas uma representação fictícia de conceitos comuns em religiões de origem abraãmica, sem qualquer intenção de ofender ou desrespeitar a fé. Nenhum conceito criado e apresentado nesse documento tem como função teorizar ou conspirar contra práticas religiosas. Foi utilizado hebraico, aramaico, árabe, italiano, francês e latim para diversas palavras utilizadas nesse texto. Se você tem informações idiomáticas ou culturais para oferecer, por favor entre em contato com equipeik@rpg-institutokairos.org, queremos te ouvir!*
