@@ -3,7 +3,7 @@
 | :--               | :--: |
 | abraamico         | ✳️  |
 | celta             | ✴️  |
-| indígena (br)     | ✴️  |
+| indígena (br)     | 📍  |
 | yorubá            | ✴️  |
 | japonês           | *️⃣  |
 | chinês            | *️⃣  |

@@ -3,14 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+        
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+
     <title>Instituto Kairos</title>
 
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <nav>
+        <input type="checkbox" name="" id="hamburgerMenu"/>
         <div class="three-section-model">
             <div class="first">
+                <div class="menu">
+                    <div class="logo">
+                        <label for="hamburgerMenu"><i class="fa-solid fa-bars"></i></label>
+                    </div>
+                </div>
                 <h1>
                         <a href="?page=home" class="desktop-title">TRIK — Documentação</a>
                         <a href="?page=home" class="mobile-title">TRIKDocs</a>
@@ -28,6 +43,11 @@
     </nav>
     <div class="main">
         <div class="lateral-painel">
+            <div class="menu-interno">
+                <div class="logo-interna">
+                    <label for="hamburgerMenu"><i class="fa-solid fa-bars"></i></label>
+                </div>
+            </div>
             <h3>Sistema</h3>
             <a class="topic">Sistema InK</a>
             <a class="subtopic">Ficha</a>
@@ -51,6 +71,7 @@
         </div>
     </div>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="scripts/lateral-painel.js"></script>
 <script type="module" src="scripts/app.js"></script>
 </body>
 </html>

@@ -7,7 +7,7 @@
 
 ㅤㅤㅤ ㅤNão usamos personagens criados por Riordan ou eventos causados por esse personagem (por exemplo, a batalha de Manhattan não aconteceu aqui, porque Percy Jackson não exista). Usamos o mundo e a ideia principal: os deuses antigos existem, seus filhos se reunem em locais como o Acampamento Meio-Sangue, o Acampamento Júpiter, os Nomos e o Hotel Valhalla. Para acomodar nossa expansão de universo, foi criado novos locais, seguindo a mesma liberdade criativa que Riordan teve para criar o que criou.
 
-## Quem somos?
+## Quem Somos?
 
 <!-- PAINEL principal-->
 <!-- PAINEL text -->

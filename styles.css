@@ -25,7 +25,46 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: monospace;
+    font-family: var(--font-family, "JetBrains Mono", monospace);
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h1 a {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h2 a {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h3 a {
+    font-size: 16px;
+}
+
+.jetbrains-mono-default {
+  --font-family: "JetBrains Mono", monospace;
+  --font-optical-sizing: auto;
+  --font-weight: 400;
+  --font-style: normal;
+}
+
+.jetbrains-mono-bold {
+  --font-family: "JetBrains Mono", monospace;
+  --font-optical-sizing: auto;
+  --font-weight: 600;
+  --font-style: normal;
 }
 
 strong {
@@ -41,6 +80,10 @@ hr {
     height: 1px;
 
     background-color: var(--color-highlight)
+}
+
+nav .first .menu .logo label i {
+    font-size: 18px;
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -66,6 +109,21 @@ nav .first {
     color: var(--color-contrast);
     font-family: monospace;
     font-weight: bolder;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+nav .first .menu {
+    display: none;
+}
+
+#hamburgerMenu {
+    display: none;
+}
+
+.menu-interno {
+    display: none;
 }
 
 nav .second {
@@ -105,6 +163,14 @@ body {
     height: calc(100vh - 60px);
     display: flex;
     flex-direction: row;
+}
+
+/* - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - - THREE SECTION */
+/* - - - - - - - - - - - - - - - - - - */
+
+.three-section-model .first {
+    align-self: center;
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -367,6 +433,42 @@ a[href^="mailto:"]:hover {
     .mobile-title {
         display: inline;
     }
+
+    nav .first .menu {
+        display: flex;
+        margin-right: 10px;
+    }
+
+    .lateral-painel {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 280px;
+        height: 100vh;
+        z-index: 1000;
+        transform: translateX(-100%);
+        transition: transform .3s ease;
+    }
+    
+    .lateral-painel.open {
+        transform: translateX(0);
+    }
+
+    #hamburgerMenu {
+        display: none;
+    }
+
+    .menu-interno {
+        align-self: self-end;
+        padding: 20px 20px 20px 20px;
+        display: flex;
+    }
+
+    .content .principal {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 @media (max-width: 840px) {
@@ -378,7 +480,15 @@ a[href^="mailto:"]:hover {
         height: 60px;
     }
 
+    .menu-interno {
+        padding: 20px 20px 20px 20px;
+    }
+
     .second {
         display: none;
+    }
+
+    nav .first {
+        padding-left: 0%;
     }
 }
