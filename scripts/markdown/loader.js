@@ -1,68 +1,158 @@
 import { renderMarkdown } from "./renderer.js";
 
+/* -------------------------------- */
+/* ---------------- REGEX --------- */
+/* -------------------------------- */
+
+const REGEX = {
+
+    ANEDOTA:
+        /<!-- ANEDOTA -->([\s\S]*?)<!-- \/ANEDOTA -->/g,
+
+    FOOTER:
+        /<!-- FOOTER -->([\s\S]*)$/s,
+
+    PAINEL_PRINCIPAL:
+        /<!--\s*PAINEL\s+principal\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+principal\s*-->/g,
+
+    PAINEL_FILHO:
+        /<!--\s*PAINEL\s+([a-zA-Z0-9-]+)\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+\1\s*-->/g
+};
+
+/* -------------------------------- */
+/* ------------ LOADER ------------ */
+/* -------------------------------- */
+
 export async function loadMarkdown(page) {
 
-    const path = `docs/kanones/${page}.md`;
+    const path =
+        `docs/${page}.md`;
 
     try {
 
-        const response = await fetch(path);
+        const response =
+            await fetch(path);
 
         if (!response.ok) {
-            throw new Error("Markdown não encontrado");
+            throw new Error(
+                "Markdown não encontrado"
+            );
         }
 
-        const markdown = await response.text();
+        const markdown =
+            await response.text();
 
         const parts =
-            markdown.split("<!-- CONTENT -->");
+            markdown.split(
+                "<!-- CONTENT -->"
+            );
 
         const headerMarkdown =
             parts[0]?.trim() || "";
 
         let contentMarkdown =
             parts.length > 1
-                ? parts.slice(1).join("<!-- CONTENT -->").trim()
+                ? parts
+                    .slice(1)
+                    .join("<!-- CONTENT -->")
+                    .trim()
                 : "";
 
         contentMarkdown =
-            parseAnedotas(contentMarkdown);
-
-        contentMarkdown =
-            parseFooter(contentMarkdown);
+            parseComponents(
+                contentMarkdown
+            );
 
         renderMarkdown(
             headerMarkdown,
             contentMarkdown
         );
 
-    } catch(error) {
+    } catch (error) {
 
         console.error(error);
 
-        const headerElement =
-            document.getElementById("header");
-
-        const contentElement =
-            document.getElementById("content");
-
-        if (headerElement) {
-            headerElement.innerHTML = "";
-        }
-
-        if (contentElement) {
-            contentElement.innerHTML = `
-                <h1>404</h1>
-                <p>Página não encontrada.</p>
-            `;
-        }
+        render404();
     }
 }
+
+/* -------------------------------- */
+/* -------- COMPONENT PIPE -------- */
+/* -------------------------------- */
+
+function parseComponents(markdown) {
+
+    const parsers = [
+
+        parseAnedotas,
+
+        parsePainel,
+
+        parseFooter
+    ];
+
+    for (const parser of parsers) {
+
+        markdown =
+            parser(markdown);
+    }
+
+    return markdown;
+}
+
+/* -------------------------------- */
+/* ------------ HELPERS ----------- */
+/* -------------------------------- */
+
+function wrapDiv(
+    className,
+    content
+) {
+
+    return `
+<div class="${className}">
+
+${content.trim()}
+
+</div>
+`;
+}
+
+function render404() {
+
+    const headerElement =
+        document.getElementById(
+            "header"
+        );
+
+    const contentElement =
+        document.getElementById(
+            "content"
+        );
+
+    if (headerElement) {
+        headerElement.innerHTML = "";
+    }
+
+    if (contentElement) {
+
+        contentElement.innerHTML = `
+<h1>404</h1>
+<p>Página não encontrada.</p>
+`;
+    }
+}
+
+/* -------------------------------- */
+/* ------------ ANEDOTA ----------- */
+/* -------------------------------- */
 
 function parseAnedotas(markdown) {
 
     return markdown.replace(
-        /<!-- ANEDOTA -->([\s\S]*?)<!-- \/ANEDOTA -->/g,
+
+        REGEX.ANEDOTA,
+
         (_, content) => {
 
             const lines =
@@ -77,13 +167,17 @@ function parseAnedotas(markdown) {
                 lines[0]?.trim();
 
             if (
+
                 firstLine.startsWith("[") &&
                 firstLine.endsWith("]")
+
             ) {
 
                 title =
-                    firstLine
-                        .slice(1, -1);
+                    firstLine.slice(
+                        1,
+                        -1
+                    );
 
                 lines.shift();
             }
@@ -93,6 +187,7 @@ function parseAnedotas(markdown) {
 
             return `
 <details class="anedota">
+
 <summary>${title}</summary>
 
 ${body}
@@ -103,16 +198,83 @@ ${body}
     );
 }
 
+/* -------------------------------- */
+/* ------------ FOOTER ------------ */
+/* -------------------------------- */
+
 function parseFooter(markdown) {
 
     return markdown.replace(
-        /<!-- FOOTER -->([\s\S]*)$/s,
-        (_, content) => `
-<div class="footer">
 
-${content.trim()}
+        REGEX.FOOTER,
 
-</div>
-`
+        (_, content) =>
+            wrapDiv(
+                "footer",
+                content
+            )
     );
+}
+
+/* -------------------------------- */
+/* ------------ PAINEL ------------ */
+/* -------------------------------- */
+
+function parsePainel(markdown) {
+
+    return markdown.replace(
+
+        REGEX.PAINEL_PRINCIPAL,
+
+        (_, principalContent) => {
+
+            validatePainelPrincipal(
+                principalContent
+            );
+
+            const children =
+                principalContent.replace(
+
+                    REGEX.PAINEL_FILHO,
+
+                    (
+                        _,
+                        className,
+                        content
+                    ) =>
+
+                        wrapDiv(
+                            `painel ${className}`,
+                            content
+                        )
+                );
+
+            return wrapDiv(
+                "painel principal",
+                children
+            );
+        }
+    );
+}
+
+/* -------------------------------- */
+/* ---------- VALIDATIONS --------- */
+/* -------------------------------- */
+
+function validatePainelPrincipal(
+    content
+) {
+
+    if (
+
+        content.includes(
+            "<!-- PAINEL principal -->"
+        )
+
+    ) {
+
+        throw new Error(
+            "PAINEL principal não pode ser filho de outro PAINEL principal."
+        );
+    }
 }

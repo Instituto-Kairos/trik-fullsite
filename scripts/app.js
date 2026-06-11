@@ -2,6 +2,7 @@ import { getCurrentPage } from "./markdown/router.js";
 import { loadMarkdown } from "./markdown/loader.js";
 
 const currentPage = getCurrentPage();
-console.log("");
+
+console.log("Página:", currentPage);
 
 loadMarkdown(currentPage);
