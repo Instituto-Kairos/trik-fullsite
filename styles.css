@@ -21,11 +21,19 @@
 /* - - - - - - - - - - - - - -  CONFIG */
 /* - - - - - - - - - - - - - - - - - - */
 
+:root {
+    --font-family:
+        "Noto Sans Mono",
+        "Noto Serif Hebrew",
+        "Noto Kufi Arabic",
+        "Noto Sans Simplified Chinese";
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: var(--font-family, "JetBrains Mono", monospace);
+    font-family: var(--font-family);
     font-size: 12px;
 }
 
@@ -53,20 +61,6 @@ h3 a {
     font-size: 16px;
 }
 
-.jetbrains-mono-default {
-  --font-family: "JetBrains Mono", monospace;
-  --font-optical-sizing: auto;
-  --font-weight: 400;
-  --font-style: normal;
-}
-
-.jetbrains-mono-bold {
-  --font-family: "JetBrains Mono", monospace;
-  --font-optical-sizing: auto;
-  --font-weight: 600;
-  --font-style: normal;
-}
-
 strong {
     color: var(--color-contrast);
 }
@@ -80,10 +74,6 @@ hr {
     height: 1px;
 
     background-color: var(--color-highlight)
-}
-
-nav .first .menu .logo label i {
-    font-size: 18px;
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -112,6 +102,10 @@ nav .first {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+nav .first .menu .logo label i {
+    font-size: 18px;
 }
 
 nav .first .menu {
@@ -459,9 +453,24 @@ a[href^="mailto:"]:hover {
     }
 
     .menu-interno {
-        align-self: self-end;
         padding: 20px 20px 20px 20px;
         display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu-interno .inicio {
+        text-align: center;
+    }
+
+    .menu-interno .logo-interna {
+        align-content: center;
+        text-align: center;
+    }
+
+    .menu-interno .logo-interna i {
+        font-size: 16px;
     }
 
     .content .principal {
