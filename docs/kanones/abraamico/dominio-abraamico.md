@@ -34,7 +34,7 @@
 ## O Sagrado Sangue
 ㅤㅤㅤ ㅤO misticismo se espalha nesse campo com a ideia de que a fonte de poder está no sangue. É necessário apenas uma gota de sangue divino para abençoar eternamente uma linhagem, que pode gerar "crianças douradas" sem qualquer tipo de padrão ou condição de nascimento. O surgimento dessas crianças não é conquistado, nem pedido por orações. É uma Dádiva dada pela Divina, que não cabe a nós, ibad, entender ou questionar.
 
-ㅤㅤㅤ ㅤEsse sangue tem o poder de conceder **um dom** para o portador. Alguns **Scismatici** tinham a crença popular de que injetar o sangue dourado (literalmente dourado) poderia migrar ou multiplicar esses dons. Assim, então, surgiram as **Maldições.**ㅤEsse sangue, dourado e sagrado, não pode ser retirado por agulhas e métodos convencionais. Só pode ser retirado ao corpo da criança dourada (o termo é usado independente da idade) com um corte feito por uma lâmina sagrada.
+ㅤㅤㅤ ㅤEsse sangue tem o poder de conceder **um dom** para o portador. Alguns **Scismatici** tinham a crença popular de que injetar o sangue dourado (literalmente dourado) poderia migrar ou multiplicar esses dons. Assim, então, surgiram as **Maldições**. Esse sangue, dourado e sagrado, não pode ser retirado por agulhas e métodos convencionais. Só pode ser retirado ao corpo da criança dourada (o termo é usado independente da idade) com um corte feito por uma lâmina sagrada.
 
 ㅤㅤㅤ ㅤEsses conceitos aprendidos, a história pode ser contada.
 
