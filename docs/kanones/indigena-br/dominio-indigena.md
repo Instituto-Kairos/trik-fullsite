@@ -6,18 +6,20 @@
 ## A terra não me pertence, eu que perteço a ela.
 ㅤㅤㅤ ㅤNós moramos no coração de Pindorama, na região dita hoje como Mato Grosso, no Centro-Oeste do Brasil. Nossa casa fica dentro do **Parque Indígena do Xingu** e a localização exata requer autorização, já que nossa sobrevivência é constantemente colocada em risco. Não somos muitos, vivemos dentro de nosso *kañyrenda* (abrigo) e habitar esse espaço requer algumas responsabilidades. Somos crianças dos deuses da terra e ao abraçar essa raiz, temos deveres com a terra e nossos. *Ikaraipyre* significa Abençoado, e é isso que somos.
 
-ㅤㅤㅤ ㅤTentar manter o equilibrio entre os dois causaria profundas dores, já que exige muito do corpo e do espirito. Por esse motivo, não o fazemos. Alguns de nós,mais corajosos ou mais irracionais, chamados de *guataçara* (viajante, pereguino), passam periodos por aqui e por lá, e mesmo essa prática sendo o jeito mais seguro, essa vida dupla exige alguns cuidados ritualisticos para que o véu entre os dois mundos não sejam rompidos.
+ㅤㅤㅤ ㅤTentar manter o equilibrio entre os dois mundos (lá, no mundo sem deuses, e aqui) causaria profundas dores, já que exige muito do corpo e do espirito. Por esse motivo, não o fazemos. Alguns de nós, mais corajosos ou mais irracionais, chamados de *guataçara* (viajante, pereguino), passam periodos por aqui e por lá (jamais tentando fazer os dois ao mesmo tempo), e mesmo essa prática sendo o jeito mais seguro, essa vida dupla exige alguns cuidados ritualisticos para que o véu entre os dois mundos não sejam rompidos.
 
 ㅤㅤㅤ ㅤGraças as violências da colonização, muito dos nossos conhecimentos mais primordiais foram perdidos. Nossas crianças foram roubadas, nossas mulheres violentadas e nossos homens assassinados. Tentaram distanciar nosso povo de sua origem, tentaram nos fazer esquecer e tentaram, e ainda tentam, apagar o rastro para não encontrarmos o caminho de volta.
 
 ㅤㅤㅤ ㅤMas o que é da terra sempre volta para terra. **Yby suí oúr, yby-pe jyvyjé**.
 
-ㅤㅤㅤ ㅤA terra reconhece os seus e os que ela deseja em vida, ela chama. Quem recebe esse chamado passa por um processo que chamamos de *Epáy* (acordar). Esse processo não é fácil, o Epáygua (aquele que despertar) acaba sofrendo com profunda depressão se ignorar o Epáy, passando por febres delirantes, pesadelos e problemas com estresse. Quem passa pelo Epáy deve vir até kañyrenda, onde será recebido e ensinado devidamente nos costumes. Entramos, então, no centro de nossa cultura: Ñe'ẽ.
+ㅤㅤㅤ ㅤA terra reconhece os seus e os que ela deseja em vida, ela chama. Quem recebe esse chamado passa por um processo que chamamos de *Epáy* (acordar). Esse processo não é fácil, o Epáygua (aquele que desperta) acaba sofrendo com profunda depressão se ignorar o Epáy, passando por febres delirantes, pesadelos e problemas com estresse. Quem passa pelo Epáy deve vir até kañyrenda, onde será recebido e ensinado devidamente nos costumes. Entramos, então, no centro de nossa cultura: Ñe'ẽ.
 
-ㅤㅤㅤ ㅤÑe'ẽ é o fogo divino de nossa alma. É o fogo da vida de nossos deuses, de nossos ancestrais, da nossa história. Ele é alimentado pela nossa fé e lembrança. Honrar a memória e aprender sobre nossa origem mantem o fogo vivo. Temos como deus mais antigo Nhanderuvuçu, que aparece em muito de nossas histórias.
+ㅤㅤㅤ ㅤÑe'ẽ é o fogo divino de nossa alma. É o fogo da vida de nossos deuses, de nossos ancestrais, da nossa história. Ele é alimentado pela nossa fé e lembrança. Honrar a memória e aprender sobre nossa origem mantem o fogo vivo. Temos como deus mais antigo Nhanderuvuçu, que aparece em muito de nossas histórias. Nossas fés, antes separadas, se unem para tentar manter nosso fogo vivo. Muitos anos atrás, não viviamos juntos e alguns de nós até tivemos conflitos em tempos antigos. Após a colonização, tivemos uma escolha: ou nós aprendiamos com nossas diferenças e nos tornavámos um só, ou nossa fé seria morta. Escolhemos, obviamente, pela primeira.
+
+ㅤㅤㅤ ㅤDentro do kañyrenda vivemos em uma única comunidade dividida em cinco grupos, que chamamos por povos. Esses povos vivem e dividem suas filosofias e todos do abrigo deve conhecer, pela **Jura de Nós Todos**. 
 
 ### Ka'aguy
-ㅤㅤㅤ ㅤAva Ka'aguy, o Povo da Floresta, são os Epáygua descende da raíz Tupi e Tupi-Guarani. É uma das raízes mais antigas que temos, os Ka'aguyguas (é o gentilico dos Ava Ka'aguy) são os únicos que podem ser filhos de Deuses, por isso seu povo é tão raro. É nossa menor familia dentro de kañyrenda, com filhos e descendentes de deuses da natureza que muitas vezes morrem cedo, perseguidos por monstros e espiritos terriveis que tem raiva de seu parente divino. Os mais velhos tendem a trata-los de maneira especial, o que deixa alguns arrogantes e se esquecem que somos todos feito da mesma lama, que foi feita com a mesma terra e a com a mesma chuva. De fato, suas vidas são as mais frágeis, mas suas vidas tem grandes própositos e sua fé é a mais poderosa que temos para Ñe'ẽ.
+ㅤㅤㅤ ㅤAva Ka'aguy, o Povo da Floresta, são os Epáygua descendente da raíz Tupi e Tupi-Guarani. É uma das raízes mais antigas que temos, os Ka'aguyguas (é o gentilico dos Ava Ka'aguy) são os únicos que podem ser filhos de Deuses, por isso seu povo é tão raro. É nossa menor familia dentro de kañyrenda, com filhos e descendentes de deuses da natureza que muitas vezes morrem cedo, perseguidos por monstros e espiritos terriveis que tem raiva de seu parente divino. Os mais velhos tendem a trata-los de maneira especial, o que deixa alguns arrogantes e se esquecem que somos todos feito da mesma lama, que foi feita com a mesma terra e a com a mesma chuva. De fato, suas vidas são as mais frágeis, mas suas vidas tem grandes própositos e sua fé é a mais poderosa que temos para Ñe'ẽ.
 
 1. **Abaçaí**: Espiríto da floresta que gosta de dançar e fazer festas. Pode pegar os que se perdem na floresta, os deixando em um transe arrebatado. Abaçai também pode tomar forma de qualquer animal;
 2. **Angatupyry**: Espiríto do bem, ligado a ordem e as coisas boas;
@@ -25,6 +27,9 @@
 4. **Pytajovái**: Deus da Guerra e do Valor;
 5. **Angra**: Deusa do Fogo e do Ñe'ẽ;
 6. **Monã**: Deus criador do céu, da terra e dos seres vivos;
+7. **Tupã**: Deus do Trovão;
+8. **Iasy**: Deusa da Lua;
+   [NOTA DO NARRADOR: ESSA LISTA SERÁ EXPANDIDA]
    <br><br>
 
 ### Yvyty
