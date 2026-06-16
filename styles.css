@@ -2,10 +2,13 @@
 /* - - - - - - - - - - - - - - - - - - */
 .light {
     color-scheme: light;
-    --color-one: #D1C8BA;
-    --color-two: #C2B5A1;
-    --color-three: #D9D9D9;
-    --color-contrast: #464544;
+    --color-one: #c2b6a1;
+    --color-two: #dbcdbb;
+    --color-three: #efe6d7;
+    --color-four: #c9c1b0;
+    --color-contrast: #605141;
+    --color-highlight:rgb(105, 67, 29)4;
+    --color-font: #3b321e;
 }
 
 .dark {
@@ -13,8 +16,10 @@
     --color-one: #1a1a1a;
     --color-two: #232426;
     --color-three: #32363F;
+    --color-four: #495061;
     --color-contrast: #aea18c;
     --color-highlight: #caad7d;
+    --color-font: #e2e4ed;
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -142,6 +147,7 @@ html,
 body {
     height: 100%;
     overflow: hidden;
+    color: var(--color-font);
 }
 
 body {
@@ -248,7 +254,6 @@ body {
 /* - - - - - - - - - - - - - - - - - - */
 
 .main .content {
-    background-color: var(--color-three);
     flex: 1;
     min-width: 0;
     height: 100%;
@@ -323,6 +328,29 @@ ol {
 
 ol li::marker {
     color: var(--color-contrast);
+}
+
+/* - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - -  EDIÇÃO TABELAS */
+/* - - - - - - - - - - - - - - - - - - */
+
+table {
+    border: 1px, solid, var(--color-four);
+    border-collapse: collapse;
+}
+
+th {
+    background-color: var(--color-four);
+    padding: 10px 20px 10px 20px;
+}
+
+td {
+    padding: 10px 20px 10px 20px;
+    text-align: justify;
+}
+
+tr:nth-child(even) {
+  background-color: var(--color-four);
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -409,9 +437,10 @@ a[href^="mailto:"]:hover {
 
 @keyframes spinning {
     0%   { top: 0; }
-    25%  { top: -50px; }
-    50%  { top: -100px; }
-    75%  { top: -150px; }
+    20%  { top: -50px; }
+    40%  { top: -100px; }
+    60%  { top: -150px; }
+    80%  { top: -200px; }
     100% { top: 0; }
 }
 

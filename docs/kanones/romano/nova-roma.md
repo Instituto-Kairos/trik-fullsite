@@ -1,12 +1,14 @@
 # Nova Roma
-*Os romanos fizeram o que faziam de melhor: erguer cidades e tomar terras. documento redigido por Vincent Denvir sob revisão de Madelyn Roma*
+*Os romanos fizeram o que faziam de melhor: erguer cidades e tomar terras. Documento redigido por Vincent Denvir sob revisão de Madelyn Roma*
 
 <!-- CONTENT -->
 
 ## Renascença Romana
 ㅤㅤㅤ ㅤA cidade de Nova Roma foi projetada em 1869 com um único objetivo: servir ao seu povo. Ao contrário dos ideais que ruiram o Império Romano, nossa cidade sempre foi feita e pensada em seus habitantes. Para fins de registros, é importante ressaltar como Nova Roma saiu do papel e se tornou uma cidade escondida na Califórnia: A construção da ferrovia transcontinental foi essencial para isso. Foi proposta por Dr. Hartwell Carver, com os incentivos de **Asa Brooks**, legado de Vulcano que fundou a cidade junto de seu irmão **Norman Brooks**, sua cunhada **Amelie Campbell**. Em 1879, dez anos depois, a cidade finalmente foi finalizada e populada. A constituição (criada em 1900 junto com a **Casa da Ordem**, que é o palácio político de Nova Roma) e a documentação de todo o processo pode ser encontrado com mais detalhes na Bibliotheca de Nova Roma. Abaixo, organizado em grau de importância e poder, está listado os cargos politicos com seus respectivos deveres:
 
-| cargo | categoria | descrição |
+<br><br>
+
+| CARGO | CATEGORIA | DESCRIÇÃO |
 | :-- | :--: | :-- |
 | Cônsul | Unificador | Cônsul é o cargo único, no topo da pirâmide hierarquica, tido como mediador que dá a palavra final. É necessário ter mais de 50 anos para assumir esse cargo, ter servido ao exército e ter utilizado sua liberdade politica durante os anos civis;
 | Conselheiro | Unificador | Dão Suporte e Orientação ao Cônsul. O Conselho é formado por seis conselheiros, que tem pelo menos 20 anos de contribuição na politíca, que já foi Pretor ou Senador e que ocupou o espaço de Cônsul por pelo menos 8 anos;
@@ -28,6 +30,7 @@
 | Diácono | Religioso | Auxiliar nas atividades dos Templos;
 | Cidadão | Político | Civil que utiliza seu poder político em Nova Roma;
 
+<br><br>
 
 
 
