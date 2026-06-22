@@ -13,7 +13,7 @@
 
 ㅤㅤㅤ ㅤ**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins;
 
-ㅤㅤㅤ ㅤ**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilim também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilim são chamados de Nati-Nefilim;
+ㅤㅤㅤ ㅤ**Nefilino**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilino também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilino são chamados de Nati-Nefilinos. Para ser considerado um Nefilino ou um Nati-nefilino, teria que descender de um anjo caido por um dos três primeiros pecados, que atentam contra a divindade a favor da humanidade.
 
 ㅤㅤㅤ ㅤ**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo;
 
@@ -30,6 +30,8 @@
 ㅤㅤㅤ ㅤ**Santos Vigias**: Também chamado de Sentinelas, é o grupos de Anjos formado pelos Sete Arcanjos, sendo eles Miguel, Uriel, Rafael, Raguel, Miguel, Sarakiel, Gabriel;
 
 ㅤㅤㅤ ㅤ**Scismatici**: Como a Domus Sancta chama o grupo de Fanáticos Religiosos que tentaram clonar os Milagres. Essa é apenas uma de suas práticas que vai contra os principios Divinos;
+
+ㅤㅤㅤ ㅤ**Tiferino**: Sua diferença dos Nefilinos é puramente etimilógica. Não temos registros de tempos antigos, como da Era que os Nati-Nefilinos, não havia a distinção atual do que seria considerado um demônio. Naquela época, demônio era como era chamado os que se afiliaram a Hêlêl (Lúcifer, na latinização). Esse requisito de nomeação foi considerado vago e redefinido para um mais fiel: os anjos caidos pelos três últimos motivos são chamado demônios, por esses atentam contra a humanidade.
 
 ## O Sagrado Sangue
 ㅤㅤㅤ ㅤO misticismo se espalha nesse campo com a ideia de que a fonte de poder está no sangue. É necessário apenas uma gota de sangue divino para abençoar eternamente uma linhagem, que pode gerar "crianças douradas" sem qualquer tipo de padrão ou condição de nascimento. O surgimento dessas crianças não é conquistado, nem pedido por orações. É uma Dádiva dada pela Divina, que não cabe a nós, ibad, entender ou questionar.
@@ -49,6 +51,9 @@
 5. Rebeldia: não cabe aos Anjos ir contra aos vontades maiores que eles;
 6. Ganância: não cabe aos Anjos o poder e a fama;
 7. Luxúria: não cabe aos Anjos os exageros e os vícios;
+<br><br>
+
+ㅤㅤㅤ ㅤOs três primeiros formas os pecados contra a Lei Divina, mas a favor da humanidade, por isso parte da santidade desses anjos são mantidas, pois a Divina jamais os puniria por amar sua criação, então a excomungação desses anjos é um ato de misericordia. Os três últimos atentam contr a humanidade e não cumprem as leis divinas, sendo assim expulsos do Palácio dos Céus e tendo sua auréola quebrada. A auréola de um anjo é o o nome dado ao "osso da coroa", que é um osso dos anjos que começa na cabeça, próximo as orelhas, e se fecha em frente a cabeça, formando um círculo que irradia luz. Os que caem pelos três primeiros pecados tem esse osso removido, fazendo com que eles passem por humanos em sua forma, e a coroa de osso fique opaca e sem brilha como uma recordação. Os que caem pelos três últimos tem ela partida na frente, fazendo com que elas se tornem chifres, como os dos carneiros. Os que caem pelo quarto pecado mantem o osso da coroa intacto, mas esse perde o brilho, se tornando opaco.
 
 ## Os Pesares e os Penitentes
 ㅤㅤㅤ ㅤOs anjos que deixaram o palácio dos céus pelo quarto pecado são chamados de Pesares. Comumente, se acumulam em cemitérios, onde sua tristeza eterna faz com que pareçam com estatuas. Tornaram-se guardiões desses lugares, conversando muitas vezes com as almas antes que se sentissem prontas para seguir a travessia e pequenos conforto aos enlutados. Esses anjos não se sentem digno de se permitir amar e ser amado, já que foi rejeitado pelo amor divino e isso os entristece eternamente, mas ainda são cheios de compaixão e, por isso, seu Pesar conforta os **Penitentes**. Esse grupo são seguidores dos Pesares, que os adota como suas crianças. É um grupo milagroso, sua fé, penitência e perseverança acaba por leva-los a lugares que nenhum outro pisou.
@@ -68,6 +73,8 @@
 <!-- /ANEDOTA -->
 
 ㅤㅤㅤ ㅤOs Penitentes são como Paladinos. Soldados divinos que vivem em constante batalhas e provações pelo seu estado de penitência e, muitas vezes, recebem forças sobrehumanas para isso, não sabendo dizer se vem diretamente da Divina, dos Pesares ou de alguma benção por sua perseverança e trabalho. De acordo com o próprio grupo, eles mesmo não possuem dons, apenas são instrumentos as vezes usado pelo divino para atingir um objetivo sagrado. Interpretações de fora não tem nenhum valor nesse caso, visto que são principios religiosos particulares desse grupo.
+
+ㅤㅤㅤ ㅤAtualmente, sabemos que os únicos capazes de forjar lâminas sagradas são os Penitentes. As técnicas de manipulação dos metais, da técnica de consagração e santificação da lâmina só pode ser realizada por um Penitente, sendo uma arte que muitos dedicam a vida para fazer. Nós, da Domus Sancta, recusamos os combates o máximo que podemos, até que nossa Divina Senhora peça para agiamos, normalmente Sua vontade chegando até nós pelos próprios Penitentes. Isso faz parte de uma promessa da Casa Santa de não agir com violência ou participar de atos de violência sem o expresso desejo da Divina ou necessidade Sagrada, entregando o julgamento disso para os Penitentes, que são tanto nossa espada quanto nosso escudo.
 
 ## Os Dons
 ㅤㅤㅤ ㅤUm talento único de cada criança dourada. Criança dourada é um termo popular para duas categorias oficias dentro do Panteão Judaico, mas formalmente é chamado de **Aurélicos** ou **Ungidos**. Alguns exemplos de Dons Reconhecidos pela Domus Sancta:
@@ -106,10 +113,14 @@
 ㅤㅤㅤ ㅤ
 ㅤㅤㅤ ㅤUm Tocado tem suas doenças curadas e seu sofrimento amenizado. O que acontece com o dom que demostrava é incerto. No registro que temos, o dom de visões foi também diminuido sua frequência. Não sabemos como outros podem reagir ao Toque Divino.
 
-## Nefilins e Tiferinos
-ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilins, que já nasceram fora do palácio dos céus. 
+## Nefilins e Tiferins
+ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilins (ou nati-nefilin), que já nasceram fora do palácio dos céus. 
 
 ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilins, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
+
+ㅤㅤㅤ ㅤSuas habilidades e poderes são descritas como acima dos Abençoados e abaixo dos Anjos ou Demônios. Os tiferinos, apesar da rápida associação aos Marcados, eles não sofrem com consequências negativas, mas seu sangue é visto como amaldiçoado e, por esse motivo, é esperado que tenham uma vida dificil e problemas de saúde. Não existe, nos registros da Domus Sancta, Tiferinos registrados, apesar de com toda certeza existirem Tiferinos habitando a Terra atualmente. O motivo de sua discrição perante nossa Casa Santa é óbvio: em 1300 até 1700, a Domus Sancta os caçava e os matava, em um próposito, na época, considerado santo.
+
+ㅤㅤㅤ ㅤDesde Adila' Teresa, em 1700, essa praticamente é abominada pela nossa casa. Se nossa Divina deu ao mundo livre arbitrio e Ela, com todo seu poder e sabedoria, não intervem como interveio quando se fez necessário na Grande Chuva, nós não vamos ultrapassar suas vontades e fazer de nós, meros humanos, os que decidem quais formas de vida são dignas ou não. Nossas Casa está aberta e pronta para acolher todos que precisarem de ajuda.
 
 <br><br>
 
