@@ -110,7 +110,7 @@
 
 ### Os Tocados
 ㅤㅤㅤ ㅤApesar de existir apenas um registro disso, e ser uma informação confidencial da Domus Sancta, não é certo tratar o ato como único. Temos apenas *um* registro, mas não significa que existiu só um. Podemos garantir a existência apenas de um, mas outros podem ter acontecido no silêncio de suas casas, longe de pergaminhos e penas para registrar o evento. A Divina não tem favoritos e, por isso, jamais limitaria seu poder a uma única intervenção.
-ㅤㅤㅤ ㅤ
+
 ㅤㅤㅤ ㅤUm Tocado tem suas doenças curadas e seu sofrimento amenizado. O que acontece com o dom que demostrava é incerto. No registro que temos, o dom de visões foi também diminuido sua frequência. Não sabemos como outros podem reagir ao Toque Divino.
 
 ## Nefilins e Tiferins
