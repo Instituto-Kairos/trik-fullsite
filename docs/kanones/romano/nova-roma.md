@@ -17,7 +17,7 @@
 | Marechal | Acadêmico | Cargo do Diretor da **Academiae Tática e Militar**.
 | Senador | Civil | Membro de uma das doze cadeiras do Senado (até 1912 apenas homens podiam ocupar essas cadeiras), responsavel por debates de medidas públicas. É necessário ter no mínimo 25 anos para estar aqui. É repsonsabilidade deles tratar leis e medidas para a população civil de Nova Roma, aconselham os Pretores e tratam de assuntos menores;
 | Tribunos | Civil | Construem o corpo da Casa da Ordem de Nova Roma, tendo entre 24 a 36 pessoas. Para participar, é necessário ter pelo menos quatorze anos, estar em dia com seus deveres civis e militares;
-| Generalis | Acadêmico | Cargo da **Academiae** focado na formação e preparação de novos legionários, coordenando um grupo de turmas da **Academiae**. Instituido em 1960 como parte do projeto de Hans Wolfenbarger de aprimoramento militar de Nova Roma. Não está acima dos próximos em ordem militar, mas está acima em conhecimento e valor político;
+| Generalis | Acadêmico | Cargo da **Academiae** focado na formação e preparação de novos legionários, coordenando um grupo de turmas da **Academiae**. Instituido em 1920 como parte do projeto de Hans Wolfenbarger de aprimoramento militar de Nova Roma. Não está acima dos próximos em ordem militar, mas está acima em conhecimento e valor político;
 | Áugure | Religioso | Cargo dado para os membros dos templos que fazem previsões e se dedicam a leitura das profecias;
 | Centurião-Chefe | Militar | Criado em 1985 como um Líder Geral das Coortes. É ativado apenas em tempos de Guerra. Normalmente, um dos Centuriões de uma das Coortes assume esse cargo e um novo Centurião é elegido.
 | Flâmines | Religioso | Devoto especifico de um dos Templos, auxilia cidadões no seus cultos e organiza os eventos religiosos referente a divindade que segue;
@@ -57,8 +57,8 @@
 1. Primeira Coorte: é a de maior prestigio. Em tempos antigos, só se entrava com cartas de recomendações de grandes nomes do exército, hoje em dia essa carta precisa ser redigida pelo. Atualmente, é uma coorte exemplar em disciplina e comprometimento. É pouca e seus membros são muito tradicionais, costumam organizar eventos cívicos-militares e a banda militar. São a Coorte de Lembrança de Nova Roma, honrando costumes antigos e promovendo a carreira militar;
 2. Segunda Coorte: Menos expositiva que a primeira, essa coorte é a mais respeitada. Assim como a primeira, cartas de recomendação pode colocar pessoas nesse grupo, mas as notas da Academiae são as mais importantes aqui. Eficientes, estratégicos e sincronizados são as palavras chaves da Segunda Coorte;
 3. Terceira Coorte: É conhecida como Batalhão de Reconhecimento. Formada por grupos de pessoas onde se destaca a memória, habilidade geográfica e resistência fisica para longas viagens. É considerada a mais rígida;
-4. Quarta Coorte: É e sempre foi a mais populosa. É considerada a Coorte dos Soldados, porque grande parte da força de ataque é formada por grupos dessa Coorte. Tropas focadas em batalha, habilidades com armas diversas e conhecimento marcial avançado;
-5. Quinta Coorte: 
+4. Quarta Coorte: É considerada a Coorte dos Soldados, porque grande parte da força de ataque é formada por grupos dessa Coorte. Tropas focadas em batalha, habilidades com armas diversas e conhecimento marcial avançado;
+5. Quinta Coorte: É a coorte com maior número de soldados, para os que desejam seguir carreira militar mas não tiveram nenhum destaque durante os anos de academia. Ela é apelidada como "Coorte dos Reservas", por chamarem seus soldados para completar grupos em atividades de outras coortes. São populosos, sincronizados e obedientes;
 
 
 <!-- FOOTER -->
