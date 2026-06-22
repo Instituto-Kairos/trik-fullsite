@@ -13,7 +13,7 @@
 
 ㅤㅤㅤ ㅤ**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins;
 
-ㅤㅤㅤ ㅤ**Nefilino**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilino também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilino são chamados de Nati-Nefilinos. Para ser considerado um Nefilino ou um Nati-nefilino, teria que descender de um anjo caido por um dos três primeiros pecados, que atentam contra a divindade a favor da humanidade.
+ㅤㅤㅤ ㅤ**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilino também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilino são chamados de Nati-Nefilinos. Para ser considerado um Nefilino ou um Nati-nefilino, teria que descender de um anjo caido por um dos três primeiros pecados, que atentam contra a divindade a favor da humanidade.
 
 ㅤㅤㅤ ㅤ**Grande Chuva**: Dilúvio. Evento que ocorreu em 2348 a.C no caléndario gregoriano. Marca o encerramento do terceiro ciclo;
 
@@ -31,7 +31,7 @@
 
 ㅤㅤㅤ ㅤ**Scismatici**: Como a Domus Sancta chama o grupo de Fanáticos Religiosos que tentaram clonar os Milagres. Essa é apenas uma de suas práticas que vai contra os principios Divinos;
 
-ㅤㅤㅤ ㅤ**Tiferino**: Sua diferença dos Nefilinos é puramente etimilógica. Não temos registros de tempos antigos, como da Era que os Nati-Nefilinos, não havia a distinção atual do que seria considerado um demônio. Naquela época, demônio era como era chamado os que se afiliaram a Hêlêl (Lúcifer, na latinização). Esse requisito de nomeação foi considerado vago e redefinido para um mais fiel: os anjos caidos pelos três últimos motivos são chamado demônios, por esses atentam contra a humanidade.
+ㅤㅤㅤ ㅤ**Tiferim**: Sua diferença dos Nefilinos é puramente etimilógica. Não temos registros de tempos antigos, como da Era que os Nati-Nefilinos, não havia a distinção atual do que seria considerado um demônio. Naquela época, demônio era como era chamado os que se afiliaram a Hêlêl (Lúcifer, na latinização). Esse requisito de nomeação foi considerado vago e redefinido para um mais fiel: os anjos caidos pelos três últimos motivos são chamado demônios, por esses atentam contra a humanidade.
 
 ## O Sagrado Sangue
 ㅤㅤㅤ ㅤO misticismo se espalha nesse campo com a ideia de que a fonte de poder está no sangue. É necessário apenas uma gota de sangue divino para abençoar eternamente uma linhagem, que pode gerar "crianças douradas" sem qualquer tipo de padrão ou condição de nascimento. O surgimento dessas crianças não é conquistado, nem pedido por orações. É uma Dádiva dada pela Divina, que não cabe a nós, ibad, entender ou questionar.
@@ -118,9 +118,20 @@
 
 ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilins, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
 
-ㅤㅤㅤ ㅤSuas habilidades e poderes são descritas como acima dos Abençoados e abaixo dos Anjos ou Demônios. Os tiferinos, apesar da rápida associação aos Marcados, eles não sofrem com consequências negativas, mas seu sangue é visto como amaldiçoado e, por esse motivo, é esperado que tenham uma vida dificil e problemas de saúde. Não existe, nos registros da Domus Sancta, Tiferinos registrados, apesar de com toda certeza existirem Tiferinos habitando a Terra atualmente. O motivo de sua discrição perante nossa Casa Santa é óbvio: em 1300 até 1700, a Domus Sancta os caçava e os matava, em um próposito, na época, considerado santo.
+ㅤㅤㅤ ㅤSuas habilidades e poderes são descritas como acima dos Abençoados e abaixo dos Anjos ou Demônios. Os tiferinos, apesar da rápida associação aos Marcados, eles não sofrem com consequências negativas, mas seu sangue é visto como amaldiçoado e, por esse motivo, é esperado que tenham uma vida dificil e problemas de saúde. É uma teoria, dado aos Nefilinos antigos, que a vida geral deles também não duravam muito, sendo assim, novamente, só uma diferença etimológica. Enquanto nos Nefilinos é visto como a carne humana não suportando a divindade, os Teferinos são considerados amaldiçoados. Não existe, nos registros da Domus Sancta, Tiferinos registrados, apesar de com toda certeza existirem Tiferinos habitando a Terra atualmente. O motivo de sua discrição perante nossa Casa Santa é óbvio: em 1300 até 1700, a Domus Sancta os caçava e os matava, em um próposito, na época, considerado santo.
 
-ㅤㅤㅤ ㅤDesde Adila' Teresa, em 1700, essa praticamente é abominada pela nossa casa. Se nossa Divina deu ao mundo livre arbitrio e Ela, com todo seu poder e sabedoria, não intervem como interveio quando se fez necessário na Grande Chuva, nós não vamos ultrapassar suas vontades e fazer de nós, meros humanos, os que decidem quais formas de vida são dignas ou não. Nossas Casa está aberta e pronta para acolher todos que precisarem de ajuda.
+ㅤㅤㅤ ㅤDesde Adila' Teresa, em 1700, essa praticamente é abominada pela nossa casa. Se nossa Divina deu ao mundo livre arbitrio e Ela, com todo seu poder e sabedoria, não intervem como interveio quando se fez necessário na Grande Chuva, nós não vamos ultrapassar suas vontades e fazer de nós, meros humanos, os que decidem quais formas de vida são dignas ou não. Nossas Casa está aberta e pronta para acolher todos que precisarem de ajuda. No Tratado de Paz, feito pela Adila' Teresa, é determinado que os nomes será deixada para os livros e, diante da nossa casa, não faremos distinção com base em em termologia.
+
+ㅤㅤㅤ ㅤAssegurada a integridade dos membros do Domínio de nossa Divina, não importando a origem, os registros existente sobre ambos demostram tais caracteristicas: 
+
+1. Ossos: Anjos possuem ossos de mármore e os que caem pelos três primeiro pecados mantem a integridade como misericordia, fazendo com que Nefilinos possuam ossos mais resistentes. Tiferinos, por outro lado, tem ossos como os humanos;
+2. Aptidão para música: eles possuem voz harmonica, e muitos tem um dom para música;
+3. Pele: a pele tende a ser mais uniforme, quase escupilda. Nefilinos tem subtons normalmente mais quentes enquanto Tiferinos subtons mais frios, alguns podem ter pálidez;
+4. Limitações: Tiferinos são repelidos por alguns símbolos religiosos, mas principalmente a água benta, que queima sua pele. Seus olhos não são bons para regular luminosidade, muitas vezes é necessário lentes corretivas. As lâminas sagradas são capazes de ferir ambos igualmente;
+5. Vida: os registros contam que vivem até os 35 anos, mas já demostram limitações de saúde aos 25 anos;
+
+<br><br>
+
 
 <br><br>
 
