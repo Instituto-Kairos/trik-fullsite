@@ -9,7 +9,7 @@
 
 ## Quem Somos?
 
-<!-- PAINEL principal-->
+<!-- PAINEL principal row-->
 <!-- PAINEL text -->
 ㅤㅤㅤ ㅤO Instituto nasceu de um sonho.
 
@@ -21,9 +21,9 @@
 <!-- /PAINEL text-->
 
 <!-- PAINEL image -->
-![alt text](assets/trik-1.png)
+![Imagem de uma pessoa com uma coroa de louros dourada, rosto erguido e olhos fechados](assets/trik-1.png)
 <!-- /PAINEL image -->
-<!-- /PAINEL principal-->
+<!-- /PAINEL principal row-->
 
 ## Entre a Espada e a Coroa
 ㅤㅤㅤ ㅤO Instituto é um lar para todos que possuem vínculos semi-divinos. Na história do RPG, uma ameaça em comum com um mundo imortal plural os força a desenvolver uma casa em comunidade, onde todos possam se conhecer e falar sobre suas origens e aprender com os outros. O sistema é próprio, criado pelo Mestre para um jogo autoral e utilizado para organizar esse aqui.

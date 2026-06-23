@@ -129,8 +129,9 @@
 3. Pele: a pele tende a ser mais uniforme, quase escupilda. Nefilinos tem subtons normalmente mais quentes enquanto Tiferinos subtons mais frios, alguns podem ter pálidez;
 4. Limitações: Tiferinos são repelidos por alguns símbolos religiosos, mas principalmente a água benta, que queima sua pele. Seus olhos não são bons para regular luminosidade, muitas vezes é necessário lentes corretivas. As lâminas sagradas são capazes de ferir ambos igualmente;
 5. Vida: os registros contam que vivem até os 35 anos, mas já demostram limitações de saúde aos 25 anos;
-
 <br><br>
+
+para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
 
 
 <br><br>

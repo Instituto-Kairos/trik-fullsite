@@ -13,10 +13,10 @@ const REGEX = {
         /<!-- FOOTER -->([\s\S]*)$/s,
 
     PAINEL_PRINCIPAL:
-        /<!--\s*PAINEL\s+principal\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+principal\s*-->/g,
+        /<!--\s*PAINEL\s+principal(?:\s+(row|col))?\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+principal(?:\s+(?:row|col))?\s*-->/g,
 
     PAINEL_FILHO:
-        /<!--\s*PAINEL\s+([a-zA-Z0-9-]+)\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+\1\s*-->/g
+        /<!--\s*PAINEL\s+([a-zA-Z0-9-\s]+)\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+\1\s*-->/g
 };
 
 /* -------------------------------- */
@@ -226,7 +226,7 @@ function parsePainel(markdown) {
 
         REGEX.PAINEL_PRINCIPAL,
 
-        (_, principalContent) => {
+        (_, direction = "row", principalContent) => {
 
             validatePainelPrincipal(
                 principalContent
@@ -250,7 +250,7 @@ function parsePainel(markdown) {
                 );
 
             return wrapDiv(
-                "painel principal",
+                `painel principal ${direction}`,
                 children
             );
         }

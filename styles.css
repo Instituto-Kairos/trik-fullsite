@@ -357,9 +357,14 @@ tr:nth-child(even) {
 /* - - - - - - - - - -   EDIÇÃO PAINEL */
 /* - - - - - - - - - - - - - - - - - - */
 
-.content .principal {
+.content .principal.row {
     display: flex;
-    align-items: row;
+    flex-direction: row;
+}
+
+.content .principal.col {
+    display: flex;
+    flex-direction: column;
 }
 
 .content .principal .text {
@@ -368,6 +373,18 @@ tr:nth-child(even) {
 
 .content .principal .image img {
     max-width: 300px;
+}
+
+/* - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - - -   EDIÇÃO CARD */
+/* - - - - - - - - - - - - - - - - - - */
+
+.content .principal .card {
+    padding: 10px 10px 10px 10px;
+}
+
+.content .principal .card img {
+    max-width: 100%;
 }
 
 /* - - - - - - - - - - - - - - - - - - */
@@ -506,6 +523,18 @@ a[href^="mailto:"]:hover {
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    nav .first {
+        width: 28%;
+    }
+
+    nav .second {
+        width: 43%;
+    }
+
+    nav .third {
+        width: 28%;
     }
 }
 
