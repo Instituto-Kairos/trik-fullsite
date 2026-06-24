@@ -1,5 +1,6 @@
 const aliases = {
     home: "home",
+    sistema: "sistema",
 
     abraamico: "kanones/abraamico/dominio-abraamico",
     "abraamico/domus-sancta": "kanones/abraamico/domus-sancta",

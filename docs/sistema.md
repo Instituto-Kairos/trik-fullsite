@@ -1,52 +1,91 @@
 # Sistema InK
-*Esse documento é puramente sistemico e não tem teor narrativo.*.
+*Esse documento é puramente sistemico e não tem teor narrativo. Nele, você encontra instruções sobre o que seu personagem terá acesso durante sua estadia no jogo.*
 
 <!-- CONTENT -->
 
-<!-- PAINEL principal row -->
-<!-- PAINEL card -->
-![Pessoa entalhado na madeira com auxilio de uma pequena lâmina.](assets/pericia-manual.png)
-## Facilitadores Natos
+## Estátisticas de Personagem
 
-Todo personagem possui uma **facilitador de nascença**, que te garante avançar algumas habilidades mais rápido que outras. Ela é natural do personagem, por isso considerada nata, já que não foi apreendida, e sim um direcionamento de habilidade que acompanhou seu personagem durante a história dele.
+| ESTATISTICA | CATEGORIA | DESCRIÇÃO |
+| :-- | :--: | :-- |
+| Patente | Nivelamento | Cargo dentro da trilha escolhida do personagem. Nivela conhecimento e poderes. Não mede poder bruto, como por exemplo: um filho de Zeus pode parecer mais forte que um filho de Hermes, mas se o filho de Hermes tem uma patente mais alta que o de Zeus, o talento bruto dele pode parecer maior, mas o de Hermes tem vantagem pelo tempo de experiência. |
+| Maestria | Nivelamento | Experiência acumulada em armas e tipos de combate. Acumulam pontos de zero a dez e, ao maximar no nível 10, acumula de zero a cem. |
+| Graduação | Nivelamento | Experiência acumulada em estudos e conhecimentos. Acumulam pontos de zeor a dez e, ao maximar no nível 10, acumula de zero a cem. |
+| Conduta | Alinhamento | Dividido em Coração, Corpo e Mente. Fala sobre como seu personagem toma decisões. |
+| Princípios | Alinhamento | Dividido em Propósito, Sangue e Presença. Fala sobre o quê faz seu personagem agir. |
+| Bonificadores | Recurso | Dividido em Aptidões, Preferências, Vocação e Objetivo, esses bônus servem para acelerar a progressão do personagem. |
+| Passes | Recurso | Pequenos privilégios que concendem excessões e bônus extras dependendo do caso. |
+| Condições e Transtornos | Individualidade | Assim como os mortais podem apresentar condições ou transtornos (aqui entra Borderline, Autismo, TDAH, Dislexia), existe algumas que afetam apenas semideuses, decorrente do sangue divino ou uma consequência da exposição ao mundo divino. |
+| Habilidade Única | Individualidade | Poder Único que apenas seu personagem possui. É desbloqueado durante a narrativa. |
+| Poderes Desbloquedo | Individualidade | Os poderes, propriamente ditos, são desbloqueados durante o jogo. É garantido que seu personagem vai desbloquear pelo menos um (e é garantido uma hab. única, totalizando então dois poderes garantidos). É necessário um Momento Oportuno para um poder ser desbloqueado, podendo ser em uma missão, uma situação de vida ou morte, um grande evento pessoal... Depende da dedicação do jogador com o personagem. |
 
-<!-- /PAINEL card -->
-<!-- PAINEL card -->
-![Pessoa entalhado na madeira com auxilio de uma pequena lâmina.](assets/pericia-manual.png)
-## Facilitadores Apreendidos
+## Patentes
+## Maestria|
+## Graduações
+## Condutas
+## Princípios
+## Bonificadores
 
-Todo personagem possui uma **facilitador de conhecimento**, que te garante avançar algumas habilidades mais rápido que outras. ELe é baseado nas coisas que seu personagem se dedicou antes de começar a jogar com ele, sendo um ponto gerado pela história do seu personagem.
+ㅤㅤㅤ ㅤPara acelerar processos métodicos de treinamento e evolução linear que depende de ações dos jogadores, os bonificadores existe para melhorar a experiência do usuário. Existe dois tipos de Bonificadores: por Categoria, que reduz os custos de evoluição em um em um leque de áreas; e por Foco, que reduz os custos de evolução em três em uma área especifica;
 
-<!-- /PAINEL card -->
-<!-- PAINEL card -->
-![Pessoa entalhado na madeira com auxilio de uma pequena lâmina.](assets/pericia-manual.png)
-## Preferências
+### Aptidão Natural
 
-Todo personagem possui duas **preferência**, que faz com que ele aproveite mais uma atividade. Gostar de dias chuvosos, ou dias ensolarados, preferir manhãs ou madrugadas, gostar de silêncio ou música, preferir estudar sozinho ou em companhia. É uma escolha pessoal e não pode ser alterada depois de decidida.
+ㅤㅤㅤ ㅤTodo personagem possui uma **facilitador de nascença**, que te garante avançar algumas habilidades mais rápido que outras. Ela é natural do personagem, já que não foi apreendida, age como um direcionamento de habilidade que acompanhou seu personagem durante a história dele. Essa Aptidão serve para diminuir o número necessário de uma atividade para uma habilidade ser evoluida.
 
-<!-- /PAINEL card -->
-<!-- PAINEL card -->
-![Pessoa entalhado na madeira com auxilio de uma pequena lâmina.](assets/pericia-manual.png)
-## Caminhos
+### Aptidão Adquirida
 
-Todo personagem possui uma **caminho**, que um direcionamento base de onde seu personagem deseja seguir. Esse é único que pode ser mudado durante o jogo com um cooldown de 30 dias.
+ㅤㅤㅤ ㅤTodo personagem possui dois **facilitador de conhecimento**, que te garante avançar algumas habilidades mais rápido que outras. Ele é baseado nas coisas que seu personagem se dedicou antes de começar a jogar com ele, sendo um ponto gerado pela história do seu personagem.
 
-<!-- /PAINEL card -->
-<!-- PAINEL card -->
-![Pessoa entalhado na madeira com auxilio de uma pequena lâmina.](assets/pericia-manual.png)
-## Vocação
+#### Exemplos de Aptidão:
 
-Todo personagem possui uma **vocação**, que um traço de personalidade de como seu personagem interage com o mundo. 
+1. Aptidão Nata com Espadas (Categoria): você consegue lutar melhor com espadas no geral. Espadas longas, curtas, duplas, leves ou pesadas. -1 treino por nível.
+2. Aptidão Natas com Espadões (Foco): você consegue lutar melhor com espadas grandes e pesadas. -3 treinos por nível.
+3. Aptidão Nata com Idiomas (Categoria): você leva jeito com idiomas nos gerais. -1 aula por nível.
+4. Aptidão Nata com Russo (foco): você tem facilidade para esse idioma. -3 aulas por nível.
+<br><br>
 
-<!-- /PAINEL card -->
-<!-- /PAINEL principal row -->
+ㅤㅤㅤ ㅤA única diferença entre aptidão natural e adquirida é a justificativa para seu personagem a possuir.
 
-# Atributos
+### Preferências
+
+ㅤㅤㅤ ㅤTodo personagem possui duas **preferência**, que faz com que ele aproveite mais uma atividade. Gostar de dias chuvosos, ou dias ensolarados, preferir manhãs ou madrugadas, gostar de silêncio ou música, preferir estudar sozinho ou em companhia. É uma escolha pessoal e não pode ser alterada depois de decidida.
+
+#### Exemplos de Preferência:
+
+1. Dias de Chuva: você adora dias nublados e com chuvas, todas as atividades do dia contam como duas.
+2. Noturno: você funciona melhor durante a noite, todas as atividades realizadas após o sol se pôr e antes do sol nascer contam como duas.
+3. Diurno: você funciona melhor durante o dia, todas as atividades realizadas após o sol nascer e antes de se pôr contam como duas.
+<br><br>
+
+### Objetivo
+
+ㅤㅤㅤ ㅤTodo personagem possui um **Objetivo**, que é um direcionamento de onde seu personagem deseja seguir. Esse é o único que pode ser mudado durante o jogo, com um cooldown de três semanas.
+
+#### Exemplos de Objetivo:
+
+1. Focado nos Estudos (categoria): Você pode realizar "Estudos Extras", fazendo mais de uma cena de estudo por dia;
+2. Focado na Forma (categoria): Você pode realizar "Treino Extra", fazendo mais de uma cena de treino por dia;
+<br><br>
+
+
+### Vocação
+
+ㅤㅤㅤ ㅤTodo personagem possui uma **vocação**, que um traço de personalidade de como seu personagem interage com o mundo. 
+<br><br>
+
+## Passes
+## Condições e Transtornos
+## Habilidade Única
+## Poderes Desbloquedo
+
+
+
+## Atributos
+
 ## Base
 ㅤㅤㅤ ㅤO que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
 
 ### do meu Corpo
-ㅤㅤㅤ ㅤVocê sente fluindo pelo seu sangue, esquentando seus músculos, decisões para você requer ação. As vezes, ele age antes de você notar, avançando, recuando, derrubando algo, quebrando algo, levando você para uma caminhada. Estar vivo é estar em movimento para você.
+ㅤㅤㅤ ㅤVocê sente fluindo pelo seu sangue, esquentando seus músculos, decisões para você requer ação. As vezes, ele age antes de você notar, avançando, recuando, derrubando algo, quebrando algo, levando você para uma caminhada. Estar vivo é estar em movimento.
 
 ### do meu Coração
 ㅤㅤㅤ ㅤVocê sente. Sente mesmo, de verdade, as vezes até demais. As vezes a emoção é tanta que faz seu corpo fazer coisas que você não achava que era capaz, e pode te levar a lugares que sua mente não consiga olhar de tanta vergonha depois. Existe uma chama ardendo em seu peito. Estar vivo é sentir.
