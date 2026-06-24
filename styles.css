@@ -519,7 +519,7 @@ a[href^="mailto:"]:hover {
         font-size: 16px;
     }
 
-    .content .principal {
+    .content .principal.row {
         display: flex;
         flex-direction: column;
         align-items: center;
