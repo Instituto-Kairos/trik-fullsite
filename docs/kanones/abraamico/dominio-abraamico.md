@@ -131,7 +131,7 @@
 5. Vida: os registros contam que vivem até os 35 anos, mas já demostram limitações de saúde aos 25 anos;
 <br><br>
 
-
+para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
 
 
 <br><br>
