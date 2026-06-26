@@ -6,11 +6,31 @@ export function renderMarkdown(
     document.getElementById("header").innerHTML =
         marked.parse(headerMarkdown);
 
-    document.getElementById("content").innerHTML =
+    const content =
+        document.getElementById("content");
+
+    content.innerHTML =
         marked.parse(contentMarkdown);
 
-    document
-        .querySelectorAll("#content h2")
+    // Envolve todas as tabelas em um wrapper
+    content.querySelectorAll("table").forEach(table => {
+
+        const wrapper =
+            document.createElement("div");
+
+        wrapper.className =
+            "table-wrapper";
+
+        table.parentNode.insertBefore(
+            wrapper,
+            table
+        );
+
+        wrapper.appendChild(table);
+    });
+
+    content
+        .querySelectorAll("h2")
         .forEach(h2 => {
 
             const id = h2.textContent
@@ -26,20 +46,20 @@ export function renderMarkdown(
                 `<a href="#${id}">${h2.innerHTML}</a>`;
         });
 
-        const hash =
-    window.location.hash;
+    const hash =
+        window.location.hash;
 
-if (hash) {
+    if (hash) {
 
-    const target =
-        document.querySelector(hash);
+        const target =
+            document.querySelector(hash);
 
-    if (target) {
+        if (target) {
 
-        target.scrollIntoView({
-            behavior: "smooth",
-            block: "start"
-        });
+            target.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+        }
     }
-}
 }

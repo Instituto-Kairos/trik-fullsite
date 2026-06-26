@@ -343,9 +343,20 @@ ol li::marker {
 /* - - - - - - - - - -  EDIÇÃO TABELAS */
 /* - - - - - - - - - - - - - - - - - - */
 
-table {
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+.table-wrapper table {
+    width: max-content;
     border: 1px, solid, var(--color-four);
     border-collapse: collapse;
+    min-width: 700px; 
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
 }
 
 th {
