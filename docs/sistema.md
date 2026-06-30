@@ -28,13 +28,13 @@
 
 <br><br>
 
-| NÍVEL — NOME DO NÍVEL | DESCRIÇÃO |  REQUISITOS | RECOMPENSAS |
+| NOME DO NÍVEL | DESCRIÇÃO |  REQUISITOS | RECOMPENSAS |
 | :-- | :--: | :-- | :-- |
-| 0 — Novato | Você acabou de chegar no Instituto. Precisa entender como as coisas funcionam. | Você começa aqui; | — |
-| 1 — Interno | As coisas fazem um pocuo mais de sentido agora. Você consegue se ver como parte do local; | Ter feito quatro cenas em uma semana IRL | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 2 — Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | Ter feito quatro cenas em uma semana IRL; <br> Possuir nível 2 de maestria com alguma arma; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 3 — Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | Ter feito quatro cenas em uma semana IRL; <br> Possuir nível 4 de maestria com alguma arma; | Você escolhe um objetivo |
-| 4 — Apto | Você está apto a escolher uma trilha para seguir; | Ter feito quatro cenas em uma semana IRL; <br> Possuir nível 8 de maestria com alguma arma ou ser formado em 3 matérias; | Você escolhe uma área de interesse; |
+| Novato | Você acabou de chegar no Instituto. Precisa entender como as coisas funcionam. | Você começa aqui; | — |
+| Interno | As coisas fazem um pocuo mais de sentido agora. Você consegue se ver como parte do local; | ✦ Ter feito quatro cenas em uma semana IRL; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 2 de maestria com alguma arma; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 4 de maestria com alguma arma; | Você escolhe uma área de interesse; |
+| Apto | Você está apto a escolher uma trilha para seguir; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 8 de maestria com alguma arma ou ser formado em 3 matérias; | Você escolhe um objetivo; |
 
 ## Trilhas
 
@@ -47,7 +47,7 @@
 | Trilha Gerencial | Administrativo | Organizações, Anotações e Planilhas. Você sabe as complicações de viver na faixa do mundo divino e quer tornar isso o mais fácil possível. | Você pode ser advogado, gerente, engenheiro, todos os cargos de escritório que faz a manuntenção da vida mortal dos semidivinos. É mais fácil para você estar no mundo mortal |
 | Trilha Médica | Saúde | A vida dos semidivinos são muito perigosas e você quer amenizar os danos e percas. | Médicos, cirurgiões, psicologos e socorristas. Você vai prestar assistência aos seus companheiros. |
 | Trilha Cientifica | Pesquisa | O mundo semidivino é uma caixa de surpresas e você quer desbravá-la. É uma trilha de viagem, sem local fixo, que explora o mundo atrás de catalogar as maravilhas que o mundo semidivino esconde. | Viagens longas, estadias solitárias, muito trabalho a fazer. |
-| Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada; |
+| Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
 
 ## Patentes
 ## Maestria

@@ -10,7 +10,9 @@ const aliases = {
 
     "indigena-br": "kanones/indigena-br/dominio-indigena",
 
-    egipcio: "kanones/egipcio/dominio-egipcio"
+    egipcio: "kanones/egipcio/dominio-egipcio",
+
+    "indigena/kanirenda-ikaraipyre": "kanones/indigena-br/kanirenda-ikaraipyre"
 };
 
 export function getCurrentPage() {

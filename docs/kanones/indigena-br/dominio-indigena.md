@@ -1,6 +1,5 @@
-# Yvy Ypykuéra [teste]
-## Kañyrenda Ikaraipyre, Yby Marangatú 
-*esse documento foi redigido por Kauê Ikaraipyre e por Tainá Ikaraipyre com autorização de Omoakãva Piatã Ikaraipyre*
+# Yvy Ypykuéra
+*esse documento foi redigido por Kauê Ikaraipyre e por Tainá Ikaraipyre com autorização de Morubixaba Piatã Ikaraipyre, líder de nosso [Kañyrenda Ikaraipyre](?page=indigena/kanirenda-ikaraipyre)*
 <!-- CONTENT -->
 
 ## A terra não me pertence, eu que perteço a ela.
@@ -12,9 +11,9 @@
 
 ㅤㅤㅤ ㅤMas o que é da terra sempre volta para terra. **Yby suí oúr, yby-pe jyvyjé**.
 
-ㅤㅤㅤ ㅤA terra reconhece os seus e os que ela deseja em vida, ela chama. Quem recebe esse chamado passa por um processo que chamamos de *Epáy* (acordar). Esse processo não é fácil, o Epáygua (aquele que desperta) acaba sofrendo com profunda depressão se ignorar o Epáy, passando por febres delirantes, pesadelos e problemas com estresse. Quem passa pelo Epáy deve vir até kañyrenda, onde será recebido e ensinado devidamente nos costumes. Entramos, então, no centro de nossa cultura: Ñe'ẽ.
+ㅤㅤㅤ ㅤA terra reconhece os seus e os que ela deseja em vida, ela chama. Quem recebe esse chamado passa por um processo que chamamos de *Epáy* (acordar). Esse processo não é fácil, o Epáygua (aquele que desperta) acaba sofrendo com profunda depressão se ignorar o Epáy, passando por febres delirantes, pesadelos e problemas com estresse. Quem passa pelo Epáy deve vir até kañyrenda, onde será recebido e ensinado devidamente nos costumes. Entramos, então, no centro de nossa cultura: **Ñe'ẽ**.
 
-ㅤㅤㅤ ㅤÑe'ẽ é o fogo divino de nossa alma. É o fogo da vida de nossos deuses, de nossos ancestrais, da nossa história. Ele é alimentado pela nossa fé e lembrança. Honrar a memória e aprender sobre nossa origem mantem o fogo vivo. Temos como deus mais antigo Nhanderuvuçu, que aparece em muito de nossas histórias. Nossas fés, antes separadas, se unem para tentar manter nosso fogo vivo. Muitos anos atrás, não viviamos juntos e alguns de nós até tivemos conflitos em tempos antigos. Após a colonização, tivemos uma escolha: ou nós aprendiamos com nossas diferenças e nos tornavámos um só, ou nossa fé seria morta. Escolhemos, obviamente, pela primeira.
+ㅤㅤㅤ ㅤÑe'ẽ é o fogo divino de nossa alma. É o fogo da vida de nossos deuses, de nossos ancestrais, da nossa história. Ele é alimentado pela nossa fé e lembrança. Honrar a memória e aprender sobre nossa origem mantem o fogo vivo. Temos como deus mais antigo Nhanderuvuçu, que aparece em muitas de nossas histórias. Nossas fés, antes separadas, se unem para tentar manter nosso fogo vivo. Muitos anos atrás, não viviamos juntos e alguns de nós até tivemos conflitos em tempos antigos. Após a colonização, tivemos uma escolha: ou nós aprendiamos com nossas diferenças e nos tornavámos um só, ou nossa fé seria morta. Escolhemos, obviamente, pela primeira.
 
 ㅤㅤㅤ ㅤDentro do kañyrenda vivemos em uma única comunidade dividida em cinco grupos, que chamamos por povos. Esses povos vivem e dividem suas filosofias e todos do abrigo deve conhecer, pela **Jura de Nós Todos**. Essa Jura é o tratado que nossos antepassados fizeram quando a catequisação começou, onde eles juraram proteger o Ñe'ẽ dos povos vizinhos como se fosse o seu, e que o deus deles seriam como o seu, e os costumes deles seriam como os seus também. Dessa forma, dividimos os Deuses cheichaite avei ("assim como eu") dos Deuses ha’ekuéraichaite avei ("assim como eles"), mas isso é usado apenas para falar com Kirahi ("outros", ou não-indigenas), já que dentro da nossa Yvy Ypykuéra todos são chamados de "nossos deuses", ñandeichaite avei.
 
@@ -50,15 +49,19 @@
    <br><br>
 
 ### Tekoha
-ㅤㅤㅤ ㅤAva Tekoha, o Povo da Chuva. Tekoha, na verdade, é literalmente "o lugar onde se pode ser", sendo um sentimento dificil de traduzir. É onde podemos ser nós mesmos e onde os Tekohaguas podem ser Tekohaguas. Muitos vem da herança Pataxó, que nasceram dos pingos de chuva e, por isso, são considerados o Povo da Chuva, mesmo não sendo tradução de Tekoha. Seguem os ensinamentos de Txopay Itôhã e se separaram em três funções principais: os que lutam, os que cuidam e os que veem. Os Tekohaguas nos ajudem a organizar nosso kañyrenda.
+ㅤㅤㅤ ㅤAva Tekoha, o Povo da Chuva. Tekoha, na verdade, é literalmente "o lugar onde se pode ser", sendo um sentimento dificil de traduzir. É onde podemos ser nós mesmos e onde os Tekohaguas podem ser Tekohaguas. Muitos vem da herança Pataxó, que nasceram dos pingos de chuva e, por isso, são considerados o Povo da Chuva, mesmo não sendo tradução de Tekoha. Seguem os ensinamentos de Txopay Itôhã e se separaram em três funções principais: os que lutam, os que cuidam e os que veem. Os Tekohaguas nos ajudem a organizar nosso kañyrenda, e honram muito a lembrança, tendo papeis com nossas tradições mais antigas e ensinando as técnicas para os outros. 
 
-1. Os que Lutam: protegem a vila e os demais. Guerreiros fortes e bons de andar na mata, conhecem caminhos e pistas, bons caçadores;
-2. Os que Cuidam: preparam a comida e cuidam dos feridos. Fazem pomadas, unguentos e remédios. Nutrem nosso povo;
-3. Os que Veem: pajés e guias. Conhecem os animais, os rios e as árvores. Sabe se comunicar com os deuses e guiam os rituais;
+1. Artesões: Tekohaguas sabem manipular o Aço Antigo muito bem, sendo os únicos qualificados de fazer Aço Antigo Sagrado, capaz de lidar com monstros. Também fazem amuletos abençoados, confecção de cocáres, acessórios sagrados;
+2. Cerimônias: Tekohaguas conhecem danças sagradas que se comunicam com a natureza. Podem pedir por chuva, por sol, afastar tempestades e acalmar espiritos da natureza;
+3. Guerreiros: Tekohaguas lutam com uma garra jamais vista. Alguns nascem com alma de bicho em corpo de gente, e são capazes de mudar o corpo para a alma mostrar sua força.
    <br><br>
 
 ### Boe Jari
 ㅤㅤㅤ ㅤAva Boe Jari, o Povo das Almas. Boe Jari significa "morada de gente", e é assim que eles decidiram chamar seu lugar dentro do nosso kañyrenda. Ritualisticos e misteriosos, seu Ñe'ẽ é alimentado nos ritos tradicionais. Todo o kañyrenda segue seus costumes, fortalencendo seu fogo. Suas tradições são fortemente ligadas a etapas de vida, como o nascimento, a nomeação, a transição de criança para adulto, a morte. Tudo é celebrado e feito as cerimônias necessárias. Por esse motivo, é o grupo mais ligado ao misticismo dentro de nossa casa. Pajés, guias espirituais, recursos de vidência, superstições ligado ao clima, todo esse conhecimento milenar é guardado por eles e ensinado por eles.
+
+1. Portais: Alguns boeguas funcionam como portais, podendo falar pelas almas que ainda não passaram para o outro lado por não ter passado pelos ritos;
+2. Canalizadores: Alguns boeguas são capazes de acessar a energia, conhecimento e força de outras pessoas usando seus ornamentos funerários. Essa é uma prática sagrada;
+3. Xamãs: Alguns boeguas são capazes de dar previsões sobre futuro, clima ou fartura de caça ou coleta por meio de consultas de pedras, gravetos e, principalente, ossos.
 
 <br><br>
 
