@@ -61,6 +61,9 @@
 5. Quinta Coorte: É a coorte com maior número de soldados, para os que desejam seguir carreira militar mas não tiveram nenhum destaque durante os anos de academia. Ela é apelidada como "Coorte dos Reservas", por chamarem seus soldados para completar grupos em atividades de outras coortes. São populosos, sincronizados e obedientes;
 
 ## A Casa da Ordem
+
+
 ## Universidade de Nova Roma
+
 
 <!-- FOOTER -->
