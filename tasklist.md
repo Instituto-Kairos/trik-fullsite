@@ -32,6 +32,7 @@
 | japonês           |                       | *️⃣  |
 |                   |  tomo                 | *️⃣  |
 | chinês            |                       | *️⃣  |
+|                   |  Escolas              | *️⃣  |
 |                   |  tomo                 | *️⃣  |
 | nórdico           |                       | *️⃣  |
 |                   |  tomo                 | *️⃣  |

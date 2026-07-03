@@ -52,6 +52,7 @@
 ## Patentes
 ## Maestria
 ## Graduações
+
 ## Condutas
 ㅤㅤㅤ ㅤUma conduta serve para definir como seu personagem toma decisões. Isso ajuda a manter a conscistência e saber como conduzir ele pelas aventuras que irá viver. O que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
 
