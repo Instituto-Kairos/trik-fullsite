@@ -53,7 +53,29 @@
 ## Maestria
 ## Graduações
 ## Condutas
+ㅤㅤㅤ ㅤUma conduta serve para definir como seu personagem toma decisões. Isso ajuda a manter a conscistência e saber como conduzir ele pelas aventuras que irá viver. O que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
+
+### do meu Corpo
+ㅤㅤㅤ ㅤVocê sente fluindo pelo seu sangue, esquentando seus músculos, decisões para você requer ação. As vezes, ele age antes de você notar, avançando, recuando, derrubando algo, quebrando algo, levando você para uma caminhada. Estar vivo é estar em movimento. Você tem um instinto, uma arrepio pela sua coluna que te diz o que é certo e o que é errado, seu corpo reconhece o perigo antes de seus olhos o ferem.
+
+### do meu Coração
+ㅤㅤㅤ ㅤVocê sente. Sente mesmo, de verdade, às vezes até demais. Às vezes a emoção é tanta que faz seu corpo fazer coisas que você não achava que era capaz, e pode te levar a lugares que sua mente não consiga olhar de tanta vergonha depois. Existe uma chama ardendo em seu peito. Estar vivo é sentir. O músculo mais forte que seu corpo possui: seu coração.
+
+### da minha Mente
+ㅤㅤㅤ ㅤVocê chega a conclusões lógicas. Analista, observador, prático e racional. Você tem um conjunto de experiências para analisar e chegar a conclusões baseadas em fatos. Você toma decisões onde elas deveriam ser tomadas: na sua cabeça, pesando consequências, dosando riscos. 
+
 ## Princípios
+ㅤㅤㅤ ㅤApós entender onde seu personagem toma as decisões que precisa fazer, é hora de entender o que o levaria a tomar decisões. Qual a regua moral que ele usa? Qual a balança está sendo usada para pesar suas ações e, principalmente, a dos outros? O que seu personagem tem como ideal? O que ele define por sucesso?
+
+### O Próposito
+ㅤㅤㅤ ㅤConvicto, você tem um código de conduta muito bem definido. Sabe onde está e para onde quer ir e consegue visualizar um caminho para chegar lá. As coisas são meio preto e branco para você, ou estão acertas ou não estão. Você também acredita que tudo nessa vida tem um motivo, algo para contribuir e uma missão a cumprir. Perder essa função, para você, é o mesmo que te destruirem.
+
+### O Sangue
+ㅤㅤㅤ ㅤIntenso, você confia cegamento em suas emoções. Se algo não faz você se sentir bem, não vale a pena. Não aceita estar em posições desconfortáveis e mesmo que você não entenda e não faça sentido, você confia na sua intuição. Ser obrigado a seguir opções que não te parecem certas te chatea profundamente. Você acredita que não existe arrependimentos, que cada decisão tomada te moldou até o momento.
+
+### Presença
+ㅤㅤㅤ ㅤExpansivo, você quer o melhor resultado de tudo. Fama, sucesso, prestigio. Você busca os caminhos mais recompensadores. Você se importa com sua reputação, com sua imagem, com como você é visto, afinal, a impressão que você deixa nas pessoas é o que vai decidir suas oportunidades, e você quer as melhores. A desonra e vergonha são medos palpáveis e você não entende quem toma decisões sem se preocupar com as portas que serão fechadas.
+
 ## Bonificadores
 
 ㅤㅤㅤ ㅤPara acelerar processos métodicos de treinamento e evolução linear que depende de ações dos jogadores, os bonificadores existe para melhorar a experiência do usuário. Existe dois tipos de Bonificadores: por Categoria, que reduz os custos de evoluição em um em um leque de áreas; e por Foco, que reduz os custos de evolução em três em uma área especifica. Eles se acumulam, mas não da mesma fonte. Se você tem duas aptidão adquiridas que se sobrepôe, apenas a mais benifica conta. Lista de Bonificadores:
@@ -110,46 +132,13 @@
 <br><br>
 
 ## Passes
-## Condições e Transtornos
 ## Habilidade Única
-## Poderes Desbloquedo
+## Poderes Desbloqueados
+## Condições e Transtornos
 
 
 
-## Atributos
 
-## Base
-ㅤㅤㅤ ㅤO que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
-
-### do meu Corpo
-ㅤㅤㅤ ㅤVocê sente fluindo pelo seu sangue, esquentando seus músculos, decisões para você requer ação. As vezes, ele age antes de você notar, avançando, recuando, derrubando algo, quebrando algo, levando você para uma caminhada. Estar vivo é estar em movimento.
-
-### do meu Coração
-ㅤㅤㅤ ㅤVocê sente. Sente mesmo, de verdade, as vezes até demais. As vezes a emoção é tanta que faz seu corpo fazer coisas que você não achava que era capaz, e pode te levar a lugares que sua mente não consiga olhar de tanta vergonha depois. Existe uma chama ardendo em seu peito. Estar vivo é sentir.
-
-### Mente
-
-### Próposito
-
-### Sangue
-
-### Presença
-
-MENTE //
-a voz que fala em sua cabeça é sua mente, cheia de razão e lógica e pode ser fragmentada se exposta ao que não pode compreender. É a forma base do Ego;
-
-
-
-Presença, Sangue e Propósito: é o Princípio do seu personagem. É a essência do seu personagem, como ele interage com o mundo e como o mundo interage com ele.
-
-PRESENÇA //
-sua aparição é confiante e marcante, você exala uma aura de respeito capaz de afetar os que te vêem e te ouçam;
-
-SANGUE //
-sua força e motivações mantém o seu legado, fazendo com que sua paixão pelo que faz o ajude a avançar;
-
-PROPÓSITO //
-sua razão e intelecto é seu terreno seguro, fazendo com que qualquer desavença seja resolvida rapidamente;
 
 
 
