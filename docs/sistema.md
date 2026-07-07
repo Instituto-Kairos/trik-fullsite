@@ -50,6 +50,27 @@
 | Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
 
 ## Patentes
+ㅤㅤㅤ ㅤLogo após sua formação, você escolhe uma Trilha para seguir e dela você segue sua evolução.
+
+| Nível | Recompensa |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  |
+| --:   | :--        | :--         | :--                        | :--            | :--                         | :--       | 
+|  6    |            | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |
+|  7    |            | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
+|  8    |            | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
+|  9    |            | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante |
+| 10    |            | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
+| 11    |            | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante |
+| 12    |            | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | 
+| 13    |            | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | 
+| 14    |            | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | 
+| 15    |            | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | 
+| 16    |            | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | 
+| 17    |            | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
+| 18    |            | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
+| 19    |            | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |
+| 20    |            | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   |
+| 21    |            | *           | *                          | *              | *                           | *         |
+
 ## Maestria
 ## Graduações
 
@@ -150,58 +171,6 @@
 
 
 
-
-## OS NÍVEIS 
-
-Existem 21 níveis (0 até 21).
-
-**Nivel Zero: Novato**
-Você não consegue quase nada aqui. Tem +2 pontos de Atributos de Base e +1 ponto de Atributo de Princípio, mas não é capaz de utilizá-los.
-
-**Nivel Um: Recruta I**
-Você agora pode usar poderes com baixa frequência, afinal, não possuí controle ou conhecimento sobre eles. Patente baixa de membro de comunidade honorária.
-
-**Nível Dois: Recruta II**
-Patente baixa de membro de comunidade honorária.
-
-**Nível Três: Recruta III**
-Recebe +2 pontos de Atributo de Base. Patente baixa de membro de comunidade honorária.
-
-**Nível Quatro: Recruta IV**
-Seu valor está sendo provado e você está a caminho de se tornar um membro da comunidade!
-
-**Nível Cinco: Soldado I**
-Recebe +2 pontos de Atributo de Base. Recebe +1 ponto de Atributo de Princípio. Você ainda é novo por aqui, mas está começando a entender como as coisas funcionam.
-
-**Nível Seis: Soldado II**
-Você ainda é novo por aqui, mas está começando a entender como as coisas funcionam.
-
-**Nível Sete: Soldado III**
-Recebe +1 ponto de Atributo de Princípio. Você ainda é novo por aqui, mas sente que já é capaz de entender o ritmo que o grupo segue.
-
-**Nível Oito: Sargento I / Taifeiro de Segunda Classe I**
-Aqui você decide se seu personagem é do grupo ofensivo (exército) ou defensivo (funções administrativas e de manutenção).
-
-**Nível Nove: Sargento II / Taifeiro de Segunda Classe II**
-Com funções separadas, você vê as divisões entre soldados e não-soldados — e como ambos trabalham juntos para fazer as coisas funcionarem.
-
-**Nível Dez: Oficial I / Taifeiro de Primeira Classe I / Enfermeiro I**
-Recebe +2 pontos de Atributo de Base. Dentro da Taifa, é possível tomar funs de manutenção e administração ou assumir serviços médicos.
-
-**Nível Onze: Oficial II / Taifeiro de Primeira Classe II / Enfermeiro II**
-Recebe +1 ponto de Atributo de Princípio. Seu espaço na comunidade está cada vez mais consolidado.
-
-**Nível Doze: Oficial III / Taifeiro de Primeria Classe III / Enfermeiro III**
-Recebe +2 pontos de Atributo de Base. Seu espaço na comunidade está cada vez mais consolidado, você já começa a auxiliar seus colegas mais novos.
-
-**Nível Treze: Tenente I / Oficial de Taifa I / Médico I**
-Com a nova ascensão, você começa a ser um dos que divide ordens além de cumprir as suas. Você faz parte de uma comunicação em etapas para tornar o trabalho fácil e feito até o fim do dia.
-
-**Nível Quatorze: Tenente II / Oficial de Taifa II / Médico II**
-Recebe +1 ponto de Atributo de Princípio. Com a nova ascensão, você começa a ser um dos que divide ordens além de cumprir as suas. Você faz parte de uma comunicação em etapas para tornar o trabalho fácil e feito até o fim do dia.
-
-**Nível Quinze: Tenente III / Oficial de Taifa III / Médico III**
-Recebe +2 pontos de Atributo de Base. Com a nova ascensão, você começa a ser um dos que divide ordens além de cumprir as suas. Você faz parte de uma comunicação em etapas para tornar o trabalho fácil e feito até o fim do dia.
 
 **Nível Dezeseis: Capitão de Batalha I / Supervisores I / Médico-Chefe I**
 Sua visão vai além do prédio e cabe a você fazer as coisas funcionarem. Você determina cargos, ensina novatos, os prepara para um dia estarem em seu lugar.
