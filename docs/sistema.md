@@ -160,21 +160,10 @@
 
 
 
+### LEMBRETES
 
-
-
-
-
-
-
-
-
-
-
-
-**Nível Dezeseis: Capitão de Batalha I / Supervisores I / Médico-Chefe I**
-Sua visão vai além do prédio e cabe a você fazer as coisas funcionarem. Você determina cargos, ensina novatos, os prepara para um dia estarem em seu lugar.
-
+Condutas: você eventualmente tem os 3. ao acumular 3 pontos, voce seleciona um aprimoramento de conduta. ao acumular 5, o segundo. no total: 10 pontos de conduta.
+Principios: voce eventualmente tem 2 dos 3. ao acumular 3 pontos, voce seleciona um aprimoramemto de principio. no total: 5 pontos de principio.
 
 
 
