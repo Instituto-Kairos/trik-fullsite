@@ -55,8 +55,8 @@
 | Nível | Recompensa |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  |
 | --:   | :--        | :--         | :--                        | :--            | :--                         | :--       | 
 |  6    |            | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |
-|  7    |            | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
-|  8    |            | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
+|  7    | > Um Ponto de Desbloqueio de Príncipio <br>           | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
+|  8    | > Um Ponto de Aprimoramento de Conduta <br>           | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
 |  9    |            | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante |
 | 10    |            | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
 | 11    |            | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante |
@@ -69,7 +69,7 @@
 | 18    |            | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
 | 19    |            | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |
 | 20    |            | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   |
-| 21    |            | *           | *                          | *              | *                           | *         |
+| 21    | > Um Ponto de Aprimoramento de Príncipio <br>         | *           | *                          | *              | *                           | *         |
 
 ## Maestria
 ## Graduações
