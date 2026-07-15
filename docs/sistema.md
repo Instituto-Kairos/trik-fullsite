@@ -28,13 +28,13 @@
 
 <br><br>
 
-| NOME DO NÍVEL | DESCRIÇÃO |  REQUISITOS | RECOMPENSAS |
-| :-- | :--: | :-- | :-- |
+| NOME DO NÍVEL | DESCRIÇÃO | RECOMPENSAS |
+| :-- | :--: | :-- |
 | Novato | Você acabou de chegar no Instituto. Precisa entender como as coisas funcionam. | Você começa aqui; | — |
-| Interno | As coisas fazem um pocuo mais de sentido agora. Você consegue se ver como parte do local; | ✦ Ter feito quatro cenas em uma semana IRL; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 2 de maestria com alguma arma; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 4 de maestria com alguma arma; | Você escolhe uma área de interesse; |
-| Apto | Você está apto a escolher uma trilha para seguir; | ✦ Ter feito quatro cenas em uma semana IRL; <br> ✦ Possuir nível 8 de maestria com alguma arma ou ser formado em 3 matérias; | Você escolhe um objetivo; |
+| Interno | As coisas fazem um pocuo mais de sentido agora. Você consegue se ver como parte do local; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | Você escolhe uma área de interesse; |
+| Apto | Você está apto a escolher uma trilha para seguir; | Você escolhe um objetivo; |
 
 ## Trilhas
 
@@ -54,25 +54,57 @@
 
 | Nível | Recompensa |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  |
 | --:   | :--        | :--         | :--                        | :--            | :--                         | :--       | 
-|  6    |            | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |
-|  7    | > Um Ponto de Desbloqueio de Príncipio <br>           | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
-|  8    | > Um Ponto de Aprimoramento de Conduta <br>           | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
-|  9    |            | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante |
-| 10    |            | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
-| 11    |            | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante |
-| 12    |            | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | 
-| 13    |            | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | 
-| 14    |            | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | 
-| 15    |            | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | 
-| 16    |            | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | 
-| 17    |            | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
-| 18    |            | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
-| 19    |            | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |
-| 20    |            | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   |
-| 21    | > Um Ponto de Aprimoramento de Príncipio <br>         | *           | *                          | *              | *                           | *         |
+|  6    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |
+|  7    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
+|  8    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Desbloqueio de Conduta <br>      | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
+|  9    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante |
+| 10    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
+| 11    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Oficial I   | Farmaceutico III     | Tesoureiro III | Auxiliar de Coleta III      | Estudante |
+| 12    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | 
+| 13    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | 
+| 14    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Desbloqueio de Príncipio <br>    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | 
+| 15    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | 
+| 16    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | 
+| 17    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
+| 18    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
+| 19    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |
+| 20    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   |
+| 21    | ✦ Um Ponto de Aprimoramento Secreto <br>                                                   | *           | *                          | *              | *                           | *         |
 
 ## Maestria
+ㅤㅤㅤ ㅤAo treinar com armas de qualquer tipo ou combate, você adquire uma quantidade de experiência na sua barra de Maestria, que determina seu domínio com uma arma ou estilo de luta. A experiência é adquirida por número de cenas treinando e quantidade de caracteres desse treino, recompensando jogadores dedicados.
+
+| NÍVEL | QUANTIDADE DE CENAS PARA UPAR |
+| --:   | :-- |
+|  01   |  05 |
+|  02   |  05 |
+|  03   |  05 |
+|  04   |  05 |
+|  05   |  07 |
+|  06   |  07 |
+|  07   |  07 |
+|  08   |  07 |
+|  09   |  10 |
+|  10   |  -- |
+
+</br></br>
+
+ㅤㅤㅤ ㅤApós o chegar o nível dez, cada cena feita gera um ponto adicional que se acumula até 100, se tornando um "Mestre +100", dominando aquela arma e desbloqueando golpes, combos e dano adicional. Caso você pegue nível 5 de maestria com três armas de uma mesma categoria, você recebe uma maestria adicional com a categoria de armas, que também gera descontos de cenas em seus treinos. A maestria de categoria sobe toda vez que você pega
+
+| NÍVEL | QUANTIDADE DE ARMAS NIVEL 5  PARA UPAR | DESCONTO DE CENAS |
+| --:   | :-- | :-- |
+|  01   |  03 |  01 |
+|  02   |  05 |  02 |
+|  03   |  07 |  03 |
+|  04   |  09 |  04 |
+|  05   |  12 |  05 |
+
+</br></br>
+
+ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nivel 5 de todas as armas da categoria. 
+
 ## Graduações
+ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto.
 
 ## Condutas
 ㅤㅤㅤ ㅤUma conduta serve para definir como seu personagem toma decisões. Isso ajuda a manter a conscistência e saber como conduzir ele pelas aventuras que irá viver. O que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
@@ -167,6 +199,61 @@ Principios: voce eventualmente tem 2 dos 3. ao acumular 3 pontos, voce seleciona
 
 
 
+
+· Aulas Básicas (Freshmen)
+
+   · Geografia/Astrologia
+     → Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. Varia de 0 a 10.
+   · Idiomas I
+     → Todas as opções, é preciso assistir cinco aulas de idiomas para dominar a língua escolhida.
+   · História (inclui Arte e Literatura)/Arqueologia
+     → Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. Varia de 0 a 10.
+   · Biologia e Bestiário
+     → Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. Precisa assistir 3 aulas para reconhecer frutas silvestres venenosas.
+   · Técnicas de Sobrevivência
+     → Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova.
+   · Primeiros Socorros
+     → Ensina cuidados básicos para ferimentos de até médio porte. Varia de 0 a 15.
+     
+   · Aulas Comuns (Sophomore)
+
+   · Herbologia I
+     → O aluno aprende a criar remédios com plantas. Duas aulas por poção. 
+   · Esgrima
+     → É uma aula para treino de técnicas. Requer 12 aulas assistidas para dominar. Se torna mestre de espadas de esgrima ao concluir a matéria.
+   · Magia (Egípcios, Mortais e quaisquer semideus que possui capacidade de produzir magia)
+     → Aprimora o domínio do semideus com a magia. Varia de 0 a 20
+
+   · Academia
+     → Pode ser feita apenas duas vezes a semana em dias intercalados. Dentro dela, subdivisões:
+      → Treino de Força: A cada 4 treinos aumenta um ponto de força.
+      → Treino Cardíaco: A cada 4 treinos aumenta um ponto de velocidade.
+      → Sessão de Yoga: A cada 4 treinos aumenta um ponto de agilidade.
+      → Treino de Resistência: A cada 5 treinos aumenta 10 nos pontos de vida de seu personagem.
+
+   · Aulas Avançadas (Junior)
+
+  · Herbologia II (Requer I)
+    → Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita.
+  · Idiomas II (Requer I)
+    → Assistindo sete aulas, seu personagem pode dominar uma língua morta.
+  · Socorros Avançados (Requer Primeiros Socorros)
+    → A cada 5 aulas o aluno aprende a realizar uma cirurgia de pequeno-médio porte em pontos não importantes. Varia de 0 a 15.
+  · Programação
+    → O Aluno aprende a programar. Acumula de 0 a 15, varia com os sistemas de segurança.
+  · Criação de Explosivos
+    → Os alunos aprendem a criar um explosivo a cada duas aulas.
+
+   · Estudo Avançado (Senior)
+
+  · Medicina (Requer Socorros Avançados)
+    → O semideus está apto para aprender medicina. Varia de 0 a 20.
+  · Química (Requer Criação de Explosivos)
+    → O semideus está apto para aprender química. Varia de 0 a 20.
+  · HAAL (Requer HAAL)
+    → O semideus está apto para aprender História, Artes, Arqueologia ou Literatura. Varia de 0 a 20.
+  · Magia Suprema (Requer Magia)
+    → O praticante está apto a dominar a magia. Varia de 0 a 25.
 
 
 

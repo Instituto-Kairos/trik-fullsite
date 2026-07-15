@@ -13,7 +13,12 @@
 
 ㅤㅤㅤ ㅤAos onze anos nossos michĩvas estão prontos para colaborar com a aldeira, podendo auxilar onde sentirem mais afinidades com as atividades e é quando decidem seu nome. Nos temos três nomes: o primeiro é o nome próprio, que escolhemos aos onze anos. O segundo é o nome dos pais, que é como somos chamados antes de escolhermos o próprio. O terceiro é o nome da alma, um nome recebido aos dezessete anos após a cerimônia do Fogo Sagrado. O nome da alma é secreto. Então, temos o Nome da Familia, que é nosso sobrenome, o nome da Herança, que é associado a origem das nossas raizes. Todos os moradores da aldeia adotam também Ikaraipyre como último sobrenome.
 
+## Nosso dialeto
+ㅤㅤㅤ ㅤÉ uma mistura viva. Tem guarani, gê, tupi e outros dialetos. Para facilitar o entendimento, segue um pequeno dicionário de nossas palavras e seus usos:
 
+**Ava**: literalmente "povo", é como chamamos o coletivo de pessoas que dividem uma cultura;
+**Kuben**: "não indigena", usado para falar de coisas que não pertencem ao nosso povo, mas não usamos diretamente para falar de pessoas;
+**Kirahi**: "não indigena", usado para falar de pessoas que não pertencem ao nosso povo, usado diretamente com pessoas. Não recebe o sufixo "-gua" por não ser um gentilico. 
 ㅤㅤㅤ ㅤ
 
 <br><br>

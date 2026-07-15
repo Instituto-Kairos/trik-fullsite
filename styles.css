@@ -347,16 +347,17 @@ ol li::marker {
     width: 100%;
     overflow-x: auto;
     margin: 1rem 0;
+    display: flex;
+    justify-content: center;
 }
 
 .table-wrapper table {
-    width: max-content;
-    border: 1px, solid, var(--color-four);
     border-collapse: collapse;
-    min-width: 700px; 
+    width: max-content;
+    border: 1px solid var(--color-four);
+    border-collapse: collapse;
     display: block;
-    max-width: 100%;
-    overflow-x: auto;
+    flex-shrink: 0;
 }
 
 th {

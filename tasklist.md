@@ -20,7 +20,7 @@
 |                   | Grad.                 | 📍  |
 |                   | Condutas              | ✳️  |
 |                   | Princ.                | ✳️  |
-|                   | Bonus.                | 📍  |
+|                   | Bonus.                | ✳️  |
 |                   | Passes                | 📍  |
 |                   | Hab. Un.              | 📍  |
 |                   | P. Unl.               | 📍  |
