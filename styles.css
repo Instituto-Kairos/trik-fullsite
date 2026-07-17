@@ -348,26 +348,26 @@ ol li::marker {
     overflow-x: auto;
     margin: 1rem 0;
     display: flex;
-    justify-content: center;
 }
 
 .table-wrapper table {
     border-collapse: collapse;
-    width: max-content;
+    width: fit-content;
     border: 1px solid var(--color-four);
-    border-collapse: collapse;
-    display: block;
     flex-shrink: 0;
+    margin-inline: auto;
 }
 
 th {
     background-color: var(--color-four);
     padding: 10px 20px 10px 20px;
+    min-width: 210px;
 }
 
 td {
     padding: 10px 20px 10px 20px;
     text-align: justify;
+    min-width: 210px;
 }
 
 tr:nth-child(even) {

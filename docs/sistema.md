@@ -104,7 +104,33 @@
 ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nivel 5 de todas as armas da categoria. 
 
 ## Graduações
-ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto.
+ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações.
+
+| MATERIA | CATEGORIA | DESCRIÇÃO | QUANTIDADE DE AULAS |
+| :--                  | :--: | :--       | :--:                |
+| Academia | Aula Livre | A cada 5 treinos fornece um bônus para o atributo. Treinos disponivéis: Força, Cardíaco, Resistência e  Sessão de Yoga. | 20 |
+| Geografia/Astrologia | Aula Básica | Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. | 10 |
+| Idiomas I | Aula Básica | Todas as opções, é preciso assistir cinco aulas de idiomas para dominar o básico da língua escolhida. | 5 |
+| História, Artes, Literatura e Arqueologia | Aula Básica | Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. | 10 |
+| Biologia e Bestiário | Aula Básica | Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. | * |
+| Técnicas de Sobrevivência | Aula Básica | Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova. | 10 |
+| Primeiros Socorros| Aula Básica | Ensina cuidados básicos para ferimentos de até médio porte. | 15 |
+| Herbologia I | Aula Comuns | O aluno aprende a criar remédios com plantas. Duas aulas por poção. | * |
+| Esgrima | Aula Comuns | É uma aula para treino de técnicas. Se torna mestre de espadas de esgrima ao concluir a matéria. Dá de recompensa uma passiva de "Boa Postura", onde precisa de uma cena a menos para maestrias enquanto tutorado por alguém. | 12 |
+| Magia | Aula Comuns | Pode ser feita apenas duas vezes a semana em dias intercalados. Dentro dela, subdivisões | 20 |
+| Herbologia II | Aula Avançada | Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita. | * |
+| Idiomas II | Aula Avançada | Assistindo sete aulas, seu personagem pode dominar uma idioma que conhece o básico. | 7 |
+| Socorros Avançados | Aula Avançada | O aluno é preparado para lidar com emergências médicas e cuidados especializados | 15 |
+| Informática, Programação e Elétrica | Aula Avançada | Programação e cuidados eletrônicos. Muito útil para assuntos além de combates e essencial para empregos mundanos. | 15 |
+| Criação de Explosivos | Aula Avançada | Os alunos aprendem a criar um explosivo a cada 3  aulas. | 5 |
+| Técnico em Enfermagem | Estudo Avançado | Curso completo para conhecimento técnico em Enfermagem. | 20  |
+| Técnico em Química | Estudo Avançado | Curso completo para conhecimento técnico em Química. | 20  |
+| Licenciatura | Estudo Avançado | Curso completo para formar novos professores. | 20  |
+| Magia | Estudo Avançado | Curso completo para formar novos professores. | 20  |
+*novas aulas serão adicionadas futuramente.*
+</br></br>
+
+
 
 ## Condutas
 ㅤㅤㅤ ㅤUma conduta serve para definir como seu personagem toma decisões. Isso ajuda a manter a conscistência e saber como conduzir ele pelas aventuras que irá viver. O que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
@@ -186,6 +212,23 @@
 <br><br>
 
 ## Passes
+ㅤㅤㅤ ㅤSabendo a realidade de cada um e visando ser um projeto para entreterimento que não deve, nunca, se tornar uma obrigação, temos os passes para maior equidade na hora de medir o empenho com os personagens. Os passes podem ser usadas em janelas especificas, tudo é na base do dialogo e combinado.
+
+### Passe Estudantil
+ㅤㅤㅤ ㅤEm semanas de provas, avaliações ou maior demanda em trabalhos, o jogador pode ser liberado de realizar cenas e a semana não será considerada "inativa". Porém, caso o requisito seja apenas uma única semana para upar (níveis iniciais), não poderá ser usado se for o primeiro personagem a passar por esse marco, visto que pode prejudicar a experiência do jogador;
+
+### Passe Trabalhista
+ㅤㅤㅤ ㅤCaso você trabalhe, os requisitos de aula/maestria podem ser alternados para o foco do seu personagem. Se você precisava subir 1 nivel de maestria e 1 nivel em qualquer aula para evoluir, ter feito a quantidade minima de cenas e subido qualquer um dos dois já fará a semana contar como ativa. Novamente, isso não serve para semanas unicas para não atrapalhar o nivelamento do jogo;
+
+
+## Requisitos para Subir de Nível
+ㅤㅤㅤ ㅤPara uma semana ser considerada ativa, é verificado o desempenho fora do jogo. É necessário **8** cenas, onde **2** delas deve ser de treinos, **1** de uma tarefa comunitária, **1** de aula assistida, **1** cena dos trabalhos rotativos e **3** cenas livres, onde o jogador desejar jogar.
+ㅤㅤㅤ ㅤ
+ㅤㅤㅤ ㅤEm casos de missões, será pausado o sistema de up, porque a semana In-Game ficará amarrada e pode causar desbalanço onde o personagem tem um crescimento exagerado em uma semana In-Game. Isso será testado e medido e essa parte pode sofrer alterações futuramente.
+
+| NÍVEL | SEMANAIS IRL | SEMANAS IN-GAME | MAESTRIAS | AULAS |
+| :--:  | :--:         | :--:            | :--       | :--   |
+
 ## Habilidade Única
 ## Poderes Desbloqueados
 ## Condições e Transtornos
@@ -196,65 +239,6 @@
 
 Condutas: você eventualmente tem os 3. ao acumular 3 pontos, voce seleciona um aprimoramento de conduta. ao acumular 5, o segundo. no total: 10 pontos de conduta.
 Principios: voce eventualmente tem 2 dos 3. ao acumular 3 pontos, voce seleciona um aprimoramemto de principio. no total: 5 pontos de principio.
-
-
-
-
-· Aulas Básicas (Freshmen)
-
-   · Geografia/Astrologia
-     → Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. Varia de 0 a 10.
-   · Idiomas I
-     → Todas as opções, é preciso assistir cinco aulas de idiomas para dominar a língua escolhida.
-   · História (inclui Arte e Literatura)/Arqueologia
-     → Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. Varia de 0 a 10.
-   · Biologia e Bestiário
-     → Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. Precisa assistir 3 aulas para reconhecer frutas silvestres venenosas.
-   · Técnicas de Sobrevivência
-     → Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova.
-   · Primeiros Socorros
-     → Ensina cuidados básicos para ferimentos de até médio porte. Varia de 0 a 15.
-     
-   · Aulas Comuns (Sophomore)
-
-   · Herbologia I
-     → O aluno aprende a criar remédios com plantas. Duas aulas por poção. 
-   · Esgrima
-     → É uma aula para treino de técnicas. Requer 12 aulas assistidas para dominar. Se torna mestre de espadas de esgrima ao concluir a matéria.
-   · Magia (Egípcios, Mortais e quaisquer semideus que possui capacidade de produzir magia)
-     → Aprimora o domínio do semideus com a magia. Varia de 0 a 20
-
-   · Academia
-     → Pode ser feita apenas duas vezes a semana em dias intercalados. Dentro dela, subdivisões:
-      → Treino de Força: A cada 4 treinos aumenta um ponto de força.
-      → Treino Cardíaco: A cada 4 treinos aumenta um ponto de velocidade.
-      → Sessão de Yoga: A cada 4 treinos aumenta um ponto de agilidade.
-      → Treino de Resistência: A cada 5 treinos aumenta 10 nos pontos de vida de seu personagem.
-
-   · Aulas Avançadas (Junior)
-
-  · Herbologia II (Requer I)
-    → Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita.
-  · Idiomas II (Requer I)
-    → Assistindo sete aulas, seu personagem pode dominar uma língua morta.
-  · Socorros Avançados (Requer Primeiros Socorros)
-    → A cada 5 aulas o aluno aprende a realizar uma cirurgia de pequeno-médio porte em pontos não importantes. Varia de 0 a 15.
-  · Programação
-    → O Aluno aprende a programar. Acumula de 0 a 15, varia com os sistemas de segurança.
-  · Criação de Explosivos
-    → Os alunos aprendem a criar um explosivo a cada duas aulas.
-
-   · Estudo Avançado (Senior)
-
-  · Medicina (Requer Socorros Avançados)
-    → O semideus está apto para aprender medicina. Varia de 0 a 20.
-  · Química (Requer Criação de Explosivos)
-    → O semideus está apto para aprender química. Varia de 0 a 20.
-  · HAAL (Requer HAAL)
-    → O semideus está apto para aprender História, Artes, Arqueologia ou Literatura. Varia de 0 a 20.
-  · Magia Suprema (Requer Magia)
-    → O praticante está apto a dominar a magia. Varia de 0 a 25.
-
 
 
 ## OKAY, O QUE EU PRECISO PARA PASSAR DE NÍVEL?

@@ -2,44 +2,58 @@
 | domínio           | subdominio            | status |
 | :--               | :--                   | :--: |
 | abraamico         |                       | ✳️  |
-|                   |  domus sancta         | ✳️  |
-|                   |  calendario santo     | ✳️  |
-|                   |  tomo                 | ✴️  |
+|                   | *domus sancta         | ✳️  |
+|                   | *calendario santo     | ✳️  |
+|                   | *tomo                 | ✴️  |
 | indígena (br)     |                       | ✳️  |
-|                   |  kanirenda ikapaipyre | ✳️  |
-|                   |  tomo                 | *️⃣  |
+|                   | *kanirenda ikapaipyre | ✳️  |
+|                   | *tomo                 | *️⃣  |
 | romano            |                       | 📍  |
-|                   |  nova roma            | 📍  |
-|                   |  tomo                 | *️⃣  |
+|                   | *nova roma            | 📍  |
+|                   | *tomo                 | *️⃣  |
 | sistema base      |                       | 📍  |
 |                   | Stats                 | ✳️  |
 |                   | Formacao              | ✳️  |
 |                   | Trilhas               | ✳️  |
-|                   | Patentes              | 📍  |
-|                   | Maestria              | 📍  |
-|                   | Grad.                 | 📍  |
+|                   | Patentes              | ✳️  |
+|                   | Maestria              | ✳️  |
+|                   | Grad.                 | ✳️  |
+|                   | *aulas                | 📍  |
 |                   | Condutas              | ✳️  |
 |                   | Princ.                | ✳️  |
 |                   | Bonus.                | ✳️  |
-|                   | Passes                | 📍  |
+|                   | Passes                | ✳️  |
+|                   | Up                    | 📍  |
 |                   | Hab. Un.              | 📍  |
 |                   | P. Unl.               | 📍  |
 |                   | C. e T.               | 📍  |
 | celta             |                       | ✴️  |
-|                   |  tomo                 | ✴️  |
+|                   | *tomo                 | ✴️  |
 | yorubá            |                       | ✴️  |
-|                   |  tomo                 | ✴️  |
+|                   | *tomo                 | ✴️  |
 | japonês           |                       | *️⃣  |
-|                   |  tomo                 | *️⃣  |
+|                   | *tomo                 | *️⃣  |
 | chinês            |                       | *️⃣  |
-|                   |  Escolas              | *️⃣  |
-|                   |  tomo                 | *️⃣  |
+|                   | *escolas              | *️⃣  |
+|                   | *tomo                 | *️⃣  |
 | nórdico           |                       | *️⃣  |
-|                   |  tomo                 | *️⃣  |
+|                   | *tomo                 | *️⃣  |
 | egipcio           |                       | *️⃣  |
-|                   |  tomo                 | *️⃣  |
+|                   | *tomo                 | *️⃣  |
 | grego             |                       | *️⃣  |
-|                   |  tomo                 | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| hindu             |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| persa             |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| inuit             |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| asteca            |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| polinésia         |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| indigena (eua)    |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
 
 
 para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
