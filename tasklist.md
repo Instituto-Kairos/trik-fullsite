@@ -15,15 +15,14 @@
 |                   | Stats                 | ✳️  |
 |                   | Formacao              | ✳️  |
 |                   | Trilhas               | ✳️  |
-|                   | Patentes              | ✳️  |
 |                   | Maestria              | ✳️  |
 |                   | Grad.                 | ✳️  |
-|                   | *aulas                | 📍  |
+|                   | *aulas                | *️⃣  |
 |                   | Condutas              | ✳️  |
 |                   | Princ.                | ✳️  |
 |                   | Bonus.                | ✳️  |
 |                   | Passes                | ✳️  |
-|                   | Up                    | 📍  |
+|                   | Up                    | ✳️  |
 |                   | Hab. Un.              | 📍  |
 |                   | P. Unl.               | 📍  |
 |                   | C. e T.               | 📍  |

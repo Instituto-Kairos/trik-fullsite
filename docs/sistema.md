@@ -49,28 +49,6 @@
 | Trilha Cientifica | Pesquisa | O mundo semidivino é uma caixa de surpresas e você quer desbravá-la. É uma trilha de viagem, sem local fixo, que explora o mundo atrás de catalogar as maravilhas que o mundo semidivino esconde. | Viagens longas, estadias solitárias, muito trabalho a fazer. |
 | Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
 
-## Patentes
-ㅤㅤㅤ ㅤLogo após sua formação, você escolhe uma Trilha para seguir e dela você segue sua evolução.
-
-| Nível | Recompensa |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  |
-| --:   | :--        | :--         | :--                        | :--            | :--                         | :--       | 
-|  6    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |
-|  7    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
-|  8    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Desbloqueio de Conduta <br>      | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante |
-|  9    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante |
-| 10    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
-| 11    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Oficial I   | Farmaceutico III     | Tesoureiro III | Auxiliar de Coleta III      | Estudante |
-| 12    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | 
-| 13    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | 
-| 14    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Desbloqueio de Príncipio <br>    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | 
-| 15    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | 
-| 16    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | 
-| 17    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
-| 18    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |
-| 19    | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio <br>  | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |
-| 20    | ✦ Um Ponto de Aprimoramento de Conduta <br>                                                | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   |
-| 21    | ✦ Um Ponto de Aprimoramento Secreto <br>                                                   | *           | *                          | *              | *                           | *         |
-
 ## Maestria
 ㅤㅤㅤ ㅤAo treinar com armas de qualquer tipo ou combate, você adquire uma quantidade de experiência na sua barra de Maestria, que determina seu domínio com uma arma ou estilo de luta. A experiência é adquirida por número de cenas treinando e quantidade de caracteres desse treino, recompensando jogadores dedicados.
 
@@ -104,11 +82,10 @@
 ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nivel 5 de todas as armas da categoria. 
 
 ## Graduações
-ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações.
+ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações. A cada cinco nivéis é desbloqueado a próxima categoria.
 
 | MATERIA | CATEGORIA | DESCRIÇÃO | QUANTIDADE DE AULAS |
 | :--                  | :--: | :--       | :--:                |
-| Academia | Aula Livre | A cada 5 treinos fornece um bônus para o atributo. Treinos disponivéis: Força, Cardíaco, Resistência e  Sessão de Yoga. | 20 |
 | Geografia/Astrologia | Aula Básica | Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. | 10 |
 | Idiomas I | Aula Básica | Todas as opções, é preciso assistir cinco aulas de idiomas para dominar o básico da língua escolhida. | 5 |
 | História, Artes, Literatura e Arqueologia | Aula Básica | Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. | 10 |
@@ -220,40 +197,48 @@
 ### Passe Trabalhista
 ㅤㅤㅤ ㅤCaso você trabalhe, os requisitos de aula/maestria podem ser alternados para o foco do seu personagem. Se você precisava subir 1 nivel de maestria e 1 nivel em qualquer aula para evoluir, ter feito a quantidade minima de cenas e subido qualquer um dos dois já fará a semana contar como ativa. Novamente, isso não serve para semanas unicas para não atrapalhar o nivelamento do jogo;
 
+### Passe Múltiparo
+ㅤㅤㅤ ㅤCaso você tenha mais de um personagem, você tem que pagar apenas 50% dos requisitos de um dos personagens. Atenção: caso um desses personagens seja sempre deixado de lado, você talvez não consiga fichar outros por não estar apto a dividir sua atenção e desenvolver ambos os personagens.
+
 
 ## Requisitos para Subir de Nível
-ㅤㅤㅤ ㅤPara uma semana ser considerada ativa, é verificado o desempenho fora do jogo. É necessário **8** cenas, onde **2** delas deve ser de treinos, **1** de uma tarefa comunitária, **1** de aula assistida, **1** cena dos trabalhos rotativos e **3** cenas livres, onde o jogador desejar jogar.
-ㅤㅤㅤ ㅤ
-ㅤㅤㅤ ㅤEm casos de missões, será pausado o sistema de up, porque a semana In-Game ficará amarrada e pode causar desbalanço onde o personagem tem um crescimento exagerado em uma semana In-Game. Isso será testado e medido e essa parte pode sofrer alterações futuramente.
+ㅤㅤㅤ ㅤPara conseguir upar, você precisa concluir os requisitos semanais. Tem minimo de semanas IRL e IN-Game, número de cenas que deve ser feitas assistindo aulas, treinos, fazendo tarefas e trabalhos dentro da comunidade e o total de cenas. O total de cenas na semana sempre conta as cenas obrigatórios em treinos, aulas, tarefas ou trabalhos somado a cenas livres, que podem ser pagas realizando qualquer cena com o personagem.
 
-| NÍVEL | SEMANAIS IRL | SEMANAS IN-GAME | MAESTRIAS | AULAS |
-| :--:  | :--:         | :--:            | :--       | :--   |
-|  01   | | | | |
-|  02   | | | | |
-|  03   | | | | |
-|  04   | | | | |
-|  05   | | | | |
-|  06   | | | | |
-|  07   | | | | |
-|  08   | | | | |
-|  09   | | | | |
-|  10   | | | | |
-|  11   | | | | |
-|  12   | | | | |
-|  13   | | | | |
-|  14   | | | | |
-|  15   | | | | |
-|  16   | | | | |
-|  17   | | | | |
-|  18   | | | | |
-|  19   | | | | |
-|  20   | | | | |
-|  21   | | | | |
 
+| Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  | Requisitos | Recompensa |
+| :--:  | :--         | :--                        | :--            | :--                         | :--       | :--        | :--        | 
+| 01    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
+| 02    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
+| 03    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | |
+| 04    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
+| 05    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas |
+| 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
+| 09    | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 7 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 10    | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game;    | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Aulas Comuns Desbloqueadas ✦ Aulas Avançadas Desbloqueadas;  |
+| 11    | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 9 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta |
+| 12    | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 13    | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 14    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Príncipio; | 
+| 15    | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Estudos Avançados Desbloqueadas; | 
+| 16    | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 17    | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; |
+| 18    | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 19    | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 20    | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta;                                                |
+| 21    | *           | *                          | *              | *                           | *         | *                                                                                                            | ✦ Um Ponto de Aprimoramento Secreto;                                                  |
+
+
+
+
+
+
+
+## Tarefas e Trabalhos
 ## Habilidade Única
 ## Poderes Desbloqueados
 ## Condições e Transtornos
-
 
 
 ### LEMBRETES
@@ -355,3 +340,6 @@ Você também:
 > 4. Tem acesso aos armazéns de medicamentos;
 
 <!-- FOOTER -->
+
+
+
