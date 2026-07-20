@@ -1,5 +1,5 @@
 # la Domus Sancta
-> "Do lado de fora, uma Domus Sancta parece uma catedral perfeitamente normal. Sua diferenciação está no conteúdo do seu interior, ou melhor, em seu subterraneo: a construção se expande por baixo da terra, em masmorras medievais recheada de ritos e escritas sagradas."; 
+*"Do lado de fora, uma Domus Sancta parece uma catedral perfeitamente normal. Sua diferenciação está no conteúdo do seu interior, ou melhor, em seu subterraneo: a construção se expande por baixo da terra, em masmorras medievais recheada de ritos e escritas sagradas."*
 
 <!-- CONTENT -->
 
