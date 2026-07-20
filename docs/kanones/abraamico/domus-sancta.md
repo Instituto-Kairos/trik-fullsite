@@ -1,5 +1,5 @@
 # la Domus Sancta
-> n/a: adicionar descrição da casa; 
+> "Do lado de fora, uma Domus Sancta parece uma catedral perfeitamente normal. Sua diferenciação está no conteúdo do seu interior, ou melhor, em seu subterraneo: a construção se expande por baixo da terra, em masmorras medievais recheada de ritos e escritas sagradas."; 
 
 <!-- CONTENT -->
 
@@ -45,3 +45,4 @@
 7. Tudo é visto, tudo é ouvido. *Cosi sia.*
 
 ## Matre Domus Sancta
+ㅤㅤㅤ ㅤLocalizada no Vaticano, a Matre Domus Sancta é a casa "principal". Ela é a primeira fundação formada, alguns anos antes da conversão de Roma. Esses fiéis se reunião em masmorras, subterraneas, onde era seguro manter sua fé sem a perseguição da época. Com o passar dos anos, as religiões abraâmicas se tornaram as mais seguidas e não há mais necessidade de do esconderijo. Porém, diferente das típicas religiões atuais, a Domus Sancta não nega a existência dos deuses que antes Roma seguia, não vendo seu caminho como o soberano e sim como o que escolheram para trilhar: por esse motivo, seus costumes seguem escondidos, longe da luz do dia.
