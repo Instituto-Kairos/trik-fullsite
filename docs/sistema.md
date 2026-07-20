@@ -26,16 +26,6 @@
 
 ㅤㅤㅤ ㅤAntes de ter acesso as patentes, que são divididas em trilhas, todos os personagens passam por um periodo de adaptação, que existe para o jogador se acostumar ao sistema. Sendo assim, ao criar o segundo, terceiro ou próximos personagens, os requisitos de tempo não são mais necessários, exigindo apenas os requisitos de conhecimento. Para acelerar, todas as "recompensas" também existem desde o ínicio para personagens secundários ou além. Os requisitos para ter uma semana válida dentro do jogo é ter pelo menos quatro cenas e ter assistido pelo menos uma aula.
 
-<br><br>
-
-| NOME DO NÍVEL | DESCRIÇÃO | RECOMPENSAS |
-| :-- | :--: | :-- |
-| Novato | Você acabou de chegar no Instituto. Precisa entender como as coisas funcionam. | Você começa aqui; | — |
-| Interno | As coisas fazem um pouco mais de sentido agora. Você consegue se ver como parte do local; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | Você escolhe uma área de interesse; |
-| Apto | Você está apto a escolher uma trilha para seguir; | Você escolhe um objetivo; |
-
 ## Trilhas
 
 ㅤㅤㅤ ㅤAs trilhas são jornadas para seu personagem crescer além de ir em missões e enfrentar a fúria de monstros e deuses. Elas são divididas da seguinte maneira:
@@ -281,11 +271,11 @@ Por outro lado, você também:
 
 | Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Sazonal  | Requisitos | Recompensa |
 | :--:  | :--         | :--                        | :--            | :--                         | :--       | :--        | :--        | 
-| 01    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
-| 02    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
-| 03    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | |
-| 04    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
-| 05    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas |
+| 01    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
+| 02    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 03    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 04    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma área de interesse; |
+| 05    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas </br> ✦ Você escolhe um objetivo;|
 | 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
 | 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
 | 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
