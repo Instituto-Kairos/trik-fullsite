@@ -3,17 +3,17 @@
 
 <!-- CONTENT -->
 
-## Estátisticas de Personagem
+## Estatísticas de Personagem
 
-ㅤㅤㅤ ㅤSeu personagem é contruido ao longo do seu tempo dentro do jogo. Ele não é fichado com todos os valores de personalizações definidos para incentivar personagens tridimensionais, orgânicos e humanos, que são afetados pelo seu entorno e que também afetam ele. Por esse motivo, apenas ao ser ativo por uma semana dentro do jogo, é recebido as caracteristicas de acordo com o nível. Segue uma tabela informativa sobre divisões do sistema:
+ㅤㅤㅤ ㅤSeu personagem é contruido ao longo do seu tempo dentro do jogo. Ele não é fichado com todos os valores de personalizações definidos para incentivar personagens tridimensionais, orgânicos e humanos, que são afetados pelo seu entorno e que também afetam ele. Por esse motivo, apenas ao ser ativo por uma semana IRL, é recebido as caracteristicas de acordo com o nível. Segue uma tabela informativa sobre divisões do sistema:
 <br><br>
 
-| ESTATISTICA | CATEGORIA | DESCRIÇÃO |
+| ESTATÍSTICA | CATEGORIA | DESCRIÇÃO |
 | :-- | :--: | :-- |
 | Formação | Nivelamento | Níveis iniciais preparatórios antes do personagem escolher as trilhas |
 | Patente | Nivelamento | Cargo dentro da trilha escolhida do personagem. Nivela conhecimento e poderes. Não mede poder bruto, como por exemplo: um filho de Zeus pode parecer mais forte que um filho de Hermes, mas se o filho de Hermes tem uma patente mais alta que o de Zeus, o talento bruto dele pode parecer maior, mas o de Hermes tem vantagem pelo tempo de experiência. |
 | Maestria | Nivelamento | Experiência acumulada em armas e tipos de combate. Acumulam pontos de zero a dez e, ao maximar no nível 10, acumula de zero a cem. |
-| Graduação | Nivelamento | Experiência acumulada em estudos e conhecimentos. Acumulam pontos de zeor a dez e, ao maximar no nível 10, acumula de zero a cem. |
+| Graduação | Nivelamento | Experiência acumulada em estudos e conhecimentos. Acumulam pontos de zero a dez e, ao maximar no nível 10, acumula de zero a cem. |
 | Conduta | Alinhamento | Dividido em Coração, Corpo e Mente. Fala sobre como seu personagem toma decisões. |
 | Princípios | Alinhamento | Dividido em Propósito, Sangue e Presença. Fala sobre o quê faz seu personagem agir. |
 | Bonificadores | Recurso | Dividido em Aptidões, Preferências, Vocação e Objetivo, esses bônus servem para acelerar a progressão do personagem. |
@@ -24,14 +24,14 @@
 
 ## Formação
 
-ㅤㅤㅤ ㅤAntes de ter acesso as patentes, que são divididas em trilhas, todos os personagens passam por um periodo de adaptação, que existe para o jogador se acostumar ao sistema. Sendo assim, ao criar o segundo, terceiro ou próximos personagens, os requisitos de tempo não são mais necessários, exigindo apenas ou requisitos de conhecimento. Para acelerar, todas as "recompensas" também existem desde o ínicio para personagens secundários ou além. Os requisitos para ter uma semana válida dentro do jogo é ter pelo menos quatro cenas e ter assistido pelo menos uma aula.
+ㅤㅤㅤ ㅤAntes de ter acesso as patentes, que são divididas em trilhas, todos os personagens passam por um periodo de adaptação, que existe para o jogador se acostumar ao sistema. Sendo assim, ao criar o segundo, terceiro ou próximos personagens, os requisitos de tempo não são mais necessários, exigindo apenas os requisitos de conhecimento. Para acelerar, todas as "recompensas" também existem desde o ínicio para personagens secundários ou além. Os requisitos para ter uma semana válida dentro do jogo é ter pelo menos quatro cenas e ter assistido pelo menos uma aula.
 
 <br><br>
 
 | NOME DO NÍVEL | DESCRIÇÃO | RECOMPENSAS |
 | :-- | :--: | :-- |
 | Novato | Você acabou de chegar no Instituto. Precisa entender como as coisas funcionam. | Você começa aqui; | — |
-| Interno | As coisas fazem um pocuo mais de sentido agora. Você consegue se ver como parte do local; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| Interno | As coisas fazem um pouco mais de sentido agora. Você consegue se ver como parte do local; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
 | Estudante | Você está se aprimorando, entendendo melhor seu lugar e como pode contribuir; | Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
 | Pesquisador | Você já sabe o que deseja fazer, conhece seus limites e suas qualidades; | Você escolhe uma área de interesse; |
 | Apto | Você está apto a escolher uma trilha para seguir; | Você escolhe um objetivo; |
@@ -47,7 +47,8 @@
 | Trilha Gerencial | Administrativo | Organizações, Anotações e Planilhas. Você sabe as complicações de viver na faixa do mundo divino e quer tornar isso o mais fácil possível. | Você pode ser advogado, gerente, engenheiro, todos os cargos de escritório que faz a manuntenção da vida mortal dos semidivinos. É mais fácil para você estar no mundo mortal |
 | Trilha Médica | Saúde | A vida dos semidivinos são muito perigosas e você quer amenizar os danos e percas. | Médicos, cirurgiões, psicologos e socorristas. Você vai prestar assistência aos seus companheiros. |
 | Trilha Cientifica | Pesquisa | O mundo semidivino é uma caixa de surpresas e você quer desbravá-la. É uma trilha de viagem, sem local fixo, que explora o mundo atrás de catalogar as maravilhas que o mundo semidivino esconde. | Viagens longas, estadias solitárias, muito trabalho a fazer. |
-| Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
+| Trilha Sazonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
+
 </br></br>
 
 ### CARREIRA MILITAR
@@ -106,7 +107,7 @@ Você também:
 > 3. É membro da Bancada Dourada (comitê de cientistas do semidivino);
 > 4. Tem acesso aos laboratórios
 
-### CARREIRA SEASONAL
+### CARREIRA Sazonal
 O mundo é além de deuses, monstros e sobreviver. Você acredita que existe uma escolha, e você está escolhendo viver como uma pessoa comum. Ao tomar essa decisão, você:
 
 > 1. Pode ir até a Cidade fazer faculdade;
@@ -175,6 +176,8 @@ Por outro lado, você também:
 | Técnico em Química | Estudo Avançado | Curso completo para conhecimento técnico em Química. | 20  |
 | Licenciatura | Estudo Avançado | Curso completo para formar novos professores. | 20  |
 | Magia | Estudo Avançado | Curso completo para formar novos professores. | 20  |
+
+
 *novas aulas serão adicionadas futuramente.*
 </br></br>
 
@@ -195,7 +198,7 @@ Por outro lado, você também:
 ## Princípios
 ㅤㅤㅤ ㅤApós entender onde seu personagem toma as decisões que precisa fazer, é hora de entender o que o levaria a tomar decisões. Qual a regua moral que ele usa? Qual a balança está sendo usada para pesar suas ações e, principalmente, a dos outros? O que seu personagem tem como ideal? O que ele define por sucesso?
 
-### O Próposito
+### O Propósito
 ㅤㅤㅤ ㅤConvicto, você tem um código de conduta muito bem definido. Sabe onde está e para onde quer ir e consegue visualizar um caminho para chegar lá. As coisas são meio preto e branco para você, ou estão acertas ou não estão. Você também acredita que tudo nessa vida tem um motivo, algo para contribuir e uma missão a cumprir. Perder essa função, para você, é o mesmo que te destruirem.
 
 ### O Sangue
@@ -276,7 +279,7 @@ Por outro lado, você também:
 ㅤㅤㅤ ㅤPara conseguir upar, você precisa concluir os requisitos semanais. Tem minimo de semanas IRL e IN-Game, número de cenas que deve ser feitas assistindo aulas, treinos, fazendo tarefas e trabalhos dentro da comunidade e o total de cenas. O total de cenas na semana sempre conta as cenas obrigatórios em treinos, aulas, tarefas ou trabalhos somado a cenas livres, que podem ser pagas realizando qualquer cena com o personagem.
 
 
-| Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Seasonal  | Requisitos | Recompensa |
+| Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Sazonal  | Requisitos | Recompensa |
 | :--:  | :--         | :--                        | :--            | :--                         | :--       | :--        | :--        | 
 | 01    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
 | 02    | —           | —                          | —              | —                           | —         | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
