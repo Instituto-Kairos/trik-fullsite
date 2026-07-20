@@ -48,6 +48,77 @@
 | Trilha Médica | Saúde | A vida dos semidivinos são muito perigosas e você quer amenizar os danos e percas. | Médicos, cirurgiões, psicologos e socorristas. Você vai prestar assistência aos seus companheiros. |
 | Trilha Cientifica | Pesquisa | O mundo semidivino é uma caixa de surpresas e você quer desbravá-la. É uma trilha de viagem, sem local fixo, que explora o mundo atrás de catalogar as maravilhas que o mundo semidivino esconde. | Viagens longas, estadias solitárias, muito trabalho a fazer. |
 | Trilha Seasonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
+</br></br>
+
+### CARREIRA MILITAR
+Você vê seu personagem como um membro de ataque e defesa. Missões de choque, combate, dominação de pontos estratégicos, você é a força tarefa ativa do Instituto. Assim que passar do nível de soldado, poderá se tornar um Sargento e assumir obrigações voltadas aos seus objetivos. Você tem acesso as aulas:
+
+> 1. História da Guerra; (básico)
+> 2. Estratégias em um Campo de Batalha; (comuns)
+> 3. Manutenção e Cuidado com Armas; (avançadas)
+> 4. Liderança e Cuidado Psicológico; (curso formativo)
+
+Você também:
+> 1. Tem acesso a treinos mais pesados;
+> 2. Tem voz nas decisões de missões;
+> 3. Tem acesso aos seus próprios soldados;
+> 4. Tem acesso aos armazens de armas;
+
+### CARREIRA DE GERENCIAMENTO
+Você acredita que para algo funcionar alguém precisa zelar por ela. Seu personagem sabe manusear equipamentos de reparo, racionar suprimentos, guardar corretamente medicamentos. Você também é ótimo organizando horários, preparando kits para equipes de missão e de suporte para enfermos. Ao se tornar Taifero, você recebe acesso para:
+
+> 1. Dosagens e Armazenagem; (básico)
+> 2. Preparativos contra crises; (comuns)
+> 3. Situações de emergência e medidas improvisadas; (avançadas)
+> 4. Coordenação e Espirito; (curso formativo)
+
+Você também:
+> 1. Pode ter reuniões e ser chamado para trabalhos envolvendo gerenciamento;;
+> 2. Constrói uma rede de contatos dentro e fora do Prédio;
+> 3. Tem sua própria equipe de gerenciamento;
+> 4. Tem acesso aos armazéns de suprimento;
+
+### CARREIRA MÉDICA
+Você acredita que mais importante dos guerreiros, é quem trata os feridos. Seu personagem se destaca em demostrar domínio em lidar em situações de crise e acalmar enfermo, também tem o objetivo de agir diante de situações de vida ou morte. Ao se tornar Enfermeiro, você recebe acesso:
+
+> 1. Organização de Centros Médicos; (básico)
+> 2. Criação de Medicamentos; (comuns)
+> 3. Esterilização e Improviso; (avançadas)
+> 4. Uma mente, oito mãos: O Centro Cirúrgico; (curso formativo)
+
+Você também:
+> 1. É acionado para tratar internos;
+> 2. Faz a separação dos medicamentos;
+> 3. Participa de decisões de vida e morte de internos;
+> 4. Tem acesso aos armazéns de medicamentos;
+
+### CARREIRA CIÉNTIFICA
+Você vê o mundo como um horizonte a ser desbravado. Você quer encontrar outras coisas que, assim como você, compartilham o mundo mortal e divino, o humano e o sagrado. Ao se tornar Cientista, você recebe acesso:
+
+> 1. Catalogação; (básico)
+> 2. Ciências Aplicadas; (comuns)
+> 3. Do Micro ao Macro; (avançadas)
+> 4. Espécimes de Ouro: o Reconhecimento do Semidivino; (curso formativo)
+
+Você também:
+> 1. É capaz de pesquisar fauna e flora mágica;
+> 2. Pesquisa sobre fenomenos da natureza semidivina;
+> 3. É membro da Bancada Dourada (comitê de cientistas do semidivino);
+> 4. Tem acesso aos laboratórios
+
+### CARREIRA SEASONAL
+O mundo é além de deuses, monstros e sobreviver. Você acredita que existe uma escolha, e você está escolhendo viver como uma pessoa comum. Ao tomar essa decisão, você:
+
+> 1. Pode ir até a Cidade fazer faculdade;
+> 2. Tem auxilio para se mudar para a cidade;
+> 3. Pode ter um emprego na cidade;
+> 4. Tem acesso a técnologia humana, dinheiro humano e... todas as chatices envolvendo impostos de renda e dividas médicas;
+
+Por outro lado, você também:
+> 1. Pode começar a perder a habilidade de ver atráves da névoa;
+> 2. Tem seus poderes adormecidos;
+> 3. Pode esquecer dos anos de vida e aventuras que teve como semideus;
+> 4. Paga imposto!
 
 ## Maestria
 ㅤㅤㅤ ㅤAo treinar com armas de qualquer tipo ou combate, você adquire uma quantidade de experiência na sua barra de Maestria, que determina seu domínio com uma arma ou estilo de luta. A experiência é adquirida por número de cenas treinando e quantidade de caracteres desse treino, recompensando jogadores dedicados.
@@ -236,108 +307,40 @@
 
 
 ## Tarefas e Trabalhos
-## Habilidade Única
+ㅤㅤㅤ ㅤQuando você atinge certo cargo dentro do Instituto, seu papel na comunidade se torna essencial. Você precisa cumprir algumas **tarefas** e **trabalhos**, conforme o que estiver disponível. Os trabalhos estão disponivel acima do nivel nove e as tarefas acima do nivel seis. As tarefas normalmente se referem a atividades executadas internamente no instituto, como por exemplo:
+
+1. É dever do Interno manter o quarto limpo e organizado;
+2. É dever do Interno lavar suas próprias roupas;
+3. É dever do Interno, em sistema de rodízio, lavar os banheiros;
+4. É dever do Interno, em sistema de rodízio, limpas as áreas comuns;
+5. É dever do Interno, em sistema de rodízio, auxiliar nas refeições;
+6. É dever do Interno, em sistema de rodízio, fazer pequenas manuntenções dentro do Instituto;
+7. É dever do Interno, em sistema de rodízio, cuidar da horta;
+
+ㅤㅤㅤ ㅤOs trabalhos, por outro lado, se referem a atividades externas feitas em pequenos grupos de no máximo três pessoas. Eles requerem uma saída liberada ou uma convocação para tal serviço.
+
+1. Ajudar os companheiros d'A Rede;
+2. Comprar suprimentos essenciais;
+3. Patrulhar o perimetro do Instituto;
+4. Atender pedidos de resgates d'A Rede;
+5. Visitas necessárias a hospitais especializados;
+6. Tratar de Documentação Civil dos Internos;
+
+
 ## Poderes Desbloqueados
-## Condições e Transtornos
+ㅤㅤㅤ ㅤDurante o jogo, os internos terão habilidades, condições e poderes desbloqueados. Eles não podem ser escolhidos, mas são feitos para aumentar a individualidade e incentivar o jogador a desenvolver seu personagem, para ser capaz de desbloquear sua habilidade única.
+
+### Habilidade Única
+ㅤㅤㅤ ㅤÉ um poder único que apenas seu personagem tem com aqueles requisitos. Ele se limita a 100% de origilidade dentro do panteão, e parte de origilidade em panteões diferentes, mudando alguns requisitos ou alterando a forma que é explicado essa habilidade. Não existe uma lista pronta e esses poderes são adquiridos In-Game, desbloqueados pelo Narrador.
+
+### Condições e Transtornos
+ㅤㅤㅤ ㅤAssim como os não-divinos tem condições genéticas que dão a eles peculiariedades diversas, o sangue dos deuses faz o mesmo nesses pequenos cérebros meio humano meio divino. Você também irá descobrir elas durante seu jogo, mas não são obrigatórias: alguns personagens tens, outros não. Normalmente, não oferecem vantagem clara e costume se autobalancear, por não ser "controlavel", mas pode ser aprendido a lidar com ela e ter algum proveito. De toda forma, não é o objetivo desse tópico dar vantagens.
 
 
 ### LEMBRETES
 
 Condutas: você eventualmente tem os 3. ao acumular 3 pontos, voce seleciona um aprimoramento de conduta. ao acumular 5, o segundo. no total: 10 pontos de conduta.
 Principios: voce eventualmente tem 2 dos 3. ao acumular 3 pontos, voce seleciona um aprimoramemto de principio. no total: 5 pontos de principio.
-
-
-## OKAY, O QUE EU PRECISO PARA PASSAR DE NÍVEL?
-
-São necessários **10** cenas semanais (Semana IRL e nao In-Game), onde:
-ㅤㅤㅤ ㅤ**+2** cenas de treino
-ㅤㅤㅤ ㅤ**+1** cena de tarefas
-ㅤㅤㅤ ㅤ**+1** cena de aula
-ㅤㅤㅤ ㅤ**+4** cenas no on / +2 trilhas e +2 on após o nivel oito.
-ㅤㅤㅤ ㅤ**+2** cenas livres (onde o player desejar)
-
-*desconto de cenas:* para cada pp extra, reduz 2 cenas na seguinte ordem de necessários (on > livres > tarefas > aula > treinos > trilhas). É necessário marcar presença na lista de treino no final do dia com um **/check** e a seleção da atividade exercida com o nome do personagem.
-
-ㅤㅤㅤ ㅤ**Os requisitos não aumentam conforme o nível**, já que prezamos por um divertido e que não seja uma obrigação. Algumas coisas são requisitos para subir de nível.
-
-ㅤㅤㅤ ㅤ**Novato para Recruta** → é necessário ter nível 1 em maestria em duas armas;
-ㅤㅤㅤ ㅤ**Recruta para Soldado** → é necessário ter nível 5 de maestria em uma arma e ter se formado em uma das aulas iniciais;
-
-ㅤㅤㅤ ㅤ**Soldado para Sargento** → é necessário ter maestria 10 em uma arma (domínio pleno);
-ㅤㅤㅤ ㅤ**Soldado para Taifero 2°** → sem requisitos;
-ㅤㅤㅤ ㅤ*caso deseje a trilha militar, pode esperar mais uma semana para aprimorar suas habilidades antes de escolher o nível.
-
-ㅤㅤㅤ ㅤ**Sargento para Oficial** → é necessário ter maestria 3 em três além da principal (dominada);
-ㅤㅤㅤ ㅤ**Taifero 2° para Taifero 1°** → assumir algum cargo fixo de tarefas;
-ㅤㅤㅤ ㅤ**Qualquer uma para Enfermeiro** → formação em primeiros socorros;
-
-ㅤㅤㅤ ㅤ**Oficial para Tenente** → formação em uma aula militar;
-ㅤㅤㅤ ㅤ**Taifero para Oficial de Taifa** → formação em uma aula administrativa;
-ㅤㅤㅤ ㅤ**Enfermeiro para Médico** → conclusão de curso médico técnico;
-
-ㅤㅤㅤ ㅤ**Tenente para Capitão** → formação em uma aula militar e domínio pleno de três armas;
-ㅤㅤㅤ ㅤ**Oficial de Taifa para Supervisor** → conclusão de curso administrativo da área de ação e formação para exercer função;
-ㅤㅤㅤ ㅤ**Médico para Médico-Chefe** → conclusão de curso de técnicas médicas e formação para exercer função;
-
-ㅤㅤㅤ ㅤ**Capitão para Segundo Sargento** → domínio pleno de cinco armas, formação no curso militar e certificado para exercer função;
-ㅤㅤㅤ ㅤ**Supervisor para Segundo Coordenador** → montagem de plano-ação para organização do prédio;
-ㅤㅤㅤ ㅤ**Médico-Chefe para Segundo Cirurgião** → formação em cirurgião;
-
-ㅤㅤㅤ ㅤ**Segundo Sargento para Primeiro Sargento** → treina 3 pessoas;
-ㅤㅤㅤ ㅤ**Segundo Coordenador para Primeiro Coordenador** → preparar um evento;
-ㅤㅤㅤ ㅤ**Segundo Cirurgião para Primeiro Cirurgião** → preparar uma sala de cirurgiã;
-
-ㅤㅤㅤ ㅤ**Qualquer um para Herói** → realizar um grande feito;
-
-
-
-
-
-
-
-## AS TRILHAS
-
-### CARREIRA MILITAR
-Você vê seu personagem como um membro de ataque e defesa. Missões de choque, combate, dominação de pontos estratégicos, você é a força tarefa ativa do Instituto. Assim que passar do nível de soldado, poderá se tornar um Sargento e assumir obrigações voltadas aos seus objetivos. Você tem acesso as aulas:
-
-> 1. História da Guerra; (básico)
-> 2. Estratégias em um Campo de Batalha; (comuns)
-> 3. Manutenção e Cuidado com Armas; (avançadas)
-> 4. Liderança e Cuidado Psicológico; (curso formativo)
-
-Você também:
-> 1. Tem acesso a treinos mais pesados;
-> 2. Tem voz nas decisões de missões;
-> 3. Tem acesso aos seus próprios soldados;
-> 4. Tem acesso aos armazens de armas;
-
-### CARREIRA DE GERENCIAMENTO
-Você acredita que para algo funcionar alguém precisa zelar por ela. Seu personagem sabe manusear equipamentos de reparo, racionar suprimentos, guardar corretamente medicamentos. Você também é ótimo organizando horários, preparando kits para equipes de missão e de suporte para enfermos. Ao se tornar Taifero, você recebe acesso para:
-
-> 1. Dosagens e Armazenagem; (básico)
-> 2. Preparativos contra crises; (comuns)
-> 3. Situações de emergência e medidas improvisadas; (avançadas)
-> 4. Coordenação e Espirito; (curso formativo)
-
-Você também:
-> 1. Pode ter reuniões e ser chamado para trabalhos envolvendo gerenciamento;;
-> 2. Constrói uma rede de contatos dentro e fora do Prédio;
-> 3. Tem sua própria equipe de gerenciamento;
-> 4. Tem acesso aos armazéns de suprimento;
-
-### CARREIRA MÉDICA
-Você acredita que mais importante dos guerreiros, é quem trata os feridos. Seu personagem se destaca em demostrar domínio em lidar em situações de crise e acalmar enfermo, também tem o objetivo de agir diante de situações de vida ou morte. Ao se tornar Enfermeiro, você recebe acesso:
-
-> 1. Organização de Centros Médicos; (básico)
-> 2. Criação de Medicamentos; (comuns)
-> 3. Esterilização e Improviso; (avançadas)
-> 4. Uma mente, oito mãos: O Centro Cirúrgico; (curso formativo)
-
-Você também:
-> 1. É acionado para tratar internos;
-> 2. Faz a separação dos medicamentos;
-> 3. Participa de decisões de vida e morte de internos;
-> 4. Tem acesso aos armazéns de medicamentos;
 
 <!-- FOOTER -->
 

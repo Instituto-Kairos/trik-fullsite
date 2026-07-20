@@ -11,7 +11,7 @@
 | romano            |                       | 📍  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | *️⃣  |
-| sistema base      |                       | 📍  |
+| sistema base      |                       | ✳️  |
 |                   | Stats                 | ✳️  |
 |                   | Formacao              | ✳️  |
 |                   | Trilhas               | ✳️  |
@@ -23,9 +23,10 @@
 |                   | Bonus.                | ✳️  |
 |                   | Passes                | ✳️  |
 |                   | Up                    | ✳️  |
-|                   | Hab. Un.              | 📍  |
-|                   | P. Unl.               | 📍  |
-|                   | C. e T.               | 📍  |
+|                   | T&T                   | ✳️  |
+|                   | Hab. Un.              | *️⃣  |
+|                   | P. Unl.               | ✳️  |
+|                   | C. e T.               | *️⃣  |
 | celta             |                       | ✴️  |
 |                   | *tomo                 | ✴️  |
 | yorubá            |                       | ✴️  |
