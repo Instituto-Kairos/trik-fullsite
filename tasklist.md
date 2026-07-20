@@ -42,23 +42,18 @@
 |                   | Hab. Un.              | *️⃣  |
 |                   | P. Unl.               | ✳️  |
 |                   | C. e T.               | *️⃣  |
-| x                 | x                     | ❎  |
-| x                 | x                     | ❎  |
-| x                 | x                     | ❎  |
-| x                 | x                     | ❎  |
-| x                 | x                     | ❎  |
-| hindu             |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| persa             |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| inuit             |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| asteca            |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| polinésia         |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| indigena (eua)    |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
+| hindu             |                       | 📋  |
+|                   | *tomo                 | 📋  |
+| persa             |                       | 📋  |
+|                   | *tomo                 | 📋  |
+| inuit             |                       | 📋  |
+|                   | *tomo                 | 📋  |
+| asteca            |                       | 📋  |
+|                   | *tomo                 | 📋  |
+| polinésia         |                       | 📋  |
+|                   | *tomo                 | 📋  |
+| indigena (eua)    |                       | 📋  |
+|                   | *tomo                 | 📋  |
 
 
 para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***

@@ -6,6 +6,7 @@ const aliases = {
     "abraamico/domus-sancta": "kanones/abraamico/domus-sancta",
     "abraamico/registros-abraamico": "kanones/abraamico/registros-abraamico",
 
+    romano: "romano",
     "romano/nova-roma": "kanones/romano/nova-roma",
 
     "indigena-br": "kanones/indigena-br/dominio-indigena",
