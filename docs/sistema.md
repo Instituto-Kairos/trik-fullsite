@@ -49,6 +49,8 @@ Você vê seu personagem como um membro de ataque e defesa. Missões de choque, 
 > 3. Manutenção e Cuidado com Armas; (avançadas)
 > 4. Liderança e Cuidado Psicológico; (curso formativo)
 
+</br></br>
+
 Você também:
 > 1. Tem acesso a treinos mais pesados;
 > 2. Tem voz nas decisões de missões;
@@ -62,6 +64,8 @@ Você acredita que para algo funcionar alguém precisa zelar por ela. Seu person
 > 2. Preparativos contra crises; (comuns)
 > 3. Situações de emergência e medidas improvisadas; (avançadas)
 > 4. Coordenação e Espirito; (curso formativo)
+
+</br></br>
 
 Você também:
 > 1. Pode ter reuniões e ser chamado para trabalhos envolvendo gerenciamento;;
@@ -77,6 +81,8 @@ Você acredita que mais importante dos guerreiros, é quem trata os feridos. Seu
 > 3. Esterilização e Improviso; (avançadas)
 > 4. Uma mente, oito mãos: O Centro Cirúrgico; (curso formativo)
 
+</br></br>
+
 Você também:
 > 1. É acionado para tratar internos;
 > 2. Faz a separação dos medicamentos;
@@ -90,6 +96,8 @@ Você vê o mundo como um horizonte a ser desbravado. Você quer encontrar outra
 > 2. Ciências Aplicadas; (comuns)
 > 3. Do Micro ao Macro; (avançadas)
 > 4. Espécimes de Ouro: o Reconhecimento do Semidivino; (curso formativo)
+
+</br></br>
 
 Você também:
 > 1. É capaz de pesquisar fauna e flora mágica;
@@ -105,7 +113,9 @@ O mundo é além de deuses, monstros e sobreviver. Você acredita que existe uma
 > 3. Pode ter um emprego na cidade;
 > 4. Tem acesso a técnologia humana, dinheiro humano e... todas as chatices envolvendo impostos de renda e dividas médicas;
 
+</br></br>
 Por outro lado, você também:
+
 > 1. Pode começar a perder a habilidade de ver atráves da névoa;
 > 2. Tem seus poderes adormecidos;
 > 3. Pode esquecer dos anos de vida e aventuras que teve como semideus;
@@ -131,7 +141,7 @@ Por outro lado, você também:
 
 ㅤㅤㅤ ㅤApós o chegar o nível dez, cada cena feita gera um ponto adicional que se acumula até 100, se tornando um "Mestre +100", dominando aquela arma e desbloqueando golpes, combos e dano adicional. Caso você pegue nível 5 de maestria com três armas de uma mesma categoria, você recebe uma maestria adicional com a categoria de armas, que também gera descontos de cenas em seus treinos. A maestria de categoria sobe de acordo com a quantidade de armas upadas até o nível 5. Os valores mostrados abaixo são o número "total", ou seja, o último nível requer 12 armas no nível cinco para a categoria ser masterizada.
 
-| NÍVEL | QUANTIDADE DE ARMAS NIVEL 5  PARA UPAR | DESCONTO DE CENAS |
+| NÍVEL | QUANTIDADE DE ARMAS nível 5  PARA UPAR | DESCONTO DE CENAS |
 | --:   | :-- | :-- |
 |  01   |  03 |  01 |
 |  02   |  05 |  02 |
@@ -141,7 +151,7 @@ Por outro lado, você também:
 
 </br></br>
 
-ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nivel 5 de todas as armas da categoria. 
+ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nível 5 de todas as armas da categoria. 
 
 ## Graduações
 ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações. A cada cinco níveis de personagem é desbloqueado a próxima categoria.
@@ -259,7 +269,7 @@ Por outro lado, você também:
 ㅤㅤㅤ ㅤEm semanas de provas, avaliações ou maior demanda em trabalhos, o jogador pode ser liberado de realizar cenas e a semana não será considerada "inativa". Porém, caso o requisito seja apenas uma única semana para upar (níveis iniciais), não poderá ser usado se for o primeiro personagem a passar por esse marco, visto que pode prejudicar a experiência do jogador;
 
 ### Passe Trabalhista
-ㅤㅤㅤ ㅤCaso você trabalhe, os requisitos de aula/maestria podem ser alternados para o foco do seu personagem. Se você precisava subir 1 nivel de maestria e 1 nivel em qualquer aula para evoluir, ter feito a quantidade minima de cenas e subido qualquer um dos dois já fará a semana contar como ativa. Novamente, isso não serve para semanas unicas para não atrapalhar o nivelamento do jogo;
+ㅤㅤㅤ ㅤCaso você trabalhe, os requisitos de aula/maestria podem ser alternados para o foco do seu personagem. Se você precisava subir 1 nível de maestria e 1 nível em qualquer aula para evoluir, ter feito a quantidade minima de cenas e subido qualquer um dos dois já fará a semana contar como ativa. Novamente, isso não serve para semanas unicas para não atrapalhar o nivelamento do jogo;
 
 ### Passe Múltiparo
 ㅤㅤㅤ ㅤCaso você tenha mais de um personagem, você tem que pagar apenas 50% dos requisitos de um dos personagens. Atenção: caso um desses personagens seja sempre deixado de lado, você talvez não consiga fichar outros por não estar apto a dividir sua atenção e desenvolver ambos os personagens.
@@ -300,7 +310,7 @@ Por outro lado, você também:
 
 
 ## Tarefas e Trabalhos
-ㅤㅤㅤ ㅤQuando você atinge certo cargo dentro do Instituto, seu papel na comunidade se torna essencial. Você precisa cumprir algumas **tarefas** e **trabalhos**, conforme o que estiver disponível. Os trabalhos estão disponivel acima do nivel nove e as tarefas acima do nivel seis. As tarefas normalmente se referem a atividades executadas internamente no instituto, como por exemplo:
+ㅤㅤㅤ ㅤQuando você atinge certo cargo dentro do Instituto, seu papel na comunidade se torna essencial. Você precisa cumprir algumas **tarefas** e **trabalhos**, conforme o que estiver disponível. Os trabalhos estão disponivel acima do nível nove e as tarefas acima do nível seis. As tarefas normalmente se referem a atividades executadas internamente no instituto, como por exemplo:
 
 1. É dever do Interno manter o quarto limpo e organizado;
 2. É dever do Interno lavar suas próprias roupas;
@@ -310,6 +320,7 @@ Por outro lado, você também:
 6. É dever do Interno, em sistema de rodízio, fazer pequenas manuntenções dentro do Instituto;
 7. É dever do Interno, em sistema de rodízio, cuidar da horta;
 
+</br></br>
 ㅤㅤㅤ ㅤOs trabalhos, por outro lado, se referem a atividades externas feitas em pequenos grupos de no máximo três pessoas. Eles requerem uma saída liberada ou uma convocação para tal serviço.
 
 1. Ajudar os companheiros d'A Rede;
