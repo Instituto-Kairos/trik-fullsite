@@ -129,7 +129,7 @@ Por outro lado, você também:
 
 </br></br>
 
-ㅤㅤㅤ ㅤApós o chegar o nível dez, cada cena feita gera um ponto adicional que se acumula até 100, se tornando um "Mestre +100", dominando aquela arma e desbloqueando golpes, combos e dano adicional. Caso você pegue nível 5 de maestria com três armas de uma mesma categoria, você recebe uma maestria adicional com a categoria de armas, que também gera descontos de cenas em seus treinos. A maestria de categoria sobe toda vez que você pega
+ㅤㅤㅤ ㅤApós o chegar o nível dez, cada cena feita gera um ponto adicional que se acumula até 100, se tornando um "Mestre +100", dominando aquela arma e desbloqueando golpes, combos e dano adicional. Caso você pegue nível 5 de maestria com três armas de uma mesma categoria, você recebe uma maestria adicional com a categoria de armas, que também gera descontos de cenas em seus treinos. A maestria de categoria sobe de acordo com a quantidade de armas upadas até o nível 5. Os valores mostrados abaixo são o número "total", ou seja, o último nível requer 12 armas no nível cinco para a categoria ser masterizada.
 
 | NÍVEL | QUANTIDADE DE ARMAS NIVEL 5  PARA UPAR | DESCONTO DE CENAS |
 | --:   | :-- | :-- |
@@ -144,7 +144,7 @@ Por outro lado, você também:
 ㅤㅤㅤ ㅤComo pode ser observado, ter chegado a Maestria 5 em uma categoria, faz você iniciar no nivel 5 de todas as armas da categoria. 
 
 ## Graduações
-ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações. A cada cinco nivéis é desbloqueado a próxima categoria.
+ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações. A cada cinco níveis de personagem é desbloqueado a próxima categoria.
 
 | MATERIA | CATEGORIA | DESCRIÇÃO | QUANTIDADE DE AULAS |
 | :--                  | :--: | :--       | :--:                |
@@ -156,16 +156,16 @@ Por outro lado, você também:
 | Primeiros Socorros| Aula Básica | Ensina cuidados básicos para ferimentos de até médio porte. | 15 |
 | Herbologia I | Aula Comuns | O aluno aprende a criar remédios com plantas. Duas aulas por poção. | * |
 | Esgrima | Aula Comuns | É uma aula para treino de técnicas. Se torna mestre de espadas de esgrima ao concluir a matéria. Dá de recompensa uma passiva de "Boa Postura", onde precisa de uma cena a menos para maestrias enquanto tutorado por alguém. | 12 |
-| Magia | Aula Comuns | Pode ser feita apenas duas vezes a semana em dias intercalados. Dentro dela, subdivisões | 20 |
+| Magia | Aula Comuns | Pode ser feita apenas duas vezes na semana em dias intercalados. | 20 |
 | Herbologia II | Aula Avançada | Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita. | * |
 | Idiomas II | Aula Avançada | Assistindo sete aulas, seu personagem pode dominar uma idioma que conhece o básico. | 7 |
 | Socorros Avançados | Aula Avançada | O aluno é preparado para lidar com emergências médicas e cuidados especializados | 15 |
 | Informática, Programação e Elétrica | Aula Avançada | Programação e cuidados eletrônicos. Muito útil para assuntos além de combates e essencial para empregos mundanos. | 15 |
-| Criação de Explosivos | Aula Avançada | Os alunos aprendem a criar um explosivo a cada 3  aulas. | 5 |
+| Criação de Explosivos | Aula Avançada | Os alunos aprendem a criar um explosivo a cada 5 aulas. | * |
 | Técnico em Enfermagem | Estudo Avançado | Curso completo para conhecimento técnico em Enfermagem. | 20  |
 | Técnico em Química | Estudo Avançado | Curso completo para conhecimento técnico em Química. | 20  |
 | Licenciatura | Estudo Avançado | Curso completo para formar novos professores. | 20  |
-| Magia | Estudo Avançado | Curso completo para formar novos professores. | 20  |
+| Magia | Estudo Avançado | Acesso a magias mais especializadas e de maior dificuldade. | 20  |
 
 
 *novas aulas serão adicionadas futuramente.*
@@ -194,12 +194,12 @@ Por outro lado, você também:
 ### O Sangue
 ㅤㅤㅤ ㅤIntenso, você confia cegamento em suas emoções. Se algo não faz você se sentir bem, não vale a pena. Não aceita estar em posições desconfortáveis e mesmo que você não entenda e não faça sentido, você confia na sua intuição. Ser obrigado a seguir opções que não te parecem certas te chatea profundamente. Você acredita que não existe arrependimentos, que cada decisão tomada te moldou até o momento.
 
-### Presença
+### A Presença
 ㅤㅤㅤ ㅤExpansivo, você quer o melhor resultado de tudo. Fama, sucesso, prestigio. Você busca os caminhos mais recompensadores. Você se importa com sua reputação, com sua imagem, com como você é visto, afinal, a impressão que você deixa nas pessoas é o que vai decidir suas oportunidades, e você quer as melhores. A desonra e vergonha são medos palpáveis e você não entende quem toma decisões sem se preocupar com as portas que serão fechadas.
 
 ## Bonificadores
 
-ㅤㅤㅤ ㅤPara acelerar processos métodicos de treinamento e evolução linear que depende de ações dos jogadores, os bonificadores existe para melhorar a experiência do usuário. Existe dois tipos de Bonificadores: por Categoria, que reduz os custos de evoluição em um em um leque de áreas; e por Foco, que reduz os custos de evolução em três em uma área especifica. Eles se acumulam, mas não da mesma fonte. Se você tem duas aptidão adquiridas que se sobrepôe, apenas a mais benifica conta. Lista de Bonificadores:
+ㅤㅤㅤ ㅤPara acelerar processos métodicos de treinamento e evolução linear que depende de ações dos jogadores, os bonificadores existe para melhorar a experiência do usuário. Existe dois tipos de Bonificadores: por Categoria, que reduz os custos de evoluição um leque de áreas; e por Foco, que reduz os custos de evolução em três em uma área especifica. Eles se acumulam, mas não da mesma fonte. Se você tem duas aptidão adquiridas que se sobrepôe, apenas a mais benifica conta. Lista de Bonificadores:
 
 ### Aptidão Natural
 
@@ -214,8 +214,8 @@ Por outro lado, você também:
 1. Aptidão Nata com Espadas (Categoria): você consegue lutar melhor com espadas no geral. Espadas longas, curtas, duplas, leves ou pesadas. -1 treino por nível;
 2. Aptidão Natas com Espadões (Foco): você consegue lutar melhor com espadas grandes e pesadas. -3 treinos por nível;
 3. Aptidão Adquirida em Esgrima (Foco): você treinou esgrima quando era criança, o que faz você ter uma base melhor para evoluir o esporte agora. -3 aulas por nível;
-4. Aptidão Nata com Idiomas (Categoria): você leva jeito com idiomas nos gerais. -1 aula por nível;
-5. Aptidão Nata com Russo (foco): você tem facilidade para esse idioma. -3 aulas por nível;
+4. Aptidão Adquirida com Idiomas (Categoria): você tinha primos que falava outros idiomas. -1 aula por nível;
+5. Aptidão Adquirida com Russo (foco): sua melhor amgia de infância falava russo.. -3 aulas por nível;
 <br><br>
 
 ㅤㅤㅤ ㅤA única diferença entre aptidão natural e adquirida é a justificativa para seu personagem a possuir.
@@ -234,7 +234,7 @@ Por outro lado, você também:
 
 ### Objetivo
 
-ㅤㅤㅤ ㅤTodo personagem possui um **Objetivo**, que é um direcionamento de onde seu personagem deseja seguir. Esse é o único que pode ser mudado durante o jogo, com um cooldown de três semanas. Ele serve para planejamento de metas do seu personagem. Quando se define um objetivo, para manter o bônus ativo, é necessário que o toda semana a área de foco seja a mais desenvolvida.
+ㅤㅤㅤ ㅤTodo personagem possui um **Objetivo**, que é um direcionamento de onde seu personagem deseja seguir. Esse é o único que pode ser mudado durante o jogo, com um cooldown de três semanas IRL. Ele serve para planejamento de metas do seu personagem. Quando se define um objetivo, para manter o bônus ativo, é necessário que o toda semana a área de foco seja a mais desenvolvida.
 
 #### Exemplos de Objetivo:
 
@@ -271,26 +271,26 @@ Por outro lado, você também:
 
 | Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Sazonal  | Requisitos | Recompensa |
 | :--:  | :--         | :--                        | :--            | :--                         | :--       | :--        | :--        | 
-| 01    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
-| 02    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 03    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 04    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma área de interesse; |
-| 05    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas </br> ✦ Você escolhe um objetivo;|
-| 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
-| 09    | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 7 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 10    | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game;    | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Aulas Comuns Desbloqueadas ✦ Aulas Avançadas Desbloqueadas;  |
-| 11    | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante | ✦ 4 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 9 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta |
-| 12    | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 13    | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 14    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Príncipio; | 
-| 15    | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Estudos Avançados Desbloqueadas; | 
-| 16    | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 17    | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; |
-| 18    | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 19    | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 20    | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   | ✦ 5 cenas totais (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta;                                                |
+| 01    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
+| 02    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 03    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 04    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma área de interesse; |
+| 05    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas </br> ✦ Você escolhe um objetivo;|
+| 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
+| 09    | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 7 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 10    | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game;    | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Aulas Comuns Desbloqueadas ✦ Aulas Avançadas Desbloqueadas;  |
+| 11    | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 9 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta |
+| 12    | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 13    | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 14    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Príncipio; | 
+| 15    | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Estudos Avançados Desbloqueadas; | 
+| 16    | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 17    | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; |
+| 18    | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 19    | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 20    | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta;                                                |
 | 21    | *           | *                          | *              | *                           | *         | *                                                                                                            | ✦ Um Ponto de Aprimoramento Secreto;                                                  |
 
 
