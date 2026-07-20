@@ -11,6 +11,21 @@
 | romano            |                       | 📍  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | *️⃣  |
+| celta             |                       | 📍  |
+|                   | *tomo                 | ✴️  |
+| yorubá            |                       | 📍  |
+|                   | *tomo                 | ✴️  |
+| japonês           |                       | 📍  |
+|                   | *tomo                 | *️⃣  |
+| chinês            |                       | 📍  |
+|                   | *escolas              | *️⃣  |
+|                   | *tomo                 | 📍  |
+| nórdico           |                       | *️⃣  |
+|                   | *tomo                 | *️⃣  |
+| egipcio           |                       | 📍  |
+|                   | *tomo                 | *️⃣  |
+| grego             |                       | 📍  |
+|                   | *tomo                 | *️⃣  |
 | sistema base      |                       | ✳️  |
 |                   | Stats                 | ✳️  |
 |                   | Formacao              | ✳️  |
@@ -27,21 +42,11 @@
 |                   | Hab. Un.              | *️⃣  |
 |                   | P. Unl.               | ✳️  |
 |                   | C. e T.               | *️⃣  |
-| celta             |                       | ✴️  |
-|                   | *tomo                 | ✴️  |
-| yorubá            |                       | ✴️  |
-|                   | *tomo                 | ✴️  |
-| japonês           |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| chinês            |                       | *️⃣  |
-|                   | *escolas              | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| nórdico           |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| egipcio           |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
-| grego             |                       | *️⃣  |
-|                   | *tomo                 | *️⃣  |
+| x                 | x                     | ❎  |
+| x                 | x                     | ❎  |
+| x                 | x                     | ❎  |
+| x                 | x                     | ❎  |
+| x                 | x                     | ❎  |
 | hindu             |                       | *️⃣  |
 |                   | *tomo                 | *️⃣  |
 | persa             |                       | *️⃣  |

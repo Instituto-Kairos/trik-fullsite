@@ -336,12 +336,6 @@ Por outro lado, você também:
 ### Condições e Transtornos
 ㅤㅤㅤ ㅤAssim como os não-divinos tem condições genéticas que dão a eles peculiariedades diversas, o sangue dos deuses faz o mesmo nesses pequenos cérebros meio humano meio divino. Você também irá descobrir elas durante seu jogo, mas não são obrigatórias: alguns personagens tens, outros não. Normalmente, não oferecem vantagem clara e costume se autobalancear, por não ser "controlavel", mas pode ser aprendido a lidar com ela e ter algum proveito. De toda forma, não é o objetivo desse tópico dar vantagens.
 
-
-### LEMBRETES
-
-Condutas: você eventualmente tem os 3. ao acumular 3 pontos, voce seleciona um aprimoramento de conduta. ao acumular 5, o segundo. no total: 10 pontos de conduta.
-Principios: voce eventualmente tem 2 dos 3. ao acumular 3 pontos, voce seleciona um aprimoramemto de principio. no total: 5 pontos de principio.
-
 <!-- FOOTER -->
 
 
