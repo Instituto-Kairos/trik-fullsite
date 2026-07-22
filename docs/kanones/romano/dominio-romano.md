@@ -9,4 +9,11 @@
 ㅤㅤㅤ ㅤNós nos reunimos na costa oeste, em Oakland Hills em São Francisco, no extremo oposto dos Estados Unidos do Acampamento Meio-Sangue, uma representação visual de como nossa formação como semideuses se difere. Em Oakland Hills, fundamos a cidade de [Nova Roma](?page=romano/nova-roma) e começamos o que os Romanos fazem de melhor: Política.
 
 ## A Filosofia Romana
-ㅤㅤㅤ ㅤ
+ㅤㅤㅤ ㅤNós acreditamos que, feitos do divino e do humano, merecemos um lugar onde podemos nos expressar totalmente. Não temos lugar entre os deuses, muito menos entre os mortais. Nos restou, então, fazer uma cidade para crescer. Criamos Nova Roma para ter uma casa. Temos um solo firme, locais para morar, locais para nos banhar, locais para treinar e locais para estudar. Podemos dedicar nossa vida para o que acharmos mais valioso: uma faculdade para ter um bom emprego, ou o exército, vivendo aventuras.
+
+ㅤㅤㅤ ㅤNão existia lugar no mundo para pessoas como nós, já que as cidades onde nossos antepassados viveram, dividindo as ruas com divindades, se foi a muito tempo. Isso é o que romanos fazem: Roma é onde estamos, juntos. Contanto que seguimos juntos, Roma viverá com a gente, em outros nomes e outros governos, mas a ideia se mantem: uma casa para quem não cabe nesse mundo e nem no outro.
+
+## Semideuses e Legados
+ㅤㅤㅤ ㅤAo contrário de nossos irmãos gregos, acreditamos que o sangue se mantem ao passar de uma geração a outra. Chamamos esses vínculos de "legado", e não existe um nível onde esse legado deixa de ser presente. Temos legados de primeiro grau (filho de semideuses), de segundo grau (seu avô era um semideus) e terceiro grau (seu bisavô ou acima era um semideus).
+
+ㅤㅤㅤ ㅤO conceito de três grandes não existe para nós, temos como principais deuses: Marte, o deus da guerra, Belona, a deusa da guerra e Minerva, a deusa da estratégia. Minerva é uma de nossas deuses virgens, junto a Diana, cujo ligamos as Amazonas, guerreiras com grande dominío de luta a cavalos que são famosas por verem homens como inferiores a mulheres.
