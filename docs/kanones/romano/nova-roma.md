@@ -61,9 +61,23 @@
 5. Quinta Coorte: É a coorte com maior número de soldados, para os que desejam seguir carreira militar mas não tiveram nenhum destaque durante os anos de academia. Ela é apelidada como "Coorte dos Reservas", por chamarem seus soldados para completar grupos em atividades de outras coortes. São populosos, sincronizados e obedientes;
 
 ## A Casa da Ordem
-
+ㅤㅤㅤ ㅤA Casa da Ordem é o epíteto da Justiça Romana. Nela, fazemos política em sua forma mais pura: criamos leis, discutimos direitos, debatemos projetos públicos e julgamos quem transpassa os limites de sua liberdade. A partir dos 14 anos, civis que desejam se tornam cidadões devem se apresentar na casa da Ordem, e caso se interessem pelos assuntos da cidade de Roma, são convidados a participar das discussões que ocorrem nesse prédio. Suas opiniões e votos são ouvidos e contabilizados, já que a juventude romana é o futuro de Nova Roma.
 
 ## Universidade de Nova Roma
+ㅤㅤㅤ ㅤUm dos maiores orgulhos da cidade, a Universidade de Nova Roma conta, atualmente, com doze cursos.
+
+1. Direito Internacional: Um dos cursos mais populares pela possibilidade de Intercâmbio para outros paises, forma advogados do mais alto nível para operar em diferentes situações e conjuntos de leis;
+2. Direito: Curso de Advogacia, com possibilidades de caminhos Civil, Criminal e Estatal;
+3. Medicina: Curso que forma profissionais da saúde, podendo ser cirurgiões, clínicos gerais ou pediatras;
+4. Psicologia: Curso que forma profissionais da saúde mental, se tornou incrivelmente popular nos últimos anos;
+5. Engenharia Civil: Curso que forma profissionais que atuam diretamente nas construções da cidade, seja criando projetos ou regulamentando obras;
+6. Arquitetura: Curso que forma profissionais que atuam diretamente nas construções da cidade, com um olhar artistico;
+7. Artes Plásticas: Curso que forma profissionais focados na Arte;
+8. Pedagogia: Curso que forma professores dos primeiros anos;
+9. Biologia: Curso focado em criar professionais da fauna e flora;
+10. Veterinaria: Curso que forma profissionais da saúde animal;
+11. Cinema: Curso que forma profissionais aptos a dirigirem e produzirem curtas e longas metragens;
+12. Engenharia da Computação: Curso que forma profissionais focados em tecnologia de ponta para inovação;
 
 
 <!-- FOOTER -->

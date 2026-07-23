@@ -1,8 +1,8 @@
-import { getCurrentPage } from "./markdown/router.js";
+import { getCurrentPage } from "./router/index.js";
 import { loadMarkdown } from "./markdown/loader.js";
 
-const currentPage = getCurrentPage();
+const page = getCurrentPage();
 
-console.log("Página:", currentPage);
+document.title = page.title;
 
-loadMarkdown(currentPage);
+loadMarkdown(page);

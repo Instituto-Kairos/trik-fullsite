@@ -8,7 +8,7 @@
 | indígena (br)     |                       | ✳️  |
 |                   | *kanirenda ikapaipyre | ✳️  |
 |                   | *tomo                 | *️⃣  |
-| romano            |                       | 📍  |
+| romano            |                       | ⏳  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | *️⃣  |
 | celta             |                       | 📍  |
