@@ -16,7 +16,7 @@ ${urls.map(route => `
         <loc>${
             route === "home"
                 ? BASE_URL
-                : `${BASE_URL}/${route}`
+                : `${BASE_URL}/?page=${route}`
         }</loc>
     </url>
 

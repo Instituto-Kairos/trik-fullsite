@@ -1,12 +1,9 @@
 import { pages } from "./pages.js";
 
 export function getCurrentRoute() {
+    const params = new URLSearchParams(window.location.search);
 
-    const path =
-        window.location.pathname
-            .replace(/^\/|\/$/g, "");
-
-    return path || "home";
+    return params.get("page") || "home";
 }
 
 
