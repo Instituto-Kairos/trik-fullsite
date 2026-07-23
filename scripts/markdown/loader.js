@@ -26,7 +26,7 @@ const REGEX = {
 export async function loadMarkdown(page) {
 
     const path =
-        `docs/${page.file}.md`;
+        `/docs/${page.file}.md`;
 
     try {
 
