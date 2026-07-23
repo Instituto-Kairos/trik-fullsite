@@ -29,7 +29,7 @@ export const pages = {
         title: "Domínio Romano"
     },
 
-    "romano/nova-roma": {
+    "/romano/nova-roma": {
         file: "kanones/romano/nova-roma",
         title: "Nova Roma"
     },
