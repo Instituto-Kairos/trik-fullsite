@@ -1,0 +1,12 @@
+# 玉讲武堂 — Academia Militar de Jade
+<!-- CONTENT -->
+
+Dentro das Leis Chinesas, a existência de seres meio divinos não é segredo para ninguém. Celebrados em feriados e dadas especiais, os frutos de mortais com deuses são um orgulho da nação, protegendo os mortais dos demônios e mantendo a ordem espiritual dentro do pais. Em certas famílias de prestígio, de gerações em gerações, as crianças são testadas ao completarem seis anos. Caso passem no teste, se tornam um discipúlo da escola.
+
+Caso falhem, tem uma segunda chance aos sete anos e uma última aos oito. Isso porque os sinais da herança divina, chamado de "Sopro de Dragão", se manifestam na primeira infância. Casos muito raros fazem com que dêem sinais mais tardes, mas é quase impossível. O sangue dessas crianças possuem um tom dourado, brilhando como se misturassem sangue e ouro. Qualquer criança recusada no teste que levar uma espada suja com o sangue de uma dessas pessoas é admitido em uma escola sob o titulo honorário de discipúlo, mas essa informação não é divulgada.
+
+As familias que geram uma criança do Sopro do Dragão a cada duas gerações recebe proteção e verba do governo chinês pela sua linhagem defender o país.
+
+玉讲武堂
+
+<!-- FOOTER -->
