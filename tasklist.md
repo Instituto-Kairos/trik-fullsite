@@ -7,10 +7,10 @@
 |                   | *tomo                 | ✴️  |
 | indígena (br)     |                       | ✳️  |
 |                   | *kanirenda ikapaipyre | ✳️  |
-|                   | *tomo                 | *️⃣  |
+|                   | *tomo                 | ✴️  |
 | romano            |                       | ⏳  |
 |                   | *nova roma            | 📍  |
-|                   | *tomo                 | *️⃣  |
+|                   | *tomo                 | ✴️  |
 | celta             |                       | 📍  |
 |                   | *tomo                 | ✴️  |
 | yorubá            |                       | 📍  |
@@ -19,13 +19,13 @@
 |                   | *tomo                 | *️⃣  |
 | chinês            |                       | 📍  |
 |                   | *escolas              | *️⃣  |
-|                   | *tomo                 | 📍  |
-| nórdico           |                       | *️⃣  |
+|                   | *tomo                 | ✴️  |
+| nórdico           |                       | 📍  |
 |                   | *tomo                 | *️⃣  |
 | egipcio           |                       | 📍  |
-|                   | *tomo                 | *️⃣  |
+|                   | *tomo                 | ✴️  |
 | grego             |                       | 📍  |
-|                   | *tomo                 | *️⃣  |
+|                   | *tomo                 | ✴️  |
 | sistema base      |                       | ✳️  |
 |                   | Stats                 | ✳️  |
 |                   | Formacao              | ✳️  |
@@ -57,3 +57,34 @@
 
 
 para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
+
+TOMO
+
+GREGO
+	competências / preparações  / instinto / poderes
+ROMANA
+	competências / preparações  / técnicas / poderes
+
+NÓRDICOS
+	honra        / juramentos   / destino / poderes
+
+CELTA
+	tradições    / ofícios      / ritos / poderes
+
+EGIPCIO
+	competências / conhecimento / instinto / magia
+
+INDIGENA BR
+	tradições    / saberes      / instinto / poderes
+
+CHINESA - por weguan
+	valores  / dádivas       / técnicas 
+
+JAPONESA
+	bugei  / bujutsu       / budo 
+
+ABRAAMICA
+	virtudes  / mandamentos       / dons 
+
+YORUBA
+	fundamentos  / caminhos       / herança 
