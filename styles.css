@@ -480,15 +480,21 @@ a[href^="mailto:"]:hover {
 
 .three-section-model .spinning-text p {
     position: relative;
-    animation: spinning 8s ease infinite;
+    animation: spinning 18s ease infinite;
 }
 
 @keyframes spinning {
     0%   { top: 0; }
-    20%  { top: -50px; }
-    40%  { top: -100px; }
-    60%  { top: -150px; }
-    80%  { top: -200px; }
+    9%   { top: -50px; }
+    18%  { top: -100px; }
+    27%  { top: -150px; }
+    36%  { top: -200px; }
+    45%  { top: -250px; }
+    54%  { top: -300px; }
+    63%  { top: -350px; }
+    72%  { top: -400px; }
+    81%  { top: -450px; }
+    90%  { top: -500px; }
     100% { top: 0; }
 }
 

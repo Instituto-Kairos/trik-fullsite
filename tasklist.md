@@ -8,7 +8,7 @@
 | indígena (br)     |                       | ✳️  |
 |                   | *kanirenda ikapaipyre | ✳️  |
 |                   | *tomo                 | ✴️  |
-| romano            |                       | ⏳  |
+| romano            |                       | *️⃣  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | ✴️  |
 | celta             |                       | 📍  |
@@ -17,7 +17,7 @@
 |                   | *tomo                 | ✴️  |
 | japonês           |                       | 📍  |
 |                   | *tomo                 | *️⃣  |
-| chinês            |                       | 📍  |
+| chinês            |                       | *️⃣  |
 |                   | *escolas              | *️⃣  |
 |                   | *tomo                 | ✴️  |
 | nórdico           |                       | 📍  |

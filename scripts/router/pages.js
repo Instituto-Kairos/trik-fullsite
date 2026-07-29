@@ -47,6 +47,11 @@ export const pages = {
     "indigena/kanirenda-ikaraipyre": {
         file: "kanones/indigena-br/kanirenda-ikaraipyre",
         title: "Kanirenda Ikaraipyre"
+    },
+
+    chinesa: {
+        file: "kanones/chines/dominio-chines",
+        title: "Domínio Chinês"
     }
 };
 
