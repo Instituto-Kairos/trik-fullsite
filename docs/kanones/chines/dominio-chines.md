@@ -10,7 +10,7 @@
 
 ㅤㅤㅤ ㅤ*蚩尤 — Chīyóu* e *黄帝 — Huángdì* começaram uma guerra. Essa guerra entre os homens era os incêndios que *祝融 — Zhùróng* deixou na terra e a tristeza das mulheres e suas crianças era as enchentes que *共工 — Gòng gōng* deixou na terra. *应龙 — Yìnglóng* então interviu, auxiliando *黄帝 — Huángdì* na neblina criada por *蚩尤 — Chīyóu* e usando suas águas para limpar as feridas da batalha da terra, termimando a guerra dos homens e a tristeza das mulheres e derrotando *蚩尤 — Chīyóu*. Com a ordem do mundo restaurada, os *龙王 — Lóngwáng* passam governar os mares em palácios submersos e *神龙 — Shénlóng* surge buscando os dragões que escaparam das pedras, que eram seus ovos.
 
-ㅤㅤㅤ ㅤ*神龙 — Shénlóng* então os reune e os nomeia: o que saiu da pedra vermelha, se torna *赤龙 — Chìlóng*; o da pedra azul, *青龙 — Qīnglóng*; o da pedra amarela, *黄龙 — Huánglóng*; o da pedra branca, *白龙 — Báilóng* e o da pedra preta, *黑龙 — Hēilóng*. Após nomeados, os dragões recebem uma missão: os humanos estavam morrendo por doenças e fome, após o periodo de guerra e caos, e precisavam se fortalecer e criar cultura e honra. Assim, então, surgiu a *玉讲武堂 — Yù Jiǎng Wǔ Táng*: A Academia Militar de Jade, onde os Cinco Dragões moldaram a humanidade. Até aquele momento, todos os humanos eram iguais. Os Dragões compartilharam seu 精血 — Jīngxuè para os humanos. De *赤龙 — Chìlóng*, surgiram os soldados; de *青龙 — Qīnglóng*, os eruditos; de *黄龙 — Huánglóng*, os nobres; de *白龙 — Báilóng*, os artistas; e de *黑龙 — Hēilóng*, os sentinelas.
+ㅤㅤㅤ ㅤ*神龙 — Shénlóng* então os reune e os nomeia: o que saiu da pedra vermelha, se torna *赤龙 — Chìlóng*; o da pedra azul, *青龙 — Qīnglóng*; o da pedra amarela, *黄龙 — Huánglóng*; o da pedra branca, *白龙 — Báilóng* e o da pedra preta, *黑龙 — Hēilóng*. Após nomeados, os dragões recebem uma missão: os humanos estavam morrendo por doenças e fome, após o periodo de guerra e caos, e precisavam se fortalecer e criar cultura e honra. Assim, então, surgiu a *玉讲武堂 — Yù Jiǎng Wǔ Táng*: A Academia Militar de Jade, onde os Cinco Dragões moldaram a humanidade. Até aquele momento, todos os humanos eram iguais. Os Dragões compartilharam seu *精血 — Jīngxuè* para os humanos. De *赤龙 — Chìlóng*, surgiram os soldados; de *青龙 — Qīnglóng*, os eruditos; de *黄龙 — Huánglóng*, os nobres; de *白龙 — Báilóng*, os artistas; e de *黑龙 — Hēilóng*, os sentinelas.
 
 ## Tradição e Honra
 
@@ -35,10 +35,10 @@
 ㅤㅤㅤ ㅤOs *黄弟子 — Huáng Dìzǐ*, "Discípulos Amarelos", são conhecidos pelo seu poder superior. Sendo o grupo de elite de defesa e recebem as melhores bonificações do governo chinês. É a escola com menos alunos e mesmo com o espaço de gerações entre um e outro, eles são tratados como realeza — o que os torna um pouco... mimados.
  
 ### 白河 — Bái Hé, Rio Branco
-ㅤㅤㅤ ㅤOs *白弟子 — Bái Dìzǐ*, "Discípulos Brancos", são os mais doces e calmos dentro os díscipulos. São muito educados e levam uma vida praticamente normal tirando suas aulas na academia. Com a quantidade de alunos, é mais fácil para eles não seguirem com o serviço para o governo após a conclusão dos estudos.
+ㅤㅤㅤ ㅤOs *白弟子 — Bái Dìzǐ*, "Discípulos Brancos", são os mais doces e calmos dentro os díscipulos. São muito educados e levam uma vida praticamente normal tirando suas aulas na academia. Sendo o grupo mais populoso de alunos, é mais fácil para eles não seguirem com o serviço para o governo após a conclusão dos estudos.
 
 ### 黑河 — Hēi Hé, Rio Preto
-ㅤㅤㅤ ㅤOs *黑弟子 — Hēi Dìzǐ*, "Discípulos Pretos", são conhecidos por agirem as sombras. Sendo o mais próximo de ninjas da escola, quase não são vistos em público e são os únicos a terem sua identidade e de sua família privadas.
+ㅤㅤㅤ ㅤOs *黑弟子 — Hēi Dìzǐ*, "Discípulos Pretos", são conhecidos por agirem as sombras. Sendo o mais próximo de *暗卫 — Ànwèi* da Academia, quase não são vistos em público e são os únicos a terem sua identidade e de sua família privadas.
 
 
 <!-- FOOTER -->

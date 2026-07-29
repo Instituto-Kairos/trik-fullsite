@@ -11,15 +11,15 @@
 | romano            |                       | *️⃣  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | ✴️  |
+| chinês            |                       | *️⃣  |
+|                   | *academia             | ✴️  |
+|                   | *tomo                 | ✴️  |
 | celta             |                       | 📍  |
 |                   | *tomo                 | ✴️  |
 | yorubá            |                       | 📍  |
 |                   | *tomo                 | ✴️  |
 | japonês           |                       | 📍  |
 |                   | *tomo                 | *️⃣  |
-| chinês            |                       | *️⃣  |
-|                   | *escolas              | *️⃣  |
-|                   | *tomo                 | ✴️  |
 | nórdico           |                       | 📍  |
 |                   | *tomo                 | *️⃣  |
 | egipcio           |                       | 📍  |
