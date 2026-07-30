@@ -16,7 +16,10 @@ const REGEX = {
         /<!--\s*PAINEL\s+principal(?:\s+(row|col))?\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+principal(?:\s+(?:row|col))?\s*-->/g,
 
     PAINEL_FILHO:
-        /<!--\s*PAINEL\s+([a-zA-Z0-9-\s]+)\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+\1\s*-->/g
+        /<!--\s*PAINEL\s+([a-zA-Z0-9-\s]+)\s*-->([\s\S]*?)<!--\s*\/PAINEL\s+\1\s*-->/g,
+
+    ENIGMA:
+    /<!-- ENIGMA -->([\s\S]*?)<!-- \/ENIGMA -->/,
 };
 
 /* -------------------------------- */
@@ -85,6 +88,8 @@ function parseComponents(markdown) {
     const parsers = [
 
         parseAnedotas,
+
+        parseEnigma,
 
         parsePainel,
 
@@ -199,18 +204,18 @@ ${body}
 }
 
 /* -------------------------------- */
-/* ------------ FOOTER ------------ */
+/* ------------- ENIGMA ----------- */
 /* -------------------------------- */
 
-function parseFooter(markdown) {
+function parseEnigma(markdown) {
 
     return markdown.replace(
 
-        REGEX.FOOTER,
+        REGEX.ENIGMA,
 
         (_, content) =>
             wrapDiv(
-                "footer",
+                "enigma",
                 content
             )
     );
@@ -254,6 +259,24 @@ function parsePainel(markdown) {
                 children
             );
         }
+    );
+}
+
+/* -------------------------------- */
+/* ------------ FOOTER ------------ */
+/* -------------------------------- */
+
+function parseFooter(markdown) {
+
+    return markdown.replace(
+
+        REGEX.FOOTER,
+
+        (_, content) =>
+            wrapDiv(
+                "footer",
+                content
+            )
     );
 }
 

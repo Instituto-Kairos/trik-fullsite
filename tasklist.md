@@ -55,7 +55,7 @@
 | indigena (eua)    |                       | 📋  |
 |                   | *tomo                 | 📋  |
 
-
+Cifra de Vigenère
 para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
 
 TOMO
@@ -109,12 +109,66 @@ YORUBA
 
 龙王 Longwang
 
-
-| Dragão | Discípulo | Pinyin         | Romanização |
-| ------ | --------- | -------------- | ----------- |
-| 赤龙     | **赤弟子**   | **Chì Dìzǐ**   | Chi Dizi    |
-| 青龙     | **青弟子**   | **Qīng Dìzǐ**  | Qing Dizi   |
-| 黄龙     | **黄弟子**   | **Huáng Dìzǐ** | Huang Dizi  |
-| 白龙     | **白弟子**   | **Bái Dìzǐ**   | Bai Dizi    |
-| 黑龙     | **黑弟子**   | **Hēi Dìzǐ**   | Hei Dizi    |
+| Nome                    | Região      | Domínio                                            | Tipo             |
+| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
+| **Brìde**               | Goidélica   | primavera, fertilidade, cura, fogo                 | deusa            |
+| **Cailleach**           | Goidélica   | inverno, montanhas, tempestades, natureza selvagem | deusa            |
+| **Cailleachan**         | Goidélica   | tempestades, inverno, natureza selvagem            | espíritos        |
+| **Manannán mac Lir**    | Goidélica   | mar, Outro Mundo, magia                            | deus             |
+| **Lugh**                | Goidélica   | habilidade, artes, conhecimento, soberania         | deus             |
+| **Mórrígan**            | Goidélica   | guerra, soberania, profecia                        | deusa            |
+| **An Dagda**            | Goidélica   | fertilidade, abundância, força, magia              | deus             |
+| **Aonghus Óg**          | Goidélica   | juventude, amor, desejo, sonhos                    | deus             |
+| **Donn**                | Goidélica   | mortos, ancestrais, Outro Mundo                    | deus             |
+| **Danu**                | Goidélica   | ancestralidade divina                              | deusa/ancestral  |
+| **Scáthach**            | Goidélica   | guerra, treinamento, artes marciais                | heroína          |
+| **Fionn mac Cumhaill**  | Goidélica   | caça, guerra, sabedoria                            | herói            |
+| **Diarmuid Ua Duibhne** | Goidélica   | caça, guerra, amor                                 | herói            |
+| **Clíodhna**            | Goidélica   | soberania, amor, beleza, mar, Outro Mundo          | deusa            |
+| **Áine**                | Goidélica   | verão, fertilidade, soberania, riqueza             | deusa            |
+| **Aoibheall**           | Goidélica   | soberania, Outro Mundo, profecia                   | deusa/espírito   |
+| **Macha**               | Goidélica   | soberania, guerra, cavalos, fertilidade            | deusa            |
+| **Badb**                | Goidélica   | guerra, morte, profecia                            | deusa            |
+| **Boann**               | Goidélica   | rio, fertilidade, conhecimento                     | deusa            |
+| **Sinann**              | Goidélica   | rio, conhecimento, Outro Mundo                     | deusa            |
+| **Tailtiu**             | Goidélica   | terra, agricultura, fertilidade                    | deusa            |
+| **Dôn**                 | Galesa      | ancestralidade, família divina                     | deusa/ancestral  |
+| **Math fab Mathonwy**   | Galesa      | magia, soberania, conhecimento                     | mago             |
+| **Gwydion fab Dôn**     | Galesa      | magia, astúcia, ilusão, conhecimento               | mago             |
+| **Lleu Llaw Gyffes**    | Galesa      | habilidade, soberania, artes                       | deus/herói       |
+| **Arianrhod**           | Galesa      | destino, maternidade, linhagem                     | deusa            |
+| **Rhiannon**            | Galesa      | soberania, cavalos, Outro Mundo                    | deusa            |
+| **Manawydan fab Llŷr**  | Galesa      | magia, artesanato, Outro Mundo                     | deus/herói       |
+| **Llŷr**                | Galesa      | mar                                                | deus             |
+| **Bendigeidfran**       | Galesa      | guerra, soberania, proteção                        | deus/herói       |
+| **Branwen ferch Llŷr**  | Galesa      | soberania, tragédia                                | heroína          |
+| **Pwyll Pen Annwn**     | Galesa      | soberania, Annwn, Outro Mundo                      | rei/herói        |
+| **Arawn**               | Galesa      | Annwn, mortos, Outro Mundo                         | deus/rei         |
+| **Modron**              | Galesa      | maternidade, ancestralidade                        | deusa            |
+| **Mabon ap Modron**     | Galesa      | juventude, caça                                    | deus/herói       |
+| **Ceridwen**            | Galesa      | poção, inspiração, transformação, magia            | feiticeira       |
+| **Blodeuwedd**          | Galesa      | flores, transformação, natureza                    | ser sobrenatural |
+| **Lugus**               | Continental | habilidade, conhecimento, soberania                | deus             |
+| **Cernunnos**           | Continental | animais, natureza, fertilidade, prosperidade       | deus             |
+| **Epona**               | Continental | cavalos, fertilidade, proteção                     | deusa            |
+| **Taranis**             | Continental | trovão, céu, tempestade                            | deus             |
+| **Esus**                | Continental | árvores, natureza, possível artesanato             | deus             |
+| **Sucellus**            | Continental | agricultura, abundância, fertilidade               | deus             |
+| **Nantosuelta**         | Continental | lar, fertilidade, prosperidade                     | deusa            |
+| **Rosmerta**            | Continental | abundância, fertilidade, prosperidade              | deusa            |
+| **Sequana**             | Continental | rio, águas, cura                                   | deusa            |
+| **Sirona**              | Continental | águas, cura, saúde                                 | deusa            |
+| **Matronae**            | Continental | maternidade, fertilidade, proteção                 | deusas           |
+| **Nemetona**            | Continental | bosques, espaços sagrados                          | deusa            |
+| **Toutatis**            | Continental | povo, tribo, proteção comunitária                  | deus             |
+| **Taranucus**           | Continental | trovão                                             | deus             |
+| **Divanno**             | Continental | guerra                                             | deus             |
+| **Dinomogetimarus**     | Continental | guerra                                             | deus             |
+| **Caturix**             | Continental | guerra                                             | deus             |
+| **Cathubodua**          | Continental | guerra                                             | deusa            |
+| **Rēnos**               | Continental | rio, território, ancestralidade                    | deus fluvial     |
+| **Souconna**            | Continental | rio, águas                                         | deusa fluvial    |
+| **Tarvos Trigaranus**   | Continental | touro, natureza, fertilidade                       | ser divino       |
+| **Sulis**               | Continental | águas termais, cura                                | deusa            |
+| **Brigantia**           | Continental | soberania, território, vitória                     | deusa            |
 

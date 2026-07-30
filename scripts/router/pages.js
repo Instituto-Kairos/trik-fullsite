@@ -52,6 +52,11 @@ export const pages = {
     chinesa: {
         file: "kanones/chines/dominio-chines",
         title: "Domínio Chinês"
+    },
+
+    primordial: {
+        file: "spoilers",
+        title: "👁️"
     }
 };
 
