@@ -172,3 +172,6 @@ YORUBA
 | **Sulis**               | Continental | águas termais, cura                                | deusa            |
 | **Brigantia**           | Continental | soberania, território, vitória                     | deusa            |
 
+<!-- ENIGMA -->
+?page=primordial
+<!-- /ENIGMA -->

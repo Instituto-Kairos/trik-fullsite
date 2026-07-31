@@ -54,10 +54,10 @@ export const pages = {
         title: "Domínio Chinês"
     },
 
-    primordial: {
-        file: "spoilers",
-        title: "👁️"
-    }
+    // primordial: {
+    //     file: "spoilers",
+    //     title: "👁️"
+    // }
 };
 
 export function getRoutes() {
