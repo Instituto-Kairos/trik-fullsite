@@ -28,4 +28,10 @@
 ## Entre a Espada e a Coroa
 ㅤㅤㅤ ㅤO Instituto é um lar para todos que possuem vínculos semi-divinos. Na história do RPG, uma ameaça em comum com um mundo imortal plural os força a desenvolver uma casa em comunidade, onde todos possam se conhecer e falar sobre suas origens e aprender com os outros. O sistema é próprio, criado pelo Mestre para um jogo autoral e utilizado para organizar esse aqui.
 
-ㅤㅤㅤ ㅤO sistema é uma ferramenta para contar uma história e jamais deve limita-lá.
+ㅤㅤㅤ ㅤO sistema é uma ferramenta para contar uma história e jamais deve limita-lá. Jogamos no formato de RPG textual, ou seja, escrevemos por extenso nossas ações como os personagens, com um cabeçalho de cena. Diferente dos famosos "rp", o IK tem como objetivo criar uma categoria sistematica, sendo de fato um RPG, só que por escrito. 
+
+</br></br>
+
+<!-- ENIGMA -->
+?page=primordial
+<!-- /ENIGMA -->

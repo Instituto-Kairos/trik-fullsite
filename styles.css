@@ -600,3 +600,15 @@ a[href^="mailto:"]:hover {
         padding-left: 0%;
     }
 }
+
+/* - - - - - - - - - - - - - - - - - - */
+/* - - - - - - - - - -   EDIÇÃO ENIGMA */
+/* - - - - - - - - - - - - - - - - - - */
+
+.enigma {
+    text-align: center;
+}
+
+.enigma p {
+    color: var(--color-three);
+}
