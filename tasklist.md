@@ -109,6 +109,25 @@ YORUBA
 
 龙王 Longwang
 
+| Nome 15                 | Região      | Domínio                                            | Tipo             |
+| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
+| **Brìde**               | Alta Floresta   | primavera, fertilidade, cura, fogo                 | deusa            |
+| **Cailleach**           | Alta Floresta   | inverno, montanhas, tempestades, natureza selvagem | deusa            |
+| **Manannán mac Lir**    | Alta Floresta   | mar, Outro Mundo, magia                            | deus             |
+| **Lugh**                | Alta Floresta   | habilidade, artes, conhecimento, soberania         | deus             |
+| **Mórrígan**            | Alta Floresta   | guerra, soberania, profecia                        | deusa            |
+| **An Dagda**            | Alta Floresta   | fertilidade, abundância, força, magia              | deus             |
+| **Aonghus Óg**          | Alta Floresta   | juventude, amor, desejo, sonhos                    | deus             |
+| **Donn**                | Alta Floresta   | mortos, ancestrais, Outro Mundo                    | deus             |
+| **Danu**                | Alta Floresta   | ancestralidade divina                              | deusa/ancestral  |
+| **Clíodhna**            | Alta Floresta   | soberania, amor, beleza, mar, Outro Mundo          | deusa            |
+| **Áine**                | Alta Floresta   | verão, fertilidade, soberania, riqueza             | deusa            |
+| **Aoibheall**           | Alta Floresta   | soberania, Outro Mundo, profecia                   | deusa/espírito   |
+| **Macha**               | Alta Floresta   | soberania, guerra, cavalos, fertilidade            | deusa            |
+| **Badb**                | Alta Floresta   | guerra, morte, profecia                            | deusa            |
+| **Tailtiu**             | Alta Floresta   | terra, agricultura, fertilidade                    | deusa            |
+
+
 | Nome                    | Região      | Domínio                                            | Tipo             |
 | ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
 | **Brìde**               | Goidélica   | primavera, fertilidade, cura, fogo                 | deusa            |
