@@ -18,6 +18,14 @@
 
 ㅤㅤㅤ ㅤO conceito de três grandes não existe para nós, temos como principais deuses: Marte, o deus da guerra, Belona, a deusa da guerra e Minerva, a deusa da estratégia. Minerva é uma de nossas deuses virgens, junto a Diana, cujo ligamos as Amazonas, guerreiras com grande dominío de luta a cavalos que são famosas por verem homens como inferiores a mulheres — pelas próprias palavras delas: "Homens são seres facilmente manipulados por sua ganância. Sua sede por poder os torna cegos e, por consequencia, impulsivos".
 
-ㅤㅤㅤ ㅤJupiter tem alguma relevância, principalmente na primeira coorte, já que assim como é nessa coorte, Jupiter é um deus de Tradições: é pai de todos os deuses e precisa de cerimônias e respeito, coisa que essa coorte entrega com maestria e perfeição. As coortes são divisões dentro de nosso exército, assim como era no exército romano.
+ㅤㅤㅤ ㅤJupiter tem alguma relevância, principalmente na primeira coorte, já que assim como é nessa coorte, Jupiter é um deus de Tradições: é pai de todos os deuses e precisa de cerimônias e respeito, coisa que essa coorte entrega com maestria e perfeição. As coortes são divisões dentro de nosso exército, assim como era no exército romano. Apesar da forte presença do exército, Nova Roma não é mais tão militar quanto costumava ser.
+
+ㅤㅤㅤ ㅤSegue lista das divindades mais ativas atualmente:
+
+1. **Apollo**: Deus do sol, da cura e da música. Também o chavamos de Febo;
+2. **Baco**: Deus do vinho, das festas e das celebrações;
+3. **Belona**: Deusa da guerra, mas não como Marte. Ela representa as batalhas, os guerreiros, a fúria que devasta cidades;
+4. **Ceres**: Deusa da agricultura e da colheita;
+5. **Júpiter**: Deus dos Céus e do Trovão, seu título é *Optimus Maximus*;
 
 <!-- FOOTER -->
