@@ -54,6 +54,11 @@ export const pages = {
         title: "Domínio Chinês"
     },
 
+    celta: {
+        file: "kanones/celta/dominio-celta",
+        title: "Domínio Celta"
+    },
+
     // primordial: {
     //     file: "spoilers",
     //     title: "👁️"
