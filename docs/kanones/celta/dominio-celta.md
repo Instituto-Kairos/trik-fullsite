@@ -11,9 +11,9 @@
 ## As Três Árvores
 ㅤㅤㅤ ㅤO território que um dia foi chamado de Floresta Antiga, que se refere a Bretanha (região da França), Bélgica, Suiça, Alemanha e afins, quase não existe mais linhagens vivas do nosso povo. Por esse motivo, essa região é chamado por nós de "Floresta Antiga". Das familias conhecidas, temos apenas registros de:
 
-1. Stêrc'hlas: significa literalmente "Rio Azul". Família que tem como origem a região que hoje se tem comunidades francesas como Saint-Malo e Dinan;
-2. Diskaramzer: significa literalmente "Outono". Família tradicional que atualmente habita em Quimper, na França. Lendas populares associam essa família a terem origem na Floresta de Brocéliande, a lendária floresta citada na história do Rei Artur;
-
+1. **Stêrc'hlas**: significa literalmente "Rio Azul". Família que tem como origem a região que hoje se tem comunidades francesas como Saint-Malo e Dinan;
+2. **Diskaramzer**: significa literalmente "Outono". Família tradicional que atualmente habita em Quimper, na França. Lendas populares associam essa família a terem origem na Floresta de Brocéliande, a lendária floresta citada na história do Rei Artur;
+</br></br>
 ㅤㅤㅤ ㅤOutros draoidhean existem na região, mas não vem de familias documentadas e não compartilham contato. Draoidhean é o plural de draoidheil, o termo abrangente para falar de bruxos, feiticeiros, magos, druidas e todos os praticantes de magia. Somos divididos entre draoidhean, leth-dhiathan (semideuses, singular leth-dhia) e daoine (povo, como individuo).
 
 ㅤㅤㅤ ㅤA região formada por Irlanda, Escócia e Ilha de Man é chamada de Alta Floresta. A herança tentou ao máximo se manter nessa região, fazendo que seus bosques e suas clareiras ainda tenham histórias para contar. Muitas famílias vivem nessa região e muitas criaturas místicas habitam essa região. As famílias são muitas, e se organizam atualmente como covens. Esses covens funciona como famílias, não como vínculos géneticos e sanguineos, mas sim de pessoas que se agrupam por compartilhar ideais e virtudes. Somos muitos, populosos e desentralizados. Nossas tradições se mesclaram, tentamos prender nossas raizes novamente. Estamos produzindo tomos e grimórios, e também divulgando tomos e grimórios, antes livros pessoais. Esse conhecimento deve ser passado para os outros se quiser que nosso povo exista.
