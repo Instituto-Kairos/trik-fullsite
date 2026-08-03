@@ -11,10 +11,10 @@
 | romano            |                       | *️⃣  |
 |                   | *nova roma            | 📍  |
 |                   | *tomo                 | ✴️  |
-| chinês            |                       | *️⃣  |
+| chinês            |                       | ✳️  |
 |                   | *academia             | ✴️  |
 |                   | *tomo                 | ✴️  |
-| celta             |                       | 📍  |
+| celta             |                       | ✳️  |
 |                   | *tomo                 | ✴️  |
 | yorubá            |                       | 📍  |
 |                   | *tomo                 | ✴️  |
@@ -127,6 +127,38 @@ YORUBA
 | **Badb**                | Alta Floresta   | guerra, morte, profecia                            | deusa            |
 | **Tailtiu**             | Alta Floresta   | terra, agricultura, fertilidade                    | deusa            |
 
+| Nome 12                 | Região      | Domínio                                            | Tipo             |
+| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
+| **Dôn**                 | Baixa Floresta   | ancestralidade, família divina                     | deusa/ancestral  |
+| **Math fab Mathonwy**   | Baixa Floresta   | magia, soberania, conhecimento                     | mago             |
+| **Gwydion fab Dôn**     | Baixa Floresta   | magia, astúcia, ilusão, conhecimento               | mago             |
+| **Lleu Llaw Gyffes**    | Baixa Floresta   | habilidade, soberania, artes                       | deus/herói       |
+| **Arianrhod**           | Baixa Floresta   | destino, maternidade, linhagem                     | deusa            |
+| **Rhiannon**            | Baixa Floresta   | soberania, cavalos, Outro Mundo                    | deusa            |
+| **Manawydan fab Llŷr**  | Baixa Floresta   | magia, artesanato, Outro Mundo                     | deus/herói       |
+| **Llŷr**                | Baixa Floresta   | mar                                                | deus             |
+| **Bendigeidfran**       | Baixa Floresta   | guerra, soberania, proteção                        | deus/herói       |
+| **Arawn**               | Baixa Floresta   | Annwn, mortos, Outro Mundo                         | deus/rei         |
+| **Mabon ap Modron**     | Baixa Floresta   | juventude, caça                                    | deus/herói       |
+| **Ceridwen**            | Baixa Floresta   | poção, inspiração, transformação, magia            | feiticeira       |
+
+| Nome 16                 | Região      | Domínio                                            | Tipo             |
+| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
+| **Lugus**               | Floresta Antiga | habilidade, conhecimento, soberania                | deus             |
+| **Cernunnos**           | Floresta Antiga | animais, natureza, fertilidade, prosperidade       | deus             |
+| **Epona**               | Floresta Antiga | cavalos, fertilidade, proteção                     | deusa            |
+| **Taranis/Taranucus**   | Floresta Antiga | trovão, céu, tempestade                            | deus             |
+| **Esus**                | Floresta Antiga | árvores, natureza, possível artesanato             | deus             |
+| **Sucellus**            | Floresta Antiga | agricultura, abundância, fertilidade               | deus             |
+| **Nantosuelta**         | Floresta Antiga | lar, fertilidade, prosperidade                     | deusa            |
+| **Sequana**             | Floresta Antiga | rio, águas, cura                                   | deusa            |
+| **Sirona**              | Floresta Antiga | águas, cura, saúde                                 | deusa            |
+| **Nemetona**            | Floresta Antiga | bosques, espaços sagrados                          | deusa            |
+| **Toutatis**            | Floresta Antiga | povo, tribo, proteção comunitária                  | deus             |
+| **Caturix**             | Floresta Antiga | guerra                                             | deus             |
+| **Cathubodua**          | Floresta Antiga | provavelmente o nome bretã de Badb                 | deusa            |
+| **Tarvos Trigaranus**   | Floresta Antiga | touro, natureza, fertilidade                       | ser divino       |
+| **Sulis**               | Floresta Antiga | se mesclou a Minerva pela dominação romana         | deusa            |
 
 | Nome                    | Região      | Domínio                                            | Tipo             |
 | ----------------------- | ----------- | -------------------------------------------------- | ---------------- |

@@ -23,6 +23,7 @@
 ## O Mundo Celta
 ㅤㅤㅤ ㅤEm qualquer lugar da Terra das Três Árvores, as criaturas que nos rodeam é as mesmas. Nossos deuses se difererem, um pouco, mas regiões diferentes teve focos diferentes. É um universo tão grande que, para tentar manter algum nível de organização, agrupamos em macrogrupos. Somos a Terra das Três Árvores, com três divisões internas citadas anteriormente: A Alta Floresta, a Baixa Floresta e Floresta Antiga. 
 
+### Alta Floresta
 ㅤㅤㅤ ㅤNas tradições da Alta Floresta, nossas divindades são membros da *Tuatha Dé Danann*. Essa familia é tão antiga e tão vasta que, para nosso conhecimento atual, vamos reduzir as gerações para o Pai Dagda e a Mãe Danu. Sendo muito sincero, o conhecimento de gerações antes dela e da árvore genealógica como um todo não importa muito: a maioria desses deuses já mesclaram suas energias as linhas ley. O conceito de linhas ley é complexo demais para uma descrição simples, mas para sua primeira apresentação formal nesse manuscrito, vamos definir ela como: linha ley é como é chamado as raízes de Crann Bethadh, nossa carvalho sagrado, a Árvore da Vida, ao mesmo tempo, ela é os galhos dessa mesma árvore, ou seja: a linha ley é o ínicio e o fim da Árvore da Vida, e também é o que as une.
 
 ㅤㅤㅤ ㅤRetornando aos ritos da Alta Floresta:
@@ -42,43 +43,57 @@
 13. **Macha**: deusa associada a fertilidade e a guerra, o ciclo da vida e poder feminino;
 14. **Badb**: é chamada de "corvo da batalha", associada ao medo e ao destino dos guerreiros na guerra;
 15. **Tailtiu**: deusa da agricultura. Ela adotou Lugh e sacrificou seu corpo preparando o solo que hoje pisamos, tornando nossas terras fertéis e capaz de alimentar nossos povos. Sua memória é lembrada em todo festival da colheita;
+</br></br>
 
+### Baixa Floresta
 
+ㅤㅤㅤ ㅤA Baixa Floresta não existe muitos registros de divindades e, em suas histórias, os magos e feiticeiros são muito mais exaltados. Essa vertente não tem semideuses conhecidos. **Dôn**, o nome galês de **Danu**, é uma das únicas divindades verdadeiras citadas. 
+
+ㅤㅤㅤ ㅤPor esse motivo, existe quatro escolas de magia: **Gwydion fab Dôn**, o Mago Trapaceiro; **Lleu Llaw Gyffes**, o Paladino Amaldiçoado; e **Ceridwen**, a Feiticeira das Poções. Essas são as três vertentes de magia tradicionais e qualquer magicista que não pertença a elas é chamado de **bruxo**.
+
+ㅤㅤㅤ ㅤUm pequeno resumo de histórias: **Math** era um rei mago que tinha que descansar com os pés no colo de uma virgem se não morreria (havia uma exceção se ele estivesse na guerra). Essa virgem era **Goewin**. **Gilfaethwy**, sobrinho de **Math**, se apaixonou por ela. **Gwydion** e **Gilfaethwy** são irmãos e **Gwydion** o ajudou com um plano: convenceram **Math** a comprar alguns porcos, um animal novo na região, mas fizeram uma troca com cavalos e cachorros que eles conjuraram com mágica. O dono dos porcos, **Pryderi** não gostou nada da surpresa quando viu que os animais que tinha trocado havia desaparecidos. Com a guerra iniciada, **Goewin** estaria livre enquanto **Math** estivesse na guerra. **Gwydion** o acompanhou.
+
+ㅤㅤㅤ ㅤ**Gilfaethwy** então violentou **Goewin**. Quando **Math** retornou, e **Goewin** contou o que aconteceu e porque não poderia deixar que descansasse os pés em seu colo. **Math** então a tomou como esposa para proteger sua honra de ter perdido a virgindade fora de um casamento. **Math** puniu os irmãos por três anos: no primeiro, os transformou em um par de cervos, no segundo em ursos e no último em lobos. **Gwydion**, após o castigo, retorna a casa de **Math** e o ajuda a definir quem deveria ser a nova virgem, sugerindo a irmã **Arianrhod**, só que essa não era mais virgem e quando passou pelo cajado de **Math**, pariu uma criança e um caroço de carne. Abandonou a criança e fugiu, envergonhada. A criança foi recolhida e o caroço guardado em um baú. Mais tarde, ao abrir o bau, percebeu que o caroço era uma criança.
+
+ㅤㅤㅤ ㅤA primeira criança foi chamada de Dylan, mas ao ser batizada se transformou em um menino-peixe e nadou para longe. A segunda criança, ao se desenvolver, seguia constantemente sendo rejeitada por **Arianrhod**, sendo criada pelo tio **Gwydion**. Após três provações (uma para conseguir um nome, outra para poder pegar em armas e uma para se casar), o rapaz finalmente teve paz. Esse rapaz era **Lleu Llaw Gyffes** e só conseguiu passar as provações porque **Gwydion** e **Math** o ajudaram.
+
+ㅤㅤㅤ ㅤTambém temos o rei **Manawydan fab Llŷr**, que casou com **Rhiannon**, uma rainha muito respeitada ligada a cavalos. **Rhiannon** era mãe de **Pryderi**. **Rhiannon** sofreu bastante, se casou com Pwyll primeiro. Ela apareceu para ele em seu cavalo, uma imagem mística que pode ser vista até hoje, e encantando ele mandou seus homens atrás dela, mas não teve sucesso até ele mesmo ir atrás dela e implorar para que ela pare, e ela o repreende por não ter simplesmente pedido. Ela então pede ele em casamento e ela aceita, mas Pwyll é um paspalho. Ele aceitou atender o pedido de um homem sem perguntar o que é e quase perde a mão de **Rhiannon**. Esse homem, do pedido, já era noivo dela antes e seu nome é **Gwawl ap Clud**. Ela resolve essa situação e consegue se casar com Pwyll.
+
+ㅤㅤㅤ ㅤEntão, eles precisavam ter um filho, a pressão enorme em cimad eles após três anos. Ela tem esse filho, mas ele é roubado durante a noite. As mulheres que deveriam ter cuidado disso durante a noite e estavam desatentam matam então um filhote de cachorro e sujam o rosto de **Rhiannon** com o sangue, para ela ser acusada de devorar o próprio filho, o  que faz ela ser punida de agir como um cavalo para visitantes do castelo (poucos aceitaram) e contar sua história para eles. Pwyll não consegue tirar ela do status de rainha, mas não consegue não ter dado a ela a puninção, já que a pressão era enorme.
+
+ㅤㅤㅤ ㅤUm cortesão de Pwyll, Teyrnon, encontra o recém nascido, quando o mesmo monstro tenta roubar o filhote de uma égua. Ele cria a criança até certa idade, quando percebe a semelhança e devolve a criança, que recebe o nome de **Pryderi**. Quando Pwyll morre, **Pryderi** se torna rei. **Pryderi** se envolvia em muitas guerras e retorna como um dos unicos sete sobreviventes de uma delas, junto de **Manawydan**, filho do deus do mar **Llŷr**. Apesar de parecer estranho, **Pryderi** ajeita que sua mãe e seu amigo se casem, e eles se tornam um casal feliz. **Manawydan** então se torna um líder da região e numa sério de eventos, ele precisa negociar suas terras, sua esposa e seu amigo de volta com o mago **Llwyd ap Cilcoed** e uma ratinha grávida.
+
+ㅤㅤㅤ ㅤNo território galês, o Outro Mundo se chama Annwn e **Arawn** é seu rei. **Pwyll** e ele trocaram de aparencia por um ano para lutar uma batalha, isso antes do casamento e o que foi citado anteriormente. Ele é um deus-rei, mas não sabemos muito sobre ele (parece um cara bem ocupado). Outras divindades é Mabon, associado a juventude, sol e o outono, e esse sim teve alguns filhos com mortais, mas não temos registros atuais disso.
+
+ㅤㅤㅤ ㅤSobre as Escolas de Magia:
+
+1. **Seguidores de Gwydion**: focado em truques e ilusões, esses magicistas causam vários problemas com seus truques;
+2. **Seguidores de Lleu**: focado em batalhas e cura, esses magicistas seguem o caminho da magia com seriedade;
+3. **Seguidores de Ceridwen**: focado em poções e magia natural, esses magicistas vivem em contato com a natureza e com seus frutos;
+</br></br>
+
+### Floresta Antiga
+
+ㅤㅤㅤ ㅤGrande parte dessa parte da história se perdeu. Primeiro, Roma e depois o cristianismo, destruindo nossas heranças. Mesmo alguns sendo filhos de deuses, todos dessa região são chamados de bruxos e bruxas, por ter a considerada "magia selvagem" — não confundir com a magia bruta dos feiticeiros.
+
+1. **Lugus**: o deus das mil habilidades, está ligado a Mercúrio graças a invasão Romana. Deus muito relacionado aos ofícios e aos trabalhos;
+2. **Cernunnos**: deus muito sagrado ligado aos animais, natureza e fertilidade;
+3. **Epona**: deusa dos cavalos;
+4. **Taranis**: deus do trovão, não aceitou bem a tentativa de *interpretatio romana* e para resistir a Síntese (processo de se ligar a um deus de outra mitologia) acabou desaparecendo das terras;
+5. **Esus**: deus da guerra, da vegetação e aos sacrificios em rituais, faz parte de uma triáde chamada Lucano com Taranis e Toutatis;
+6. **Sucellus**: deus associado à agricultura, florestas e prosperidade. Sempre com sua esposa Nantosuelta;
+7. **Nantosuelta**: deusa associada à natureza, à fertilidade e ao lar;
+8. **Sequana e Sirona**: deusa associadade a águas curativas, à saúde, à renovação;
+9. **Nemetona**: deusa associada a bosques sagrados, santuários e espaços protegidos. Atualmente, achamos que ela escondeu a **Floresta de Brocéliande** dos mortais;
+10. **Teutatis**: deus protetor e da comunidade. Seu nome era sinônimo de comunidade nos tempos antigos, acreditamos que ele tenha morrido junto a invasão romana. Sim, em nossas histórias, deuses podem morrer.
+11. **Caturix**: deus da guerra, está ligado a Marte;
+12. **Tarvos Trigaranus**: ele não é um deus, mas é nosso touro sagrado acompanhamento de três garças. Acreditamos que ele tem uma forma humana e é pai de incriveis guerreiros de nossas terras, que lutaram durante a invasão. Também acreditamos que ele seja responsavel por manter nossas florestas cheias de vida, como um protetor da fauna e da flora;
+13. **Sulis**: associada a cura, águas termais e o sol, sofreu Síntese com Minerva;
+
+### A Síntese
+
+ㅤㅤㅤ ㅤAcredito que um pequeno informativo deve ser feito: Síntese é o processo que acontece com o fenômeno que chamamos de "*interpretatio*". Decidimos dar um nome latim pelo nosso contexto histórico. Quando um povo de outra crença chega até a sua e reinterpreta sua fé, dando a ela o nome dos deuses deles e resumindo a suas histórias a versões das histórias dele, os deuses sofrem com a Síntesa, ou seja, começam a se mesclar em um só ser como eles fizeram ao conhecer os mitos gregos, sintetizando seus panteões a ponto de serem mundialmente conhecidos como greco-romano. O impacto disso é a mesclagem nas linhas ley, fazendo que suas energias se fundam e viram um só ser com duas ou mais faces. A Sintese é a metamorfose dos deuses.
 
 <!-- FOOTER -->
+***Notas do Narrador:** esse documento foi escrito a partir de uma intensa pesquisa, tentando ao máximo fazer com que a pluralidade celta seja vista ao ler o documento, mas limitando o escopo. Não temos compromisso com a verdade, sendo um jogo lúdico e criativo, que tem como objetivo visitar diferentes panteões e conhecer eles dentro do orçamento que nós temos: um jogo de RPG.*
 
-
-
-| Nome 12                 | Região      | Domínio                                            | Tipo             |
-| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
-| **Dôn**                 | Baixa Floresta   | ancestralidade, família divina                     | deusa/ancestral  |
-| **Math fab Mathonwy**   | Baixa Floresta   | magia, soberania, conhecimento                     | mago             |
-| **Gwydion fab Dôn**     | Baixa Floresta   | magia, astúcia, ilusão, conhecimento               | mago             |
-| **Lleu Llaw Gyffes**    | Baixa Floresta   | habilidade, soberania, artes                       | deus/herói       |
-| **Arianrhod**           | Baixa Floresta   | destino, maternidade, linhagem                     | deusa            |
-| **Rhiannon**            | Baixa Floresta   | soberania, cavalos, Outro Mundo                    | deusa            |
-| **Manawydan fab Llŷr**  | Baixa Floresta   | magia, artesanato, Outro Mundo                     | deus/herói       |
-| **Llŷr**                | Baixa Floresta   | mar                                                | deus             |
-| **Bendigeidfran**       | Baixa Floresta   | guerra, soberania, proteção                        | deus/herói       |
-| **Arawn**               | Baixa Floresta   | Annwn, mortos, Outro Mundo                         | deus/rei         |
-| **Mabon ap Modron**     | Baixa Floresta   | juventude, caça                                    | deus/herói       |
-| **Ceridwen**            | Baixa Floresta   | poção, inspiração, transformação, magia            | feiticeira       |
-
-| Nome 16                 | Região      | Domínio                                            | Tipo             |
-| ----------------------- | ----------- | -------------------------------------------------- | ---------------- |
-| **Lugus**               | Floresta Antiga | habilidade, conhecimento, soberania                | deus             |
-| **Cernunnos**           | Floresta Antiga | animais, natureza, fertilidade, prosperidade       | deus             |
-| **Epona**               | Floresta Antiga | cavalos, fertilidade, proteção                     | deusa            |
-| **Taranis/Taranucus**   | Floresta Antiga | trovão, céu, tempestade                            | deus             |
-| **Esus**                | Floresta Antiga | árvores, natureza, possível artesanato             | deus             |
-| **Sucellus**            | Floresta Antiga | agricultura, abundância, fertilidade               | deus             |
-| **Nantosuelta**         | Floresta Antiga | lar, fertilidade, prosperidade                     | deusa            |
-| **Rosmerta**            | Floresta Antiga | abundância, fertilidade, prosperidade              | deusa            |
-| **Sequana**             | Floresta Antiga | rio, águas, cura                                   | deusa            |
-| **Sirona**              | Floresta Antiga | águas, cura, saúde                                 | deusa            |
-| **Nemetona**            | Floresta Antiga | bosques, espaços sagrados                          | deusa            |
-| **Toutatis**            | Floresta Antiga | povo, tribo, proteção comunitária                  | deus             |
-| **Caturix**             | Floresta Antiga | guerra                                             | deus             |
-| **Cathubodua**          | Floresta Antiga | provavelmente o nome bretã de Badb                 | deusa            |
-| **Tarvos Trigaranus**   | Floresta Antiga | touro, natureza, fertilidade                       | ser divino       |
-| **Sulis**               | Floresta Antiga | se mesclou a Minerva pela dominação romana         | deusa            |
