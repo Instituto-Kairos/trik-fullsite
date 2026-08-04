@@ -35,7 +35,7 @@
 2. **Cailleach**: anciã, uma posição muito respeitada dentro de nossas tradições, matriarca da linha de bruxaria elemental, associamos o inverno a ela, mas ela não é a verdadeira deusa do Inverno. A Deusa do Inverno teria sido sua patrona e tomado ela por aprendiz, quando sua deusa se misturou as linhas ley, deixou parte de seu poder para Cailleach. Cailleach também tem um pequeno grupo de bruxas que chama de Cailleachan e trabalham com ela para cuidar das demandas divinas que sua patrona deixou;
 3. **Manannán**: rei e guardião do Outro Mundo, também considerado deus do Mar e um guerreiro lendário de nossas histórias;
 4. **Lugh**: divindade associada a forja e aos ferreiros;
-5. **Morrígan**: deusa da morte, da guerra, da vingança e dos presságios. é uma figura misteriosa e faz paste de uma triade com Badb e Macha;
+5. **Morrígan**: deusa da morte, da guerra, da vingança e dos presságios. é uma figura misteriosa e faz parte de uma triade com Badb e Macha;
 6. **Dagda**: deus Pai, Pai de todos os Pais, domina as artes, é sábio e protetor. Não possui filhos com humanos;
 7. **Aonghus Óg**: deus da fertilidade, do amor, juventude, beleza e das poesias. É um deus jovem e romantico;
 8. **Donn**: deus dos mortos, enquanto Manannán guarda o Outro Mundo, Donn cuida especificamente a parte dele que recebe as almas. O Outro Lado, para nós, é onde nossa alma nasce e retorna, é também onde os deuses habitam;
