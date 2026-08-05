@@ -1,4 +1,4 @@
-# Nova Roma
+# Nova Roma [WIP]
 *Os romanos fizeram o que faziam de melhor: erguer cidades e tomar terras. Documento redigido por Vincent Denvir sob revisão de Madelyn Roma*
 
 <!-- CONTENT -->
@@ -81,3 +81,4 @@
 
 
 <!-- FOOTER -->
+***Notas do Narrador:* **PÁGINA EM DESENVOLVIMENTO**
