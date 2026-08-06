@@ -67,7 +67,7 @@
 <br><br>
 "O jogo ser fantasioso não faz o *conceito* ser fantasioso. O conceito é real. E cabe aqui, Pater Domingos. Acredito que na Sacra Scriptura diz que muitas vezes caminhos paralelos e até mesmo opostos que o nosso chega as mesmas conclusões e, ouso fazer minha próxima afirmação, acredito que toda criação humana tem um fundo de verdade por mais fantasiosa e imaginária que pareça. Peço, então, que me permita chamar as coisas pelo que são."
 <br><br>
-"Pois bem, Abin, *così sia*¹"
+"Pois bem, Shai, *così sia*¹"
 <br><br><br><br>
 ¹Cosi Sia: "Assim Seja", em italiano. Na Domus Sancta é usada como uma autorização suprema, pois é a frase que encerra cada capitulo da Sacra Scriptura.
 <!-- /ANEDOTA -->
