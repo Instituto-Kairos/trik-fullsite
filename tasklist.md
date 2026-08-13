@@ -59,35 +59,28 @@ Cifra de Vigenère
 para mais informações sobre caracteristicas e habilidades, consulte: ***[Registros Abraãmico](?page=abraamico/registros-abraamico)***
 
 TOMO
+	pericia nata / per treinada / pass. d. / ativa divina
 
 GREGO
-	competências / preparações  / instinto / poderes
+	perícias	 / preparações  / aptidão / poderes
 ROMANA
 	competências / preparações  / técnicas / poderes
-
 NÓRDICOS
-	honra        / juramentos   / destino / poderes
-
+	honra        / juramentos   / destino  / poderes
 CELTA
-	tradições    / ofícios      / ritos / poderes
-
+	tradições    / ofícios      / ritos    / poderes
 EGIPCIO
-	competências / conhecimento / instinto / magia
-
+	competências / conhecimento / intuição / magia
 INDIGENA BR
 	tradições    / saberes      / instinto / poderes
-
 CHINESA - por weguan
-	valores  / dádivas       / técnicas 
-
+	dádivas  	 / valores      / técnicas / poderes
 JAPONESA
-	bugei  / bujutsu       / budo 
-
+	bugei  		 / bujutsu      / budo 	   / poderes
 ABRAAMICA
-	virtudes  / mandamentos       / dons 
-
+	virtudes     / mandamentos  / dons 	   / poderes
 YORUBA
-	fundamentos  / caminhos       / herança 
+	fundamentos  / caminhos     / herança  / poderes
 
 | Dragão                        | Cor                            | Elemento                      | Pedra                                               |
 | ----------------------------- | ------------------------------ | ----------------------------- | --------------------------------------------------- |

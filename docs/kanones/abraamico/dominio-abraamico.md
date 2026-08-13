@@ -11,7 +11,7 @@
 
 ㅤㅤㅤ ㅤ**Divino/Divina/Divini/Divin**: entidade divina criadora do nosso mundo como ele é, criou cada folha e cada estrela, tendo  nosso universo como sua obra;
 
-ㅤㅤㅤ ㅤ**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilins;
+ㅤㅤㅤ ㅤ**Grigori**: Também chamado de Vigia ou Vigilantes, é o grupo de 200 anjos que se misturaram entre os humanos e com eles geraram os Nefilinos;
 
 ㅤㅤㅤ ㅤ**Nefilim**: Significa literalmente "Os Caídos", é como é chamado as criaturas proles de Anjos com Humanos. Eram gigantes e sedentas por poder. Em alguns contextos, um Anjo Excomungado (caido), pode ser chamado de Nefilino também. Por essa razão, em contextos que precisam dos dois significados, os nascidos Nefilino são chamados de Nati-Nefilinos. Para ser considerado um Nefilino ou um Nati-nefilino, teria que descender de um anjo caido por um dos três primeiros pecados, que atentam contra a divindade a favor da humanidade.
 
@@ -86,9 +86,9 @@
 5. Telepatia: comunicar-se como uma só mente;
 
 ### Os Aurélicos
-ㅤㅤㅤ ㅤDescendentes diretos de uma família que recebeu o sangue de um anjo antes da Grande Chuva (o Dilúvio). Esse sangue podia ter sido recebido como um presente (a forma mais correta de acordo com as escrituras), dado para a família beber, ou da forma "impura", que seria esses anjos se deitando com humanos e gerando os nefilins. Nefilins não são Aurélicos, mas seus filhos são. 
+ㅤㅤㅤ ㅤDescendentes diretos de uma família que recebeu o sangue de um anjo antes da Grande Chuva (o Dilúvio). Esse sangue podia ter sido recebido como um presente (a forma mais correta de acordo com as escrituras), dado para a família beber, ou da forma "impura", que seria esses anjos se deitando com humanos e gerando os nefilinos. Nefilinos não são Aurélicos, mas seus filhos são. 
 
-ㅤㅤㅤ ㅤNefilins, por si só, *são outra categoria*, essa tida como **proibida**. Os Grigori, que deram origem aos Nefilins, foram punidos pelos Santos Vigiais antes da Grande Chuva e aceitaram sua punição. Qualquer tentativa de cruzar esse limite imposto causaria, novamente, uma punição direta e poderia gerar intervenções divinas.
+ㅤㅤㅤ ㅤNefilinos, por si só, *são outra categoria*, essa tida como **proibida**. Os Grigori, que deram origem aos Nefilinos, foram punidos pelos Santos Vigiais antes da Grande Chuva e aceitaram sua punição. Qualquer tentativa de cruzar esse limite imposto causaria, novamente, uma punição direta e poderia gerar intervenções divinas.
 
 ### Os Ungidos
 ㅤㅤㅤ ㅤSeguindo o caminho divino, os Ungidos seriam os que ganham bençãos. Esse vínculo não é passado de maneira heriditária, mas uma linhagem que em algum momento recebe o olhar direto da Divina tende a ter um pouco mais de sorte em toda sua história. Uma família uma vez presenteada com uma Benção tem mais chances de futuramente, outro membro, ser presenteado também. Essas linhagens são conhecidas como Linhagem em Linha Ley. Essa é a maneira mais correta e comum dos Milagres.
@@ -113,10 +113,10 @@
 
 ㅤㅤㅤ ㅤUm Tocado tem suas doenças curadas e seu sofrimento amenizado. O que acontece com o dom que demostrava é incerto. No registro que temos, o dom de visões foi também diminuido sua frequência. Não sabemos como outros podem reagir ao Toque Divino.
 
-## Nefilins e Tiferins
-ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilins (ou nati-nefilin), que já nasceram fora do palácio dos céus. 
+## Nefilinos e Tiferinos
+ㅤㅤㅤ ㅤNefilim significa, literalmente, "Os Caídos". Os anjos caídos pelos três primeiros Pecados Primordiais recebem o nome de Grigori ou Vigias/Vigilantes. Os anjos caídos pelos três últimos, perdem todo vínculo ao palácio do céus e são nomeados demônios. É importante que seja dita a verdade pelo que ela é: demônios nada mais são que anjos que se voltaram contra o palácio dos céus, por gânancia, rebeldia ou luxúria. Quando um Grigori se junta aos humanos e tem filhos, essas crianças são chamadas de Nefilinos (ou nati-nefilin), que já nasceram fora do palácio dos céus. 
 
-ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilins, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
+ㅤㅤㅤ ㅤFilhos de demônios com humanos, por outro lado, recebem o nome de Tiferinos. Ao contrário dos Nefilinos, que seus filhos se tornam apenas Aurélicos, uma linhagem de Tiferino sempre será chamada de Tiferino. Para registros, é chamado de Tiferino de Primeiro Grau o filho direto de um demônio, de Segundo Grau o neto ou bisneto, e de Terceiro Grau qualquer vínculo em diante. Para perder o título de Tiferino, o mesmo deve se submeter a um batismo autorizado e conseguir uma Certidão de Purificação, limpando sua linhagem das origens. A Purificação é um direito de todos os Tiferinos de Terceiro Grau e não é possível realizar em graus anteriores a esse.
 
 ㅤㅤㅤ ㅤSuas habilidades e poderes são descritas como acima dos Abençoados e abaixo dos Anjos ou Demônios. Os tiferinos, apesar da rápida associação aos Marcados, eles não sofrem com consequências negativas, mas seu sangue é visto como amaldiçoado e, por esse motivo, é esperado que tenham uma vida dificil e problemas de saúde. É uma teoria, dado aos Nefilinos antigos, que a vida geral deles também não duravam muito, sendo assim, novamente, só uma diferença etimológica. Enquanto nos Nefilinos é visto como a carne humana não suportando a divindade, os Teferinos são considerados amaldiçoados. Não existe, nos registros da Domus Sancta, Tiferinos registrados, apesar de com toda certeza existirem Tiferinos habitando a Terra atualmente. O motivo de sua discrição perante nossa Casa Santa é óbvio: em 1300 até 1700, a Domus Sancta os caçava e os matava, em um próposito, na época, considerado santo.
 
