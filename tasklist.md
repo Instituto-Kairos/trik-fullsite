@@ -15,6 +15,7 @@
 |                   | *academia             | ✴️  |
 |                   | *tomo                 | ✴️  |
 | celta             |                       | ✳️  |
+|                   | *covens               | ✴️  |
 |                   | *tomo                 | ✴️  |
 | yorubá            |                       | 📍  |
 |                   | *tomo                 | ✴️  |
@@ -219,3 +220,37 @@ YORUBA
 <!-- ENIGMA -->
 ?page=primordial
 <!-- /ENIGMA -->
+
+
+|  # | Família          | Kanji | Associação               | Significado / origem do nome    | Região principal        | Relevância histórica |
+| -: | ---------------- | ----- | ------------------------ | ------------------------------- | ----------------------- | -------------------- |
+|  1 | **Nakatomi**     | 中臣    | ☀️ Sol / sacerdócio      | “ministro do centro”            | Yamato / Kinai          | ⭐⭐⭐⭐⭐                |
+|  5 | **Mononobe**     | 物部    | ☀️ Sol / guerra          | “clã das coisas/armas”          | Yamato                  | ⭐⭐⭐⭐⭐                |
+| 26 | **Koga**         | 久我    | ☀️ Sol / aristocracia    | nome de lugar                   | Kyoto                   | ⭐⭐⭐⭐                  |
+| 28 | **Kujō**         | 九条    | ☀️ Sol / corte           | “nona avenida”                  | Kyoto                   | ⭐⭐⭐⭐⭐               |
+| 30 | **Katsuragi**    | 葛城    | ☀️ Sol / montanha        | antigo topônimo                 | Yamato                  | ⭐⭐⭐⭐⭐                |
+| 31 | **Kōmyō**        | 光明    | ☀️ Sol / luz             | “luz brilhante”                 | Japão central           | ⭐⭐⭐                  |
+| 32 | **Inukai**       | 犬養    | ☀️ Sol / proteção        | “criador de cães”               | Yamato                  | ⭐⭐⭐⭐                 |
+| 41 | **Oda**          | 織田    | ☀️ Sol / conquista       | origem toponímica               | Owari                   | ⭐⭐⭐⭐⭐                |
+| 42 | **Tokugawa**     | 徳川    | ☀️ Sol / autoridade      | “rio da virtude”                | Mikawa                  | ⭐⭐⭐⭐⭐                |
+| 48 | **Maeda**        | 前田    | ☀️ Sol / agricultura     | “campo da frente”               | Hokuriku                | ⭐⭐⭐⭐⭐                |
+| 16 | **Izumo**        | 出雲    | 🌊 Mar / Susanoo         | topônimo; “nuvens que surgem”   | Izumo, Shimane          | ⭐⭐⭐⭐⭐                |
+| 17 | **Azumi**        | 安曇    | 🌊 Mar / navegação       | antigo nome de povo marítimo    | Kyushu / Seto / Shinano | ⭐⭐⭐⭐⭐                |
+| 21 | **Matsura**      | 松浦    | 🌊 Mar / pesca           | “baía dos pinheiros”            | Hizen, Kyushu           | ⭐⭐⭐⭐                 |
+| 22 | **Murakami**     | 村上    | 🌊 Mar / guerra          | “acima da aldeia”               | Seto / Nagano           | ⭐⭐⭐⭐                 |
+| 23 | **Ōtomo**        | 大友    | 🌊 Mar / guerra          | “grande companheiro”            | Kyushu                  | ⭐⭐⭐⭐⭐                |
+| 25 | **Heguri**       | 平群    | 🌊 Mar / Yamato          | antigo topônimo                 | Yamato                  | ⭐⭐⭐⭐                 |
+| 36 | **Kikuchi**      | 菊池    | 🌊 Mar / guerra          | “lagoa dos crisântemos”         | Higo, Kyushu            | ⭐⭐⭐⭐                 |
+| 37 | **Mōri**         | 毛利    | 🌊 Mar / guerra          | origem toponímica               | Chūgoku                 | ⭐⭐⭐⭐⭐                |
+| 38 | **Shimazu**      | 島津    | 🌊 Mar / ilhas           | “porto/canal da ilha”           | Satsuma, Kyushu         | ⭐⭐⭐⭐⭐                |
+| 40 | **Kawachi**      | 河内    | 🌊 Mar / rios            | “entre os rios”                 | Kawachi, Kansai         | ⭐⭐⭐⭐                 |
+|  9 | **Sugawara**     | 菅原    | 🌙 Lua / conhecimento    | “campo de juncos”               | Yamato / Kyoto          | ⭐⭐⭐⭐                 |
+| 10 | **Tachibana**    | 橘     | 🌙 Lua / corte           | “tangerina selvagem”            | Kinai                   | ⭐⭐⭐⭐⭐                |
+| 11 | **Minamoto**     | 源     | 🌙 Lua / aristocracia    | “origem, fonte”                 | Kyoto / Japão           | ⭐⭐⭐⭐⭐                |
+| 14 | **Yoshida**      | 吉田    | 🌙 Lua / ritual          | “campo afortunado”              | Kyoto                   | ⭐⭐⭐⭐                 |
+| 15 | **Kiyohara**     | 清原    | 🌙 Lua / erudição        | “campo puro”                    | Japão central           | ⭐⭐⭐⭐                 |
+| 33 | **Watanabe**     | 渡辺    | 🌙 Lua / travessia       | “margem da travessia”           | Settsu / Osaka          | ⭐⭐⭐⭐⭐                |
+| 34 | **Nakayama**     | 中山    | 🌙 Lua / montanha        | “montanha central”              | várias regiões          | ⭐⭐⭐                  |
+| 35 | **Ariwara**      | 在原    | 🌙 Lua / poesia          | nome de lugar/linhagem          | Kyoto                   | ⭐⭐⭐⭐                 |
+| 43 | **Takeda**       | 武田    | 🌙 Lua / guerra          | “campo guerreiro”               | Kai                     | ⭐⭐⭐⭐⭐                |
+| 46 | **Hōjō**         | 北条    | 🌙 Lua / governo         | “faixa norte”                   | Kantō                   | ⭐⭐⭐⭐⭐                |

@@ -86,16 +86,23 @@
 5. **Esus**: deus da guerra, da vegetação e aos sacrificios em rituais, faz parte de uma triáde chamada Lucano com Taranis e Toutatis;
 6. **Sucellus**: deus associado à agricultura, florestas e prosperidade. Sempre com sua esposa Nantosuelta;
 7. **Nantosuelta**: deusa associada à natureza, à fertilidade e ao lar;
-8. **Sequana e Sirona**: deusa associadade a águas curativas, à saúde, à renovação;
-9. **Nemetona**: deusa associada a bosques sagrados, santuários e espaços protegidos. Atualmente, achamos que ela escondeu a **Floresta de Brocéliande** dos mortais;
+8. **Sequana e Sirona**: deusa associadade a águas curativas, à saúde, à renovação. São espiritos da natureza, quase como a personificação dos rios;
+9. **Nemetona**: deusa associada a bosques sagrados, santuários e espaços protegidos. Atualmente, achamos que ela escondeu a **Floresta de Brocéliande** dos mortais. Ela também está desaparecida;
 10. **Teutatis**: deus protetor e da comunidade. Seu nome era sinônimo de comunidade nos tempos antigos, acreditamos que ele tenha morrido junto a invasão romana. Sim, em nossas histórias, deuses podem morrer.
 11. **Caturix**: deus da guerra, está ligado a Marte;
 12. **Tarvos Trigaranus**: ele não é um deus, mas é nosso touro sagrado acompanhamento de três garças. Acreditamos que ele tem uma forma humana e é pai de incriveis guerreiros de nossas terras, que lutaram durante a invasão. Também acreditamos que ele seja responsavel por manter nossas florestas cheias de vida, como um protetor da fauna e da flora;
-13. **Sulis**: associada a cura, águas termais e o sol, sofreu Síntese com Minerva;
+13. **Sulis**: associada a cura, águas termais e o sol, sofreu Síntese com Minerva. Por causa das percas em nossas tradições, sua forma foi abstraida, não sendo mais possivel a ver desde a Invasão Romana;
 
 ### A Síntese
 
 ㅤㅤㅤ ㅤAcredito que um pequeno informativo deve ser feito: Síntese é o processo que acontece com o fenômeno que chamamos de "*interpretatio*". Decidimos dar um nome latim pelo nosso contexto histórico. Quando um povo de outra crença chega até a sua e reinterpreta sua fé, dando a ela o nome dos deuses deles e resumindo as suas histórias a versões das histórias deles, os deuses sofrem com a Síntese, ou seja, começam a se mesclar em um só ser como eles fizeram ao conhecer os mitos gregos, sintetizando seus panteões a ponto de serem mundialmente conhecidos como greco-romano. O impacto disso é a mesclagem nas linhas ley, fazendo que suas energias se fundam e viram um só ser com duas ou mais faces. A Sintese é a metamorfose dos deuses.
+ㅤㅤㅤ ㅤExiste dois tipos: a Balanceada e a Dominante. Na Balanceada, as duas entidades entram em harmonia e conseguem ser tanto uma quanto outra. A Dominante, por outro lado, um dos lados toma conta da forma e o outro é abstraido, perdendo, então, a existência física para o lado que a dominou.
+
+### Nossos agrupamentos
+
+ㅤㅤㅤ ㅤAtualmente, a gente se reune em Vilas. Fazemos grupos de três a cinco familias, moramos como vizinhos em um mesmo local. Algumas dessas Vilas são formadas dentro de cidades, com as familias morando na mesma rua, prédio ou condominio, e chamamos elas de Novas Vilas. As Vilas, originais, são feitas longe da cidade, com as familias construindo suas próprias casas.
+ㅤㅤㅤ ㅤEntre jovens, nas últimas decadas, surgiram os Covens, grupos de oito a quinze pessoas focado em estudos de magia. Esses Covens podem, ou não, residir juntos. Majoriataramente, eles se reunem e tratam de problemas em conjunto, como selar casas de pessoas, resolver incidentes com gnomos, afastar espiritos malignos e fechar portais de fadas.
+ㅤㅤㅤ ㅤComo dito anteriormente, os Druidas como líderes essenciais de uma Vila é um conceito extinto. Atualmente, druidas recebem uma nomemclatura diferente, mas são draoidhean como os outros, apenas focam seus estudos em magia natural e transmutação corporea. Na baixa floresta são bem arrogantes, agindo como se ainda fossem os verdadeiros líderes — mas não são, é importante que lembre-se disso. Esses mesmos druidas que agem como líderes nos perseguem e tenta queimar nossos registros.
 
 <!-- FOOTER -->
 ***Notas do Narrador:** esse documento foi escrito a partir de uma intensa pesquisa, tentando ao máximo fazer com que a pluralidade celta seja vista ao ler o documento, mas limitando o escopo. Não temos compromisso com a verdade, sendo um jogo lúdico e criativo, que tem como objetivo visitar diferentes panteões e conhecer eles dentro do orçamento que nós temos: um jogo de RPG.*
