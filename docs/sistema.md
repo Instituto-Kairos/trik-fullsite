@@ -221,8 +221,8 @@ Por outro lado, você também:
 
 #### Exemplos de Aptidão:
 
-1. Aptidão Nata com Espadas (Categoria): você consegue lutar melhor com espadas no geral. Espadas longas, curtas, duplas, leves ou pesadas. -1 treino por nível;
-2. Aptidão Natas com Espadões (Foco): você consegue lutar melhor com espadas grandes e pesadas. -3 treinos por nível;
+1. Aptidão Inata com Espadas (Categoria): você consegue lutar melhor com espadas no geral. Espadas longas, curtas, duplas, leves ou pesadas. -1 treino por nível;
+2. Aptidão Inatas com Espadões (Foco): você consegue lutar melhor com espadas grandes e pesadas. -3 treinos por nível;
 3. Aptidão Adquirida em Esgrima (Foco): você treinou esgrima quando era criança, o que faz você ter uma base melhor para evoluir o esporte agora. -3 aulas por nível;
 4. Aptidão Adquirida com Idiomas (Categoria): você tinha primos que falava outros idiomas. -1 aula por nível;
 5. Aptidão Adquirida com Russo (foco): sua melhor amgia de infância falava russo.. -3 aulas por nível;
