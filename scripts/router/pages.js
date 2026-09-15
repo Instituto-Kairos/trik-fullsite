@@ -16,12 +16,12 @@ export const pages = {
 
     "abraamico/domus-sancta": {
         file: "kanones/abraamico/domus-sancta",
-        title: "Domus Sancta"
+        title: "Domus Sancta — Domínio Abraâmico"
     },
 
     "abraamico/tomo-abraamico": {
         file: "kanones/abraamico/tomo-abraamico",
-        title: "Tomo Abraâmico"
+        title: "Tomo Abraâmico — Domínio Abraâmico"
     },
 
     romano: {
@@ -31,7 +31,7 @@ export const pages = {
 
     "romano/nova-roma": {
         file: "kanones/romano/nova-roma",
-        title: "Nova Roma"
+        title: "Nova Roma — Domínio Romano"
     },
 
     "indigena-br": {
@@ -46,7 +46,7 @@ export const pages = {
 
     "indigena/kanirenda-ikaraipyre": {
         file: "kanones/indigena-br/kanirenda-ikaraipyre",
-        title: "Kanirenda Ikaraipyre"
+        title: "Kanirenda Ikaraipyre — Domínio Indígena Brasileiro"
     },
 
     chinesa: {
@@ -57,6 +57,11 @@ export const pages = {
     celta: {
         file: "kanones/celta/dominio-celta",
         title: "Domínio Celta"
+    },
+
+    covens: {
+        file: "kanones/celta/covens",
+        title: "Covens — Domínio Celta"
     },
 
     // primordial: {
