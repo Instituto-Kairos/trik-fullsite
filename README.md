@@ -5,7 +5,12 @@
 </div>
 
 ```
-RPG textual que usa de base a ideia central dos livros de mitologia de Rick Riordan: deuses no mundo mortal. Não é utilizado personagem ou eventos presentes nos livros. Locais comuns como Hotel Valhalla, Acampamento Meio-Sangue, os Nomos Egipcios e o Acampamento Jupiter (consequentemente Nova Roma) passaram por uma releitura, enriquecendo sua estrutura para ser um complexo funcional e preparatório além de um local para contar uma história.
+RPG textual  que usa de base a ideia  central dos livros de  mitologia de Rick 
+Riordan: deuses no mundo mortal. Não é utilizado personagem ou eventos presen-
+tes nos livros. Locais comuns como Hotel Valhalla, Acampamento Meio-Sangue, os
+Nomos Egipcios e  o Acampamento Jupiter  (consequentemente Nova Roma) passaram 
+por uma releitura, enriquecendo sua estrutura para ser um complexo funcional e
+preparatório além de um local para contar uma história.
 ```
 
 # Mitologias Abordadas
