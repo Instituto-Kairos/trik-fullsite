@@ -50,7 +50,7 @@
 
 ### Baixa Floresta
 
-ㅤㅤㅤ ㅤNa Baixa Floresta não existe muitos registros de divindades e, em suas histórias, os magos e feiticeiros são muito mais exaltados. Essa vertente não tem semideuses conhecidos. **Dôn**, o nome galês de **Danu**, é uma das únicas divindades verdadeiras citadas. 
+ㅤㅤㅤ ㅤNa Baixa Floresta não existe muitos registros de divindades e, em suas histórias, os magos e feiticeiros são muito mais exaltados. Essa vertente não tem semideuses conhecidos. **Dôn**, o nome galês de **Danu**, é uma das únicas divindades verdadeiras citadas. Geograficamente, essa região engloba Reino Unido e País de Gales.
 
 ㅤㅤㅤ ㅤPor esse motivo, existem três escolas de magia: **Gwydion fab Dôn**, o Mago Trapaceiro; **Lleu Llaw Gyffes**, o Paladino Amaldiçoado; e **Ceridwen**, a Feiticeira das Poções. Essas são as três vertentes de magia tradicionais e qualquer magicista que não pertença a elas é chamado de **bruxo**.
 
@@ -66,7 +66,7 @@
 
 ㅤㅤㅤ ㅤUm cortesão de **Pwyll**, Teyrnon, encontra o recém nascido, quando o mesmo monstro que o roubou da mãe tenta roubar o filhote de uma égua. Ele cria a criança até certa idade, quando percebe a semelhança com o rei **Pwyll**  e devolve a criança, que recebe o nome de **Pryderi**. Quando **Pwyll** morre, **Pryderi** se torna rei. **Pryderi** se envolvia em muitas guerras (como a vez que tentaram passar a perna nele trocando seus porcos por animais falsos) e retorna como um dos unicos sete sobreviventes de uma delas, junto de **Manawydan**, filho do deus do mar **Llŷr**. Apesar de parecer estranho, **Pryderi** ajeita que sua mãe e seu amigo se casem, e eles se tornam um casal feliz. **Manawydan** então se torna um líder da região e numa sério de eventos, ele precisa negociar suas terras, sua esposa e seu amigo de volta com o mago **Llwyd ap Cilcoed** e uma ratinha grávida.
 
-ㅤㅤㅤ ㅤNo território galês, o Outro Mundo se chama **Annwn** e **Arawn** é seu rei. **Pwyll** e ele trocaram de aparencia por um ano para lutar uma batalha, isso antes do casamento e o que foi citado anteriormente. Ele é um deus-rei, mas não sabemos muito sobre ele (parece um cara bem ocupado). Outras divindades é **Mabon**, associado a juventude, sol e o outono, e esse sim teve alguns filhos com mortais, mas não temos registros atuais disso.
+ㅤㅤㅤ ㅤNo território Celta, o Outro Mundo se chama **Annwn** e **Arawn** é seu rei. **Pwyll** e ele trocaram de aparencia por um ano para lutar uma batalha, isso antes do casamento e o que foi citado anteriormente. Ele é um deus-rei, mas não sabemos muito sobre ele (parece um cara bem ocupado). Outras divindades é **Mabon**, associado a juventude, sol e o outono, e esse sim teve alguns filhos com mortais, mas não temos registros atuais disso.
 
 ㅤㅤㅤ ㅤSobre as Escolas de Magia:
 
@@ -77,7 +77,7 @@
 
 ### Floresta Antiga
 
-ㅤㅤㅤ ㅤGrande parte dessa parte da história se perdeu. Primeiro, Roma e depois o cristianismo, destruindo nossas heranças. Mesmo alguns sendo filhos de deuses, todos dessa região são chamados de bruxos e bruxas, por ter a considerada "magia selvagem" — não confundir com a magia bruta dos feiticeiros.
+ㅤㅤㅤ ㅤGrande parte dessa parte da história se perdeu. Primeiro, Roma e depois o cristianismo, destruindo nossas heranças. Mesmo alguns sendo filhos de deuses, todos dessa região são chamados de bruxos e bruxas, por ter a considerada "magia selvagem" — não confundir com a magia bruta dos feiticeiros. Geograficamente, são os locais dentro do continente Europeu chamado de "Gaules", ou seja, Bélgica, norte da Itália e partes da França.
 
 1. **Lugus**: o deus das mil habilidades, está ligado a Mercúrio graças a invasão Romana. Deus muito relacionado aos ofícios e aos trabalhos;
 2. **Cernunnos**: deus muito sagrado ligado aos animais, natureza e fertilidade;
@@ -100,9 +100,16 @@
 
 ### Nossos agrupamentos
 
-ㅤㅤㅤ ㅤAtualmente, a gente se reune em Vilas. Fazemos grupos de três a cinco familias, moramos como vizinhos em um mesmo local. Algumas dessas Vilas são formadas dentro de cidades, com as familias morando na mesma rua, prédio ou condominio, e chamamos elas de Novas Vilas. As Vilas, originais, são feitas longe da cidade, com as familias construindo suas próprias casas.
+ㅤㅤㅤ ㅤAtualmente, a gente se reune em Vilareijos. Fazemos grupos de três a cinco familias, moramos como vizinhos em um mesmo local. Algumas dessas Vilareijos são formadas dentro de cidades, com as familias morando na mesma rua, prédio ou condominio, e chamamos elas de Novos Vilareijos. Os Vilareijos, originais, são feitas longe da cidade, com as familias construindo suas próprias casas.
+
 ㅤㅤㅤ ㅤEntre jovens, nas últimas decadas, surgiram os [Covens](?page=celta/covens), grupos de oito a quinze pessoas focado em estudos de magia. Esses Covens podem, ou não, residir juntos. Majoriataramente, eles se reunem e tratam de problemas em conjunto, como selar casas de pessoas, resolver incidentes com gnomos, afastar espiritos malignos e fechar portais de fadas.
-ㅤㅤㅤ ㅤComo dito anteriormente, os Druidas como líderes essenciais de uma Vila é um conceito extinto. Atualmente, druidas recebem uma nomemclatura diferente, mas são draoidhean como os outros, apenas focam seus estudos em magia natural e transmutação corporea. Na baixa floresta são bem arrogantes, agindo como se ainda fossem os verdadeiros líderes — mas não são, é importante que lembre-se disso. Esses mesmos druidas que agem como líderes nos perseguem e tenta queimar nossos registros.
+
+ㅤㅤㅤ ㅤComo dito anteriormente, os Druidas como líderes essenciais de uma Vila é um conceito extinto. Atualmente, druidas recebem uma nomemclatura diferente, mas são draoidhean como os outros, apenas focam seus estudos em magia natural e transmutação corporea. Na baixa floresta são bem arrogantes, agindo como se ainda fossem os verdadeiros líderes — mas não são, é importante que lembre-se disso. Esses mesmos druidas que agem como líderes nos perseguem e tenta queimar nossos registros (esse registro é a segunda tentativa, a primeira foi confiscada e provavelmente usada da lenha).
+
+ㅤㅤㅤ ㅤQuando um Vilareijo se torna velho o suficiente, as familias crescem, formando pequenas Vilas. Não sei exatamente explicar como e porquê, mas acredito que a floresta nos esconda do mundo externo. Eu, Cailean, nasci em um Vilarejo e até meus dez anos não tive contado com o mundo humano. Não sabia o que era McDonalds, Coca-cola, pendrives e rádios. Tive uma forte pneumonia quando criança e meus pais, que nasceram fora do vilarejo, tiveram que me levar a um hospital humano. Foi assustador. Luzes fluorescentes, equipamentos esquisitos conectados a mim que apitavam e mostravam imagens que se moviam em uma tela de vidro. Fiz um amigo nesse hospital, um mundano qualquer. Ele adorava aliens e ficou horas e horas falando sobre alienigenas — o que, de novo, eu não fazia ideia do que eram. Contei para ele lendas do sol, lua, floresta e estrelas, e ele disse que eu gostava de coisas muito chatas. A amizade não durou muito. Enfim.
+
+ㅤㅤㅤ ㅤGwynlais, por outro lado, nasceu e cresceu em uma cidade mundana. Seu sobrenome é um segredo de sua avó, que revelou a ela quando ela começou a ter sonhos proféticos. Ela, então, foi atrás de um Coven. Eu estava atrás de um, também, pois já tinhamos dezesseis anos nessa idade, e nesse idade somos como corvos: saimos do ninho, formamos gangues e nos revoltamos contra o governo. Porém, eu e Gwynlais somos péssimos formando gangues, mas somos uma ótima dupla. Atualmente, prestamos pequenos serviços contra pequenos infortunos místicos em Londres — Irado, né? 
+
 
 <!-- FOOTER -->
 ***Notas do Narrador:** esse documento foi escrito a partir de uma intensa pesquisa, tentando ao máximo fazer com que a pluralidade celta seja vista ao ler o documento, mas limitando o escopo. Não temos compromisso com a verdade, sendo um jogo lúdico e criativo, que tem como objetivo visitar diferentes panteões e conhecer eles dentro do orçamento que nós temos: um jogo de RPG.*
