@@ -38,6 +38,7 @@
 | Trilha Médica | Saúde | A vida dos semidivinos são muito perigosas e você quer amenizar os danos e percas. | Médicos, cirurgiões, psicologos e socorristas. Você vai prestar assistência aos seus companheiros. |
 | Trilha Cientifica | Pesquisa | O mundo semidivino é uma caixa de surpresas e você quer desbravá-la. É uma trilha de viagem, sem local fixo, que explora o mundo atrás de catalogar as maravilhas que o mundo semidivino esconde. | Viagens longas, estadias solitárias, muito trabalho a fazer. |
 | Trilha Sazonal | — | Você não é apenas um semi-deus, você também é um semi-mortal. Você quer viver, o máximo possível, como uma pessoa normal, sem todos os problemas dos deuses; | Você tem acesso ao mundo exterior de maneira facilitada, mas isso trás consequências; |
+| Trilha Acadêmica | Estudo | O mundo divino e o humano estão com contato a tanto tempo que suas adaptações merecem uma área dedicada a pesquisa e estudo, focado em formar pessoas e uma comunidade pronta para lidar com esse novo mundo OU focado em estar sempre aprendendo mais e mais sobre o mundo | Você ensina pessoas, dando um bônus de aprendizado para elas OU Você se dedicou aos estudos e tem bônus privilegiados; |
 
 </br></br>
 
@@ -105,7 +106,7 @@ Você também:
 > 3. É membro da Bancada Dourada (comitê de cientistas do semidivino);
 > 4. Tem acesso aos laboratórios
 
-### CARREIRA Sazonal
+### CARREIRA SAZONAL
 O mundo é além de deuses, monstros e sobreviver. Você acredita que existe uma escolha, e você está escolhendo viver como uma pessoa comum. Ao tomar essa decisão, você:
 
 > 1. Pode ir até a Cidade fazer faculdade;
@@ -120,6 +121,14 @@ Por outro lado, você também:
 > 2. Tem seus poderes adormecidos;
 > 3. Pode esquecer dos anos de vida e aventuras que teve como semideus;
 > 4. Paga imposto!
+
+### CARREIRA ACADÊMICA
+Você ajuda na formação de pessoas OU você dedica integralmente sua vida aos estudos. Sendo um tutor, seus alunos ganham beneficios ao serem supervisionado por você OU sendo um aluno, aperfeiçoando seus conhecimentos para desbloquear beneficios exclusivos. Você pode:
+
+> 1. Ensinar matérias já existentes;
+> 2. Criar novos planos de ensino com uma matéria que julga essencial;
+> 3. Pode dedicar sua vida a uma área de estudo, se tornando referencia na área;
+> 4. Tem viagens financiadas para se especializar em outros lugares;
 
 ## Maestria
 ㅤㅤㅤ ㅤAo treinar com armas de qualquer tipo ou combate, você adquire uma quantidade de experiência na sua barra de Maestria, que determina seu domínio com uma arma ou estilo de luta. A experiência é adquirida por número de cenas treinando e quantidade de caracteres desse treino, recompensando jogadores dedicados.
@@ -279,34 +288,58 @@ Por outro lado, você também:
 ㅤㅤㅤ ㅤPara conseguir upar, você precisa concluir os requisitos semanais. Tem minimo de semanas IRL e IN-Game, número de cenas que deve ser feitas assistindo aulas, treinos, fazendo tarefas e trabalhos dentro da comunidade e o total de cenas. O total de cenas na semana sempre conta as cenas obrigatórios em treinos, aulas, tarefas ou trabalhos somado a cenas livres, que podem ser pagas realizando qualquer cena com o personagem.
 
 
-| Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Sazonal  | Requisitos | Recompensa |
-| :--:  | :--         | :--                        | :--            | :--                         | :--       | :--        | :--        | 
-| 01    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | |
-| 02    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 03    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
-| 04    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; | ✦ Você escolhe uma área de interesse; |
-| 05    | Novato      | Novato                     | Novato         | Novato                      | Novato    | ✦ 3 cenas totais por semana (2 livres + 1 treino OU 1 aula), 1 semana IRL e 1 semana in-game; </br> ✦ Uma matéria básica concluida; | ✦ Aulas Comuns Desbloqueadas </br> ✦ Você escolhe um objetivo;|
-| 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Nível 3 de maestria em qualquer arma; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa), 2 semana IRL e 2 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
-| 09    | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 7 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 10    | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game;    | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Aulas Comuns Desbloqueadas ✦ Aulas Avançadas Desbloqueadas;  |
-| 11    | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante | ✦ 4 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 2 semana IRL e 2 semana in-game; </br> ✦ Nível 9 de maestria em qualquer arma; </br> ✦ Nível 5 de maestria em qualquer arma; </br> ✦ Formação em Técnicas de Sobrevivência; | ✦ Um Ponto de Aprimoramento de Conduta |
-| 12    | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 13    | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 14    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Príncipio; | 
-| 15    | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Estudos Avançados Desbloqueadas; | 
-| 16    | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
-| 17    | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; |
-| 18    | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 19    | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
-| 20    | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   | ✦ 5 cenas totais por semana (2 livres + 1 treino OU 1 aula + 1 tarefa OU 1 trabalho), 3 semana IRL e 4 semana in-game; | ✦ Um Ponto de Aprimoramento de Conduta;                                                |
-| 21    | *           | *                          | *              | *                           | *         | *                                                                                                            | ✦ Um Ponto de Aprimoramento Secreto;                                                  |
+| Nível | Requisitos | Recompensa |
+| :--:  | :--        | :--        | 
+| 01    | ✦ EM MANUNTENÇÃO | |
+| 02    | ✦ EM MANUNTENÇÃO | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 03    | ✦ EM MANUNTENÇÃO | ✦ Você escolhe uma Aptidão Natural, uma Aptidão Adquirida e uma Preferência. |
+| 04    | ✦ EM MANUNTENÇÃO | ✦ Você escolhe uma área de interesse; |
+| 05    | ✦ EM MANUNTENÇÃO | ✦ Aulas Comuns Desbloqueadas </br> ✦ Você escolhe um objetivo;|
+| 06    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 07    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 08    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Conduta; |
+| 09    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 10    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Aulas Comuns Desbloqueadas ✦ Aulas Avançadas Desbloqueadas;  |
+| 11    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta |
+| 12    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 13    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 14    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Desbloqueio de Príncipio; | 
+| 15    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; <br> ✦ Estudos Avançados Desbloqueadas; | 
+| 16    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; | 
+| 17    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; |
+| 18    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 19    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta; <br> ✦ Um Ponto de Aprimoramento de Principio; |
+| 20    | ✦ EM MANUNTENÇÃO | ✦ Um Ponto de Aprimoramento de Conduta;                                                |
+| 21    | *                | ✦ Um Ponto de Aprimoramento Secreto;                                                  |
+</br></br>
 
+## Nomemclaturas por Trilha
 
+| Nível |  Militar    | Médico                     | Gerencial      | Cientifica                  | Sazonal   |
+| :--:  | :--         | :--                        | :--            | :--                         | :--       | 
+| 01    | Novato      | Novato                     | Novato         | Novato                      | Novato    | 
+| 02    | Novato      | Novato                     | Novato         | Novato                      | Novato    |
+| 03    | Novato      | Novato                     | Novato         | Novato                      | Novato    |
+| 04    | Novato      | Novato                     | Novato         | Novato                      | Novato    |  
+| 05    | Novato      | Novato                     | Novato         | Novato                      | Novato    |
+| 06    | Soldado I   | Auxiliar de Farmácia I     | Assistente I   | Auxiliar de Laboratório I   | Estudante |  
+| 07    | Soldado II  | Auxiliar de Farmácia II    | Assistente II  | Auxiliar de Laboratório II  | Estudante |
+| 08    | Soldado III | Auxiliar de Farmácia III   | Assistente III | Auxiliar de Laboratório III | Estudante | 
+| 09    | Sargento I  | Farmaceutico I             | Tesoureiro I   | Auxiliar de Coleta I        | Estudante | 
+| 10    | Sargento II | Farmaceutico II            | Tesoureiro II  | Auxiliar de Coleta II       | Estudante |
+| 11    | Oficial I   | Farmaceutico III           | Tesoureiro III | Auxiliar de Coleta III      | Estudante | 
+| 12    | Oficial II  | Auxiliar de Enfermagem I   | Supervisor I   | Analista de Laboratorio I   | Civil     |   
+| 13    | Oficial III | Auxiliar de Enfermagem II  | Supervisor II  | Analista de Laboratorio II  | Civil     | 
+| 14    | Tenente I   | Auxiliar de Enfermagem III | Supervisor III | Analista de Laboratorio III | Civil     |  
+| 15    | Tenente II  | Técnico de Enfermagem I    | Gerente I      | Técnico em Bioquimica I     | Civil     |  
+| 16    | Tenente III | Técnico de Enfermagem II   | Gerente II     | Técnico em Bioquimica II    | Cidadão   |  
+| 17    | Capitão I   | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |  
+| 18    | Capitão II  | Técnico de Enfermagem III  | Gerente III    | Técnico em Bioquimica III   | Cidadão   |  
+| 19    | Capitão III | Enfermeiro-Chefe           | Vice-Diretor   | Pesquisador                 | Cidadão   |  
+| 20    | Major       | Médico                     | Diretor        | Cientista                   | Cidadão   | 
+| 21    | *           | *                          | *              | *                           | *         | 
 
-
-
+</br></br>
 
 
 ## Tarefas e Trabalhos
