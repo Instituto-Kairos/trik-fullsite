@@ -421,6 +421,8 @@ tr:nth-child(even) {
 }
 
 .content .principal .card img {
+    margin-top: 30px;
+    margin-bottom: 10px;
     max-width: 100%;
 }
 
@@ -508,7 +510,7 @@ a[href^="mailto:"]:hover {
 /* - - - - - - - - - - - - -   @ MEDIA */
 /* - - - - - - - - - - - - - - - - - - */
 
-@media (max-width: 989px) {
+@media (max-width: 1200px) {
     .desktop-title {
         display: none;
     }
@@ -583,6 +585,10 @@ a[href^="mailto:"]:hover {
     nav .third {
         width: 28%;
     }
+
+    .content .principal .card {
+        padding: 0px 0px 0px 0px;
+    }
 }
 
 @media (max-width: 840px) {
@@ -604,6 +610,11 @@ a[href^="mailto:"]:hover {
 
     nav .first {
         padding-left: 0%;
+    }
+
+    .content .principal.row .card {
+        width: 100%;
+        padding: 0;
     }
 }
 
