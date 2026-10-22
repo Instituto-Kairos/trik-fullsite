@@ -1,4 +1,4 @@
-# Nova Roma [WIP]
+# Nova Roma
 *Os romanos fizeram o que faziam de melhor: erguer cidades e tomar terras. Documento redigido por Vincent Denvir sob revisão de Madelyn Roma*
 
 <!-- CONTENT -->
@@ -81,4 +81,4 @@
 
 
 <!-- FOOTER -->
-***Notas do Narrador:* **PÁGINA EM DESENVOLVIMENTO**
+***Notas do Narrador:* Foi feito uma reeleitura e aprofundamente na história e organização abordada nos livros de Rick Riordan sobre o local onde os semideuses romanos vivem. Tudo foi feito com pesquisa, debates e o objetivo de enriquecer o mundo. Todos os dados da mitologia foram retirados em pesquisas e dos próprios livros e não tem compromisso na verdade ou com falas futuras do autor original, visto que usamos apenas de base e inspiração para o que construimos.**

@@ -1,4 +1,4 @@
-# A Glória Romana [WIP]
+# A Glória Romana
 *Apesar de não ter os seus deuses como os mais populares, é impossível pensar em Império sem pensar em Roma. Acredito que, para os antigos Imperadores, esse é o maior sinal de sucesso que eles poderiam ter: serem lembrados por seus homens e não pelos seus deuses. Documento redigido por Vincent Denvir sob revisão de Madelyn Roma*
 
 <!-- CONTENT -->
@@ -42,4 +42,7 @@
 ㅤㅤㅤ Quando Christian Wolfenbarger assumiu o pretorado em 2008, seu discurso disse uma frase que representa muito o que a cidade é: "Que nós nunca esqueçamos: Nova Roma também é a casa dos semihumanos". Apesar de ser ligada a alguém que se perdeu totalmente dentro da sua própria obsessão, essa frase representa muito para cidade.
 
 <!-- FOOTER -->
-***Notas do Narrador:* **PÁGINA EM DESENVOLVIMENTO**
+***Notas do Narrador:* Foi feito uma reeleitura e aprofundamente na história e organização abordada nos livros de Rick Riordan sobre o local onde os semideuses romanos vivem. Tudo foi feito com pesquisa, debates e o objetivo de enriquecer o mundo. Todos os dados da mitologia foram retirados em pesquisas e dos próprios livros e não tem compromisso na verdade ou com falas futuras do autor original, visto que usamos apenas de base e inspiração para o que construimos.**
+</br>
+
+*Essa página está no escopo suficiente para ser lida, mas pode ser atualizada conforme novas formações foram adicionadas*.

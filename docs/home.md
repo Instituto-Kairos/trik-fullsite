@@ -30,4 +30,10 @@
 
 ㅤㅤㅤ ㅤO sistema é uma ferramenta para contar uma história e jamais deve limita-lá. Jogamos no formato de RPG textual, ou seja, escrevemos por extenso nossas ações como os personagens, com um cabeçalho de cena. Diferente dos famosos "rp", o IK tem como objetivo criar uma categoria sistematica, sendo de fato um RPG, só que por escrito. 
 
+
+## Atualizações no Site:
+ㅤㅤㅤ ㅤEsse site está em constante atualização, porque a história e o mundo está em constante desenvolvimento.
+
+
 </br></br>
+

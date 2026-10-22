@@ -130,6 +130,8 @@
 
 ㅤㅤㅤ ㅤExiste essa magia selvagem e inexplicavel dentro da floresta antiga, e acredito que por isso eles tentem fazer a gente acreditar que não temos quase nada. Quem nasce nessas terras, quem é cultivado por elas, quem se permite conhecer esse lugar, floresce com uma força inevitável. A Baixa e a Alta tem rituas, fórmulas, ordem para fazer as coisas. Ramos disso, folhas daquilo, a magia precisa de canalização para convencer a mente, e nós não precisamos disso. A magia corre em mim como meu sangue, e isso não pode ser retirado de mim, como não pode ser retirado da minha mãe nem da mãe dela, e não vai poder ser tirado de meus filhos.
 
+ㅤㅤㅤ ㅤEssa é uma particularidade nossa: temos que nascer aqui, crescer, ter contato com a floresta dessas terras, se não, somos desconhecidas para ela e para sua magia, e nunca conseguiremos utilizar nosso potencial, porque as linhas ley não nos conhece.
+
 <!-- FOOTER -->
 ***Notas do Narrador:** esse documento foi escrito a partir de uma intensa pesquisa, tentando ao máximo fazer com que a pluralidade celta seja vista ao ler o documento, mas limitando o escopo. Não temos compromisso com a verdade, sendo um jogo lúdico e criativo, que tem como objetivo visitar diferentes panteões e conhecer eles dentro do orçamento que nós temos: um jogo de RPG.*
 

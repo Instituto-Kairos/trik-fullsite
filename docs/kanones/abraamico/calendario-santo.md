@@ -45,10 +45,22 @@ Nota do Autor: A diferenciação de "clássico" para "nativo" não é um paramet
 ## Relógio
 Nossos segundos são ligeramente mais demorados que os comuns. No relógio comum, um segundo dura exatamente 9192631770 ciclos de Césio. Em nosso tempo santo, o segundo vale 9198731072. É uma correção sútil, mas que, ao comparar, torna os dias 57 segundos mais longos. Isso corrige as cinco horas, 48 minutos e 46 segundos que o relógio e calendário atual tenta corrigir, grosseiramente, com anos bissextos.
 
+<!-- ANEDOTA -->
 [Anedotas da Domus Sancta #1: Anos Bissextos]
-> "Sinceramente, toda fórmula envolvida para decidir um ano para corrigir um erro matematico é uma ofensa ao reino do Divino e..."
-> "Lincoln. Você não pode escrever isso. A Divina nunca disse tal coisa."
-> "Mas Ele criou o tempo como ele deveria ser e já estamos o limitando dentro de conceitos humanos e até em nossa ousadia nos damos o luxo de errar por algo manejavel?"
-> "Perdoe-o, Sancta Matre, ele não sabe o que diz."
-> "Perdoe ELES, Sancta Matre, eles não sabe o que fazem!"
-> "Lincoln!"
+<br><br>
+"Sinceramente, toda fórmula envolvida para decidir um ano para corrigir um erro matematico é uma ofensa ao reino do Divino e..."
+<br><br>
+"Lincoln. Você não pode escrever isso. A Divina nunca disse tal coisa."
+<br><br>
+"Mas Ele criou o tempo como ele deveria ser e já estamos o limitando dentro de conceitos humanos e até em nossa ousadia nos damos o luxo de errar por algo manejavel?"
+<br><br>
+"Perdoe-o, Sancta Matre, ele não sabe o que diz."
+<br><br>
+"Perdoe ELES, Sancta Matre, eles não sabe o que fazem!"
+<br><br>
+"Lincoln!"
+<br><br><br><br>
+<!-- /ANEDOTA -->
+
+<!-- FOOTER -->
+***Notas do Narrador:** esse documento não tem e não pretende possuir nenhum valor religioso. É apenas uma representação fictícia de conceitos comuns em religiões de origem abraãmica, sem qualquer intenção de ofender ou desrespeitar a fé. Nenhum conceito criado e apresentado nesse documento tem como função teorizar ou conspirar contra práticas religiosas. Foi utilizado hebraico, aramaico, árabe, italiano, francês e latim para diversas palavras utilizadas nesse texto. Se você tem informações idiomáticas ou culturais para oferecer, por favor entre em contato com equipeik@rpg-institutokairos.org, queremos te ouvir!*
