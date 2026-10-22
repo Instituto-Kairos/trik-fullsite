@@ -59,7 +59,7 @@ export const pages = {
         title: "Domínio Celta"
     },
 
-    covens: {
+    "celta/covens": {
         file: "kanones/celta/covens",
         title: "Covens — Domínio Celta"
     },
