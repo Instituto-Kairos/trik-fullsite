@@ -6,7 +6,7 @@ TOMO
 	pericia nata / per treinada / pass. d. / ativa divina
 
 GREGO
-	perícias	 / preparações  / aptidão / poderes
+	perícias	 / preparações  / aptidão  / poderes
 ROMANA
 	competências / preparações  / técnicas / poderes
 NÓRDICOS
@@ -20,7 +20,7 @@ INDIGENA BR
 CHINESA - por weguan
 	dádivas  	 / valores      / técnicas / poderes
 JAPONESA
-	bugei  		 / bujutsu      / budo 	   / poderes
+	caminhos	 / disciplina   / técnicas / poderes
 ABRAAMICA
 	virtudes     / mandamentos  / dons 	   / poderes
 YORUBA

@@ -388,6 +388,10 @@ tr:nth-child(even) {
 .content .principal.row {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .content .principal.col {
@@ -415,6 +419,20 @@ tr:nth-child(even) {
 
 .content .principal .card {
     width: 25%;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content .principal .card.chines {
+    width: 20%;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content .principal .card.japones {
+    width: 30%;
     padding: 10px 10px 10px 10px;
     display: flex;
     flex-direction: column;

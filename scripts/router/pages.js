@@ -59,6 +59,11 @@ export const pages = {
         title: "Domínio Celta"
     },
 
+    japones: {
+        file: "kanones/japones/dominio-japones",
+        title: "Domínio Japonês"
+    },
+
     "celta/covens": {
         file: "kanones/celta/covens",
         title: "Covens — Domínio Celta"

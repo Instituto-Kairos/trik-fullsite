@@ -28,7 +28,7 @@
 <!-- PAINEL principal row-->
 <!-- PAINEL card col -->
 <!-- PAINEL image -->
-![imagem de luminárias chinesas vermelhas](assets/chines/chines-red.jpg)
+![imagem de luminárias chinesas vermelhas](assets/chines/ikc-red.jpg)
 <!-- /PAINEL image -->
 <!-- PAINEL text -->
 ### 赤河 — Chì Hé, Rio Vermelho
@@ -38,7 +38,7 @@
 
 <!-- PAINEL card col -->
 <!-- PAINEL image -->
-![imagem de moedas chinesas azuis](assets/chines/chines-blue.jpg)
+![imagem de moedas chinesas azuis](assets/chines/ikc-blue.jpg)
 <!-- /PAINEL image -->
 <!-- PAINEL text -->
 ### 青河 — Qīng Hé, Rio Azul
@@ -48,7 +48,7 @@
 
 <!-- PAINEL card col -->
 <!-- PAINEL image -->
-![imagem de uma construção chinesa com tons de amarelo](assets/chines/chines-yellow.jpg)
+![imagem de uma construção chinesa com tons de amarelo](assets/chines/ikc-yellow.jpg)
 <!-- /PAINEL image -->
 <!-- PAINEL text -->
 ### 黄河 — Huáng Hé, Rio Amarelo
@@ -58,7 +58,7 @@
 
 <!-- PAINEL card col -->
 <!-- PAINEL image -->
-![Iimagem de filhotes de tigres albinos](assets/chines/chines-white.jpg)
+![Iimagem de filhotes de tigres albinos](assets/chines/ikc-white.jpg)
 <!-- /PAINEL image -->
 <!-- PAINEL text -->
 ### 白河 — Bái Hé, Rio Branco
@@ -68,7 +68,7 @@
 
 <!-- PAINEL card col -->
 <!-- PAINEL image -->
-![imagens do planeta visto de satélite durante a noite, com os pontos de luz acesos. lembra lapiz-lazuli com linhas de pirita](assets/chines/chines-black.jpg)
+![imagens do planeta visto de satélite durante a noite, com os pontos de luz acesos. lembra lapiz-lazuli com linhas de pirita](assets/chines/ikc-black.jpg)
 <!-- /PAINEL image -->
 <!-- PAINEL text -->
 ### 黑河 — Hēi Hé, Rio Preto
