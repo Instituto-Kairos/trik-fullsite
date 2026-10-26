@@ -1,4 +1,4 @@
-# Covens [WIP]
+# Covens
 *Manuscrito redigido por Cailean Reulbheag e Gwynlais Stêrc'hlas.*
 <!-- CONTENT -->
 

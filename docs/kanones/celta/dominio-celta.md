@@ -94,12 +94,12 @@
 12. **Tarvos Trigaranus**: ele não é um deus, mas é nosso touro sagrado acompanhamento de três garças. Acreditamos que ele tem uma forma humana e é pai de incriveis guerreiros de nossas terras, que lutaram durante a invasão. Também acreditamos que ele seja responsavel por manter nossas florestas cheias de vida, como um protetor da fauna e da flora;
 13. **Sulis**: associada a cura, águas termais e o sol, sofreu Síntese com Minerva. Por causa das percas em nossas tradições, sua forma foi abstraida, não sendo mais possivel a ver desde a Invasão Romana;
 
-### A Síntese
+## A Síntese
 
 ㅤㅤㅤ ㅤAcredito que um pequeno informativo deve ser feito: Síntese é o processo que acontece com o fenômeno que chamamos de "*interpretatio*". Decidimos dar um nome latim pelo nosso contexto histórico. Quando um povo de outra crença chega até a sua e reinterpreta sua fé, dando a ela o nome dos deuses deles e resumindo as suas histórias a versões das histórias deles, os deuses sofrem com a Síntese, ou seja, começam a se mesclar em um só ser como eles fizeram ao conhecer os mitos gregos, sintetizando seus panteões a ponto de serem mundialmente conhecidos como greco-romano. O impacto disso é a mesclagem nas linhas ley, fazendo que suas energias se fundam e viram um só ser com duas ou mais faces. A Sintese é a metamorfose dos deuses.
 ㅤㅤㅤ ㅤExiste dois tipos: a Balanceada e a Dominante. Na Balanceada, as duas entidades entram em harmonia e conseguem ser tanto uma quanto outra. A Dominante, por outro lado, um dos lados toma conta da forma e o outro é abstraido, perdendo, então, a existência física para o lado que a dominou.
 
-### Nossos agrupamentos
+## Nossos agrupamentos
 
 ㅤㅤㅤ ㅤAtualmente, a gente se reune em Vilarejos. Fazemos grupos de três a cinco familias, moramos como vizinhos em um mesmo local. Algumas dessas Vilarejos são formadas dentro de cidades, com as familias morando na mesma rua, prédio ou condominio, e chamamos elas de Novos Vilarejos. Os Vilarejos, originais, são feitas longe da cidade, com as familias construindo suas próprias casas.
 
