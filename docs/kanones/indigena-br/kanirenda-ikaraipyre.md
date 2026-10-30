@@ -15,10 +15,12 @@
 
 ## Nosso dialeto
 ㅤㅤㅤ ㅤÉ uma mistura viva. Tem guarani, gê, tupi e outros dialetos. Para facilitar o entendimento, segue um pequeno dicionário de nossas palavras e seus usos:
+</br></br>
+ㅤㅤㅤ ㅤ**Ava**: literalmente "povo", é como chamamos o coletivo de pessoas que dividem uma cultura;
 
-**Ava**: literalmente "povo", é como chamamos o coletivo de pessoas que dividem uma cultura;
-**Kuben**: "não indigena", usado para falar de coisas que não pertencem ao nosso povo, mas não usamos diretamente para falar de pessoas;
-**Kirahi**: "não indigena", usado para falar de pessoas que não pertencem ao nosso povo, usado diretamente com pessoas. Não recebe o sufixo "-gua" por não ser um gentilico. 
+ㅤㅤㅤ ㅤ**Kuben**: "não indigena", usado para falar de coisas que não pertencem ao nosso povo, mas não usamos diretamente para falar de pessoas;
+
+ㅤㅤㅤ ㅤ**Kirahi**: "não indigena", usado para falar de pessoas que não pertencem ao nosso povo, usado diretamente com pessoas. Não recebe o sufixo "-gua" por não ser um gentilico. 
 ㅤㅤㅤ ㅤ
 
 <br><br>

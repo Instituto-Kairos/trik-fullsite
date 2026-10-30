@@ -44,7 +44,7 @@ export const pages = {
         title: "Domínio Egípcio"
     },
 
-    "indigena/kanirenda-ikaraipyre": {
+    "indigena-br/kanirenda-ikaraipyre": {
         file: "kanones/indigena-br/kanirenda-ikaraipyre",
         title: "Kanirenda Ikaraipyre — Domínio Indígena Brasileiro"
     },

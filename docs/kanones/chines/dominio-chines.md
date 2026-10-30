@@ -26,7 +26,7 @@
 ㅤㅤㅤ ㅤDentro da Academia, cada linhagem criada pelos Cinco Dragões dá origem a uma vertente de ensinos, que são chamadas de *河 — Rios*.
 
 <!-- PAINEL principal row-->
-<!-- PAINEL card col -->
+<!-- PAINEL card col chines -->
 <!-- PAINEL image -->
 ![imagem de luminárias chinesas vermelhas](assets/chines/ikc-red.jpg)
 <!-- /PAINEL image -->
@@ -34,9 +34,9 @@
 ### 赤河 — Chì Hé, Rio Vermelho
 ㅤㅤㅤ ㅤOs *赤弟子 — Chì Dìzǐ*, "Discípulos Vermelhos", são conhecidos pela sua estrategia de batalha. Apelidados de Soldados Vermelhos pelo Governo, tem como função ser a linha de frente contra ataques de "demônios" no pais. Suas cores são o vermelho e normalmente treinam com *龙泉剑 — lóngquán jiàn*, "espada da Nascente do Dragão", se tornando eximios espadachins com essa arma.
 <!-- /PAINEL text-->
-<!-- /PAINEL card col-->
+<!-- /PAINEL card col chines-->
 
-<!-- PAINEL card col -->
+<!-- PAINEL card col chines -->
 <!-- PAINEL image -->
 ![imagem de moedas chinesas azuis](assets/chines/ikc-blue.jpg)
 <!-- /PAINEL image -->
@@ -44,9 +44,9 @@
 ### 青河 — Qīng Hé, Rio Azul
 ㅤㅤㅤ ㅤOs *青弟子 — Qīng Dìzǐ*, "Discípulos Azuis", são conhecidos como os mais inteligentes. Espadachins estrategicos e especialistas em diplomacia, tendem a ser os alunos que se apresentam em eventos formais por ter uma postura melhor e conseguir lidar com o público da melhor forma.
 <!-- /PAINEL text-->
-<!-- /PAINEL card col-->
+<!-- /PAINEL card col chines-->
 
-<!-- PAINEL card col -->
+<!-- PAINEL card col chines -->
 <!-- PAINEL image -->
 ![imagem de uma construção chinesa com tons de amarelo](assets/chines/ikc-yellow.jpg)
 <!-- /PAINEL image -->
@@ -54,9 +54,9 @@
 ### 黄河 — Huáng Hé, Rio Amarelo
 ㅤㅤㅤ ㅤOs *黄弟子 — Huáng Dìzǐ*, "Discípulos Amarelos", são conhecidos pelo seu poder superior. Sendo o grupo de elite de defesa e recebem as melhores bonificações do governo chinês. É a escola com menos alunos e mesmo com o espaço de gerações entre um e outro, eles são tratados como realeza — o que os torna um pouco... mimados.
 <!-- /PAINEL text-->
-<!-- /PAINEL card col-->
+<!-- /PAINEL card col chines-->
 
-<!-- PAINEL card col -->
+<!-- PAINEL card col chines -->
 <!-- PAINEL image -->
 ![Iimagem de filhotes de tigres albinos](assets/chines/ikc-white.jpg)
 <!-- /PAINEL image -->
@@ -64,9 +64,9 @@
 ### 白河 — Bái Hé, Rio Branco
 ㅤㅤㅤ ㅤOs *白弟子 — Bái Dìzǐ*, "Discípulos Brancos", são os mais doces e calmos dentro os díscipulos. São muito educados e levam uma vida praticamente normal tirando suas aulas na academia. Sendo o grupo mais populoso de alunos, é mais fácil para eles não seguirem com o serviço para o governo após a conclusão dos estudos.
 <!-- /PAINEL text-->
-<!-- /PAINEL card col-->
+<!-- /PAINEL card col chines-->
 
-<!-- PAINEL card col -->
+<!-- PAINEL card col chines -->
 <!-- PAINEL image -->
 ![imagens do planeta visto de satélite durante a noite, com os pontos de luz acesos. lembra lapiz-lazuli com linhas de pirita](assets/chines/ikc-black.jpg)
 <!-- /PAINEL image -->
@@ -74,7 +74,7 @@
 ### 黑河 — Hēi Hé, Rio Preto
 ㅤㅤㅤ ㅤOs *黑弟子 — Hēi Dìzǐ*, "Discípulos Pretos", são conhecidos por agirem as sombras. Sendo o mais próximo de *暗卫 — Ànwèi* da Academia, quase não são vistos em público e são os únicos a terem sua identidade e de sua família privadas.
 <!-- /PAINEL text-->
-<!-- /PAINEL card col-->
+<!-- /PAINEL card col chines-->
 <!-- /PAINEL principal row-->
 
 <!-- FOOTER -->
