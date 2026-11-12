@@ -165,26 +165,26 @@ Você ajuda na formação de pessoas OU você dedica integralmente sua vida aos 
 ## Graduações
 ㅤㅤㅤ ㅤAssim como as maestrias, as graduações são focadas nas aulas dadas dentro do Instituto. Elas servem para fornecer para você, jogador, informações que serão úteis durante missões e dando justificativa in-game para seu personagem ter acesso a elas, sem precisar que todas as histórias dependam de origens parecidas para justificar certas informações. A cada cinco níveis de personagem é desbloqueado a próxima categoria.
 
-| MATERIA | CATEGORIA | DESCRIÇÃO | QUANTIDADE DE AULAS |
-| :--                  | :--: | :--       | :--:                |
-| Geografia/Astrologia | Aula Básica | Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. | 10 |
-| Idiomas I | Aula Básica | Todas as opções, é preciso assistir cinco aulas de idiomas para dominar o básico da língua escolhida. | 5 |
+| MATERIA                                   | CATEGORIA | DESCRIÇÃO | QUANTIDADE DE AULAS |
+| :--                                       | :--: | :--       | :--:                |
+| Geografia/Astrologia                      | Aula Básica | Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. | 10 |
+| Idiomas I                                 | Aula Básica | Todas as opções, é preciso assistir cinco aulas de idiomas para dominar o básico da língua escolhida. | 5 |
 | História, Artes, Literatura e Arqueologia | Aula Básica | Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. | 10 |
-| Biologia e Bestiário | Aula Básica | Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. | * |
-| Técnicas de Sobrevivência | Aula Básica | Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova. | 10 |
-| Primeiros Socorros| Aula Básica | Ensina cuidados básicos para ferimentos de até médio porte. | 15 |
-| Herbologia I | Aula Comuns | O aluno aprende a criar remédios com plantas. Duas aulas por poção. | * |
-| Esgrima | Aula Comuns | É uma aula para treino de técnicas. Se torna mestre de espadas de esgrima ao concluir a matéria. Dá de recompensa uma passiva de "Boa Postura", onde precisa de uma cena a menos para maestrias enquanto tutorado por alguém. | 12 |
-| Magia | Aula Comuns | Pode ser feita apenas duas vezes na semana em dias intercalados. | 20 |
-| Herbologia II | Aula Avançada | Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita. | * |
-| Idiomas II | Aula Avançada | Assistindo sete aulas, seu personagem pode dominar uma idioma que conhece o básico. | 7 |
-| Socorros Avançados | Aula Avançada | O aluno é preparado para lidar com emergências médicas e cuidados especializados | 15 |
-| Informática, Programação e Elétrica | Aula Avançada | Programação e cuidados eletrônicos. Muito útil para assuntos além de combates e essencial para empregos mundanos. | 15 |
-| Criação de Explosivos | Aula Avançada | Os alunos aprendem a criar um explosivo a cada 5 aulas. | * |
-| Técnico em Enfermagem | Estudo Avançado | Curso completo para conhecimento técnico em Enfermagem. | 20  |
-| Técnico em Química | Estudo Avançado | Curso completo para conhecimento técnico em Química. | 20  |
-| Licenciatura | Estudo Avançado | Curso completo para formar novos professores. | 20  |
-| Magia | Estudo Avançado | Acesso a magias mais especializadas e de maior dificuldade. | 20  |
+| Biologia e Bestiário                      | Aula Básica | Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. | * |
+| Técnicas de Sobrevivência                 | Aula Básica | Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova. | 10 |
+| Primeiros Socorros                        | Aula Básica | Ensina cuidados básicos para ferimentos de até médio porte. | 15 |
+| Herbologia I                              | Aula Comuns | O aluno aprende a criar remédios com plantas. Duas aulas por poção. | * |
+| Esgrima                                   | Aula Comuns | É uma aula para treino de técnicas. Se torna mestre de espadas de esgrima ao concluir a matéria. Dá de recompensa uma passiva de "Boa Postura", onde precisa de uma cena a menos para maestrias enquanto tutorado por alguém. | 12 |
+| Magia                                     | Aula Comuns | Pode ser feita apenas duas vezes na semana em dias intercalados. | 20 |
+| Herbologia II                             | Aula Avançada | Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita. | * |
+| Idiomas II                                | Aula Avançada | Assistindo sete aulas, seu personagem pode dominar uma idioma que conhece o básico. | 7 |
+| Socorros Avançados                        | Aula Avançada | O aluno é preparado para lidar com emergências médicas e cuidados especializados | 15 |
+| Informática, Programação e Elétrica       | Aula Avançada | Programação e cuidados eletrônicos. Muito útil para assuntos além de combates e essencial para empregos mundanos. | 15 |
+| Criação de Explosivos                     | Aula Avançada | Os alunos aprendem a criar um explosivo a cada 5 aulas. | * |
+| Técnico em Enfermagem                     | Estudo Avançado | Curso completo para conhecimento técnico em Enfermagem. | 20  |
+| Técnico em Química                        | Estudo Avançado | Curso completo para conhecimento técnico em Química. | 20  |
+| Licenciatura                              | Estudo Avançado | Curso completo para formar novos professores. | 20  |
+| Magia                                     | Estudo Avançado | Acesso a magias mais especializadas e de maior dificuldade. | 20  |
 
 
 *novas aulas serão adicionadas futuramente.*
@@ -195,26 +195,93 @@ Você ajuda na formação de pessoas OU você dedica integralmente sua vida aos 
 ## Condutas
 ㅤㅤㅤ ㅤUma conduta serve para definir como seu personagem toma decisões. Isso ajuda a manter a conscistência e saber como conduzir ele pelas aventuras que irá viver. O que guia seu personagem? Quando ele precisa tomar uma decisão, de onde ela vem?
 
-### do meu Corpo
+<!-- PAINEL principal row-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/conduta-corpo.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
+
+### do meu Corpo 
+
 ㅤㅤㅤ ㅤVocê sente fluindo pelo seu sangue, esquentando seus músculos, decisões para você requer ação. As vezes, ele age antes de você notar, avançando, recuando, derrubando algo, quebrando algo, levando você para uma caminhada. Estar vivo é estar em movimento. Você tem um instinto, uma arrepio pela sua coluna que te diz o que é certo e o que é errado, seu corpo reconhece o perigo antes de seus olhos o ferem.
 
-### do meu Coração
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/conduta-coracao.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
+
+### do meu Coração 
+
 ㅤㅤㅤ ㅤVocê sente. Sente mesmo, de verdade, às vezes até demais. Às vezes a emoção é tanta que faz seu corpo fazer coisas que você não achava que era capaz, e pode te levar a lugares que sua mente não consiga olhar de tanta vergonha depois. Existe uma chama ardendo em seu peito. Estar vivo é sentir. O músculo mais forte que seu corpo possui: seu coração.
 
-### da minha Mente
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/conduta-mente.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
+
+### da minha Mente 
+
 ㅤㅤㅤ ㅤVocê chega a conclusões lógicas. Analista, observador, prático e racional. Você tem um conjunto de experiências para analisar e chegar a conclusões baseadas em fatos. Você toma decisões onde elas deveriam ser tomadas: na sua cabeça, pesando consequências, dosando riscos. 
+
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+<!-- /PAINEL principal row-->
 
 ## Princípios
 ㅤㅤㅤ ㅤApós entender onde seu personagem toma as decisões que precisa fazer, é hora de entender o que o levaria a tomar decisões. Qual a regua moral que ele usa? Qual a balança está sendo usada para pesar suas ações e, principalmente, a dos outros? O que seu personagem tem como ideal? O que ele define por sucesso?
+vo, algo para contribuir e uma missão a cumprir. Perder essa função, para você, é o mesmo que te destruirem.
+
+<!-- PAINEL principal row-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/principio-proposito.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
 
 ### O Propósito
+
 ㅤㅤㅤ ㅤConvicto, você tem um código de conduta muito bem definido. Sabe onde está e para onde quer ir e consegue visualizar um caminho para chegar lá. As coisas são meio preto e branco para você, ou estão acertas ou não estão. Você também acredita que tudo nessa vida tem um motivo, algo para contribuir e uma missão a cumprir. Perder essa função, para você, é o mesmo que te destruirem.
 
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/principio-sangue.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
+
 ### O Sangue
+
 ㅤㅤㅤ ㅤIntenso, você confia cegamento em suas emoções. Se algo não faz você se sentir bem, não vale a pena. Não aceita estar em posições desconfortáveis e mesmo que você não entenda e não faça sentido, você confia na sua intuição. Ser obrigado a seguir opções que não te parecem certas te chatea profundamente. Você acredita que não existe arrependimentos, que cada decisão tomada te moldou até o momento.
 
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+
+<!-- PAINEL card trio col -->
+<!-- PAINEL image -->
+![imagem de luminárias chinesas vermelhas](assets/system/principio-presenca.png)
+<!-- /PAINEL image -->
+<!-- PAINEL text -->
+
 ### A Presença
+
 ㅤㅤㅤ ㅤExpansivo, você quer o melhor resultado de tudo. Fama, sucesso, prestigio. Você busca os caminhos mais recompensadores. Você se importa com sua reputação, com sua imagem, com como você é visto, afinal, a impressão que você deixa nas pessoas é o que vai decidir suas oportunidades, e você quer as melhores. A desonra e vergonha são medos palpáveis e você não entende quem toma decisões sem se preocupar com as portas que serão fechadas.
+
+<!-- /PAINEL text-->
+<!-- /PAINEL card trio col-->
+<!-- /PAINEL principal row-->
 
 ## Bonificadores
 
@@ -274,18 +341,16 @@ Você ajuda na formação de pessoas OU você dedica integralmente sua vida aos 
 ## Passes
 ㅤㅤㅤ ㅤSabendo a realidade de cada um e visando ser um projeto para entreterimento que não deve, nunca, se tornar uma obrigação, temos os passes para maior equidade na hora de medir o empenho com os personagens. Os passes podem ser usadas em janelas especificas, tudo é na base do dialogo e combinado.
 
-### Passe Estudantil
-ㅤㅤㅤ ㅤEm semanas de provas, avaliações ou maior demanda em trabalhos, o jogador pode ser liberado de realizar cenas e a semana não será considerada "inativa". Porém, caso o requisito seja apenas uma única semana para upar (níveis iniciais), não poderá ser usado se for o primeiro personagem a passar por esse marco, visto que pode prejudicar a experiência do jogador;
-
-### Passe Trabalhista
-ㅤㅤㅤ ㅤCaso você trabalhe, os requisitos de aula/maestria podem ser alternados para o foco do seu personagem. Se você precisava subir 1 nível de maestria e 1 nível em qualquer aula para evoluir, ter feito a quantidade minima de cenas e subido qualquer um dos dois já fará a semana contar como ativa. Novamente, isso não serve para semanas unicas para não atrapalhar o nivelamento do jogo;
-
-### Passe Múltiparo
-ㅤㅤㅤ ㅤCaso você tenha mais de um personagem, você tem que pagar apenas 50% dos requisitos de um dos personagens. Atenção: caso um desses personagens seja sempre deixado de lado, você talvez não consiga fichar outros por não estar apto a dividir sua atenção e desenvolver ambos os personagens.
+| Passe         | Bônus    | Requisito                                  | 
+| :--:          | :--      | :--                                        |
+| Estudantil    | 1.50x    | Estar em época de trabalhos ou provas      |
+| Trabalhista 1 | 1.50x    | Trabalhar CLT, na escala 5x2, 8h ao dia    |
+| Trabalhista 2 | 1.75x    | Trabalhar CLT, na escala 6x1, 8h ao dia    |
+| Múltiparo     | 1.40x    | Ter mais de um personagem                  |
 
 
 ## Requisitos para Subir de Nível
-ㅤㅤㅤ ㅤPara conseguir upar, você precisa concluir os requisitos semanais. Tem minimo de semanas IRL e IN-Game, número de cenas que deve ser feitas assistindo aulas, treinos, fazendo tarefas e trabalhos dentro da comunidade e o total de cenas. O total de cenas na semana sempre conta as cenas obrigatórios em treinos, aulas, tarefas ou trabalhos somado a cenas livres, que podem ser pagas realizando qualquer cena com o personagem.
+ㅤㅤㅤ ㅤO sistema de UP foi automatizado com conta de XP automatico pelas cenas produzidas. Cada 500 caracteres gera 10 pontos de XP e cenas acima de 800 caracteres recebem um bônus de 80%, ou seja, é multiplicado por 1.8x ao final da conta base (cena/500 * 10). Além do XP, existe requisitos de maestria e aulas assistidas.
 
 
 | Nível | Requisitos | Recompensa |

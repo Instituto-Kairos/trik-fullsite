@@ -13,7 +13,7 @@
 
 <!-- PAINEL principal row-->
 
-<!-- PAINEL card japones col -->
+<!-- PAINEL card trio col -->
 <!-- PAINEL image -->
 ![imagem de luminárias chinesas vermelhas](assets/japones/ikj-sun.png)
 <!-- /PAINEL image -->
@@ -38,9 +38,9 @@
 10. **前田 — Maeda** 
 
 <!-- /PAINEL text-->
-<!-- /PAINEL card japones col-->
+<!-- /PAINEL card trio col-->
 
-<!-- PAINEL card japones col -->
+<!-- PAINEL card trio col -->
 <!-- PAINEL image -->
 ![imagem de luminárias chinesas vermelhas](assets/japones/ikj-sea.png)
 <!-- /PAINEL image -->
@@ -64,9 +64,9 @@
 10. **河内 — Kawachi**      
 
 <!-- /PAINEL text-->
-<!-- /PAINEL card japones col-->
+<!-- /PAINEL card trio col-->
 
-<!-- PAINEL card japones col -->
+<!-- PAINEL card trio col -->
 <!-- PAINEL image -->
 ![imagem de luminárias chinesas vermelhas](assets/japones/ikj-moon.png)
 <!-- /PAINEL image -->
@@ -90,7 +90,7 @@
 10. **北条 — Hōjō**     
 
 <!-- /PAINEL text-->
-<!-- /PAINEL card japones col-->
+<!-- /PAINEL card trio col-->
 <!-- /PAINEL principal row-->
 
 <!-- FOOTER -->

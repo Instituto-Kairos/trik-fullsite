@@ -474,12 +474,12 @@ tr:nth-child(even) {
     align-self: stretch;
 }
 
-.content .principal .card.chines {
+.content .principal .card.penta {
     flex: 0 0 calc(20% - 8px);
     box-sizing: border-box;
 }
 
-.content .principal .card.japones {
+.content .principal .card.trio {
     flex: 0 0 calc(25% - 8px);
     box-sizing: border-box;
 }

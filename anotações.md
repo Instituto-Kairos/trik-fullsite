@@ -197,3 +197,36 @@ YORUBA
 | 35 | **Ariwara**      | 在原    | 🌙 Lua / poesia          | nome de lugar/linhagem          | Kyoto                   | ⭐⭐⭐⭐                 |
 | 43 | **Takeda**       | 武田    | 🌙 Lua / guerra          | “campo guerreiro”               | Kai                     | ⭐⭐⭐⭐⭐                |
 | 46 | **Hōjō**         | 北条    | 🌙 Lua / governo         | “faixa norte”                   | Kantō                   | ⭐⭐⭐⭐⭐                |
+
+
+## AULAS BASICAS
+| MATERIA                                   | DESCRIÇÃO | QUANTIDADE DE AULAS |
+| :--                                       | :--:                |
+| Geografia/Astrologia                      | Seu personagem saberá usar mapas, reconhecer biomas e se guiar por estrelas. | 10 |
+| Idiomas I                                 | Todas as opções, é preciso assistir cinco aulas de idiomas para dominar o básico da língua escolhida. | 5 |
+| História, Artes, Literatura e Arqueologia | Seu personagem domina a história clássica da mitologia escolhida para aprender, necessário cinco aulas para dominar uma mitologia. Ao dominar uma Mitologia, pode reconhecer entidades, estátuas, obras de artes e saber a origem de seu inimigo. | 10 |
+| Biologia e Bestiário                      | Reconhece frutas e espécies de monstros. É preciso estudar sobre cada monstro uma vez para dominar seus pontos fortes e fracos. | * |
+| Técnicas de Sobrevivência                 | Necessário estudo para saber como se virar em situações como estar perdido e não ter recursos atuais para se virar. A cada aula, o aluno aprende uma coisa nova. | 10 |
+| Primeiros Socorros                        | Ensina cuidados básicos para ferimentos de até médio porte. | 15 |
+
+## AULAS COMUNS
+| Herbologia I                              | O aluno aprende a criar remédios com plantas. Duas aulas por poção. | * |
+| Esgrima                                   | É uma aula para treino de técnicas. Se torna mestre de espadas de esgrima ao concluir a matéria. Dá de recompensa uma passiva de "Boa Postura", onde precisa de uma cena a menos para maestrias enquanto tutorado por alguém. | 12 |
+| Magia                                     | Pode ser feita apenas duas vezes na semana em dias intercalados. | 20 |
+
+## AULAS AVANÇADAS
+| Herbologia II                             | Capacidade de criar antídotos e venenos. 3 aulas para cada poção feita. | * |
+| Idiomas II                                | Assistindo sete aulas, seu personagem pode dominar uma idioma que conhece o básico. | 7 |
+| Socorros Avançados                        | O aluno é preparado para lidar com emergências médicas e cuidados especializados | 15 |
+| Informática, Programação e Elétrica       | Programação e cuidados eletrônicos. Muito útil para assuntos além de combates e essencial para empregos mundanos. | 15 |
+| Criação de Explosivos                     | Os alunos aprendem a criar um explosivo a cada 5 aulas. | * |
+| Iniciação a Forja		                    | Os alunos aprendem a criar um explosivo a cada 5 aulas. | * |
+
+## ESTUDO AVANÇADO
+| Técnico em Enfermagem                     | Curso completo para conhecimento técnico em Enfermagem. | 20  |
+| Técnico em Química                        | Curso completo para conhecimento técnico em Química. | 20  |
+| Licenciatura                              | Curso completo para formar novos professores. | 20  |
+| Magia                                     | Acesso a magias mais especializadas e de maior dificuldade. | 20  |
+
+
+Dane DeHaan — o ocultista
